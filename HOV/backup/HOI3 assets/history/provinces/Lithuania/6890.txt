@@ -1,0 +1,11 @@
+owner = LIT
+controller = LIT
+add_core = LIT
+points = 12
+terrain = urban
+infra = 8
+air_base = 1
+land_fort = 3
+2004.5.1 = {
+    add_core = EUU
+}

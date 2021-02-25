@@ -1,0 +1,10 @@
+owner = NZL
+controller = NZL
+add_core = NZL
+points = 12
+terrain = urban
+infra = 7
+air_base = 5
+leadership = 4.00
+naval_base = 3
+manpower = 3.00

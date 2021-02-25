@@ -1,0 +1,4 @@
+owner = KYG
+controller = KYG
+add_core = KYG
+infra = 1

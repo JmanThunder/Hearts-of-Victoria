@@ -1,0 +1,4 @@
+owner = BLR
+controller = BLR
+add_core = BLR
+infra = 5

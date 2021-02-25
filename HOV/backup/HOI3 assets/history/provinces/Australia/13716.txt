@@ -1,0 +1,9 @@
+owner = AST
+controller = AST
+add_core = AST
+infra = 7
+air_base = 5
+naval_base = 1
+industry = 7
+energy = 5.00
+leadership = 3.00

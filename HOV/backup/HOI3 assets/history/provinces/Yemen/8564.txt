@@ -1,0 +1,7 @@
+owner=YEM
+controller=YEM
+add_core=YEM
+terrain = urban
+infra = 4
+leadership = 3.00
+manpower = 6.00

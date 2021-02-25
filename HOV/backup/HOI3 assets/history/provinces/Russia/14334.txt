@@ -1,0 +1,7 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = JAP
+air_base = 1
+infra = 2
+crude_oil = 10.00

@@ -1,0 +1,4 @@
+owner = BUR
+controller = BUR
+add_core = BUR
+infra = 4

@@ -1,0 +1,7 @@
+owner=POL
+controller=POL
+add_core=POL
+terrain = urban
+infra = 7
+points = 7
+land_fort = 3

@@ -1,0 +1,6 @@
+owner=OMN
+controller=OMN
+add_core=OMN
+infra = 4
+leadership = 3.00
+industry = 3

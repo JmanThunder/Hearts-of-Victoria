@@ -1,0 +1,7 @@
+owner = CHC
+controller = CHC
+add_core = CHC
+add_core = TWN
+infra = 7
+naval_base = 4
+land_fort = 3

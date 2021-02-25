@@ -1,0 +1,5 @@
+owner = ALB
+controller = ALB
+add_core = ALB
+infra = 5
+land_fort = 3

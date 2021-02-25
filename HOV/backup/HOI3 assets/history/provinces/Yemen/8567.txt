@@ -1,0 +1,7 @@
+owner=YEM
+controller=YEM
+add_core=YEM
+infra = 3
+naval_base = 1
+points = 5
+manpower = 6.00

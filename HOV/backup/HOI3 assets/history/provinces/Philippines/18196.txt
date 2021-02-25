@@ -1,0 +1,5 @@
+owner = PHI
+controller = PHI
+add_core = PHI
+add_core = CHC
+infra = 2

@@ -1,0 +1,4 @@
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+infra = 2

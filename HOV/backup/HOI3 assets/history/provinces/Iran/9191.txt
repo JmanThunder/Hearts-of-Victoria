@@ -1,0 +1,7 @@
+owner = PER
+controller = PER
+add_core = PER
+infra = 3
+industry = 3
+energy = 25.00
+manpower = 5.00

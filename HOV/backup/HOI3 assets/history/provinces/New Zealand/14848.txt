@@ -1,0 +1,8 @@
+owner = NZL
+controller = NZL
+add_core = NZL
+infra = 5
+energy = 5.00
+2000.1.1 = {
+	infra = 2
+}

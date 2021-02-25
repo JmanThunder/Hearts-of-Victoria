@@ -1,0 +1,11 @@
+owner = IRQ
+controller = IRQ
+add_core = IRQ
+infra = 4
+
+2005.5.3 = {
+owner = DIR
+controller = DIR
+add_core = DIR
+remove_core = IRQ
+}

@@ -1,0 +1,10 @@
+owner = COL
+controller = COL
+add_core = COL
+points = 12
+terrain = urban
+infra = 7
+air_base = 5
+industry = 6
+manpower = 10.00
+leadership = 10.00

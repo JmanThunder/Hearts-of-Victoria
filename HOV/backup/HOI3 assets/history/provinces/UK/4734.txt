@@ -1,0 +1,8 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+terrain = urban
+infra = 8
+points = 3
+naval_base = 5
+leadership = 2.50

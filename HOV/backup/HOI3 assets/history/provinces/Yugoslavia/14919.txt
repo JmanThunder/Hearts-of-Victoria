@@ -1,0 +1,6 @@
+owner = CRO
+controller = CRO
+add_core = CRO
+infra = 6
+naval_base = 3
+land_fort = 3

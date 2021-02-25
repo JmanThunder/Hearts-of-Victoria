@@ -1,0 +1,30 @@
+owner = ISA
+controller = ISA
+add_core = IEA
+add_core = ISA
+infra = 4
+
+2000.1.1 = {
+    owner = ISA
+    controller = ISA
+    add_core = IEA
+    add_core = ISA
+    infra = 2
+}
+
+2001.10.7 = {
+    owner = ISA
+    controller = ISA
+    add_core = IEA
+    add_core = ISA
+    infra = 2
+}
+
+2002.6.6 = {
+    owner = AFG
+    controller = AFG
+    add_core = AFG	
+    add_core = PAK	
+	remove_core = ISA
+    infra = 2
+}

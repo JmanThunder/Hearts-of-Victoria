@@ -1,0 +1,6 @@
+owner = PER
+controller = PER
+add_core = PER
+terrain = urban
+infra = 2
+points = 10

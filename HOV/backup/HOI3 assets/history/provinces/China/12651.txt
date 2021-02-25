@@ -1,0 +1,12 @@
+owner = CHC
+controller = CHC
+add_core = CHC
+add_core = TWN
+infra = 9
+terrain = urban
+points = 7
+air_base = 1
+industry = 5
+energy = 10.00
+manpower = 100.00
+leadership = 5.00

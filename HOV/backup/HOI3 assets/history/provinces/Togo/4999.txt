@@ -1,0 +1,5 @@
+owner = TOG
+controller = TOG
+add_core = TOG
+infra = 4
+naval_base = 1

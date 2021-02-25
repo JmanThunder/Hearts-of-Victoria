@@ -1,0 +1,5 @@
+owner=TWN
+controller=TWN
+add_core=TWN
+add_core=CHC
+infra = 7

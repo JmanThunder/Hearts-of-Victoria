@@ -1,0 +1,13 @@
+owner = AUS
+controller = AUS
+add_core = AUS
+add_core = EUU
+terrain = urban
+infra = 9
+air_base = 5
+industry = 6
+leadership = 4.00
+manpower = 3.00
+energy = 9.00
+points = 12
+land_fort = 3

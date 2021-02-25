@@ -1,0 +1,8 @@
+owner = MAL
+controller = MAL
+add_core = MAL
+add_core = UNN
+infra = 4
+manpower = 6.00
+
+2003.03.15 = { remove_core = UNN } 

@@ -1,0 +1,8 @@
+owner = NEP
+controller = NEP
+add_core = NEP
+infra = 4
+air_base = 1
+manpower = 9.00
+leadership = 3.00
+points = 12

@@ -1,0 +1,5 @@
+owner=GHN
+controller=GHN
+add_core=GHN
+infra = 4
+energy = 4.00

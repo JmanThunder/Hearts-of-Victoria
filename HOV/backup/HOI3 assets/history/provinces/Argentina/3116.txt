@@ -1,0 +1,6 @@
+owner = ARG
+controller = ARG
+add_core = ARG
+infra = 6
+industry = 3
+manpower = 4.00

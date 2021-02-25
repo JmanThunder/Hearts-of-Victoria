@@ -1,0 +1,5 @@
+owner = TON
+controller = TON
+add_core = TON
+infra = 5
+naval_base = 1

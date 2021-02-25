@@ -1,0 +1,27 @@
+owner = UNN
+controller = UNN
+add_core = SRM
+add_core = SER
+add_core = KOS
+infra = 2
+manpower = 1.00
+2000.1.1 = {
+    owner = UNN
+    controller = UNN
+    add_core = SRM
+    add_core = SER
+	add_core = KOS
+    infra = 2
+}
+
+2006.6.5 = {
+   remove_core = SRM
+}
+
+2008.2.17 = {
+	owner = KOS
+    controller = KOS
+    add_core = KOS
+	add_core = SER
+    infra = 2
+}

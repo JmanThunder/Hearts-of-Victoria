@@ -1,0 +1,6 @@
+owner = NIG
+controller = NIG
+add_core = NIG
+add_core = CAM
+infra = 4
+naval_base = 1

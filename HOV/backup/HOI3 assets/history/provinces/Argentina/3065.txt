@@ -1,0 +1,6 @@
+owner = ARG
+controller = ARG
+add_core = ARG
+infra = 4
+manpower = 4.00
+crude_oil = 5.00

@@ -1,0 +1,6 @@
+owner = GUB
+controller = GUB
+add_core = GUB
+infra = 4
+rare_materials = 2.00
+energy = 4.00

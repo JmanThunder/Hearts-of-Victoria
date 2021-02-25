@@ -1,0 +1,9 @@
+owner = SIA
+controller = SIA
+add_core = SIA
+infra = 4
+energy = 5.00
+manpower = 10.00
+2000.1.1 = {
+	infra = 2
+}

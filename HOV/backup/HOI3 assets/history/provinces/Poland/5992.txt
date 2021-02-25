@@ -1,0 +1,10 @@
+owner=POL
+controller=POL
+add_core=POL
+terrain = urban
+infra = 8
+air_base = 1
+points = 6
+industry = 2
+energy = 5.00
+manpower = 5.00

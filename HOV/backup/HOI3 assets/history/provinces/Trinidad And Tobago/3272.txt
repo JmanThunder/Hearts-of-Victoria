@@ -1,0 +1,5 @@
+owner=TRI
+controller=TRI
+add_core=TRI
+infra = 5
+naval_base = 1

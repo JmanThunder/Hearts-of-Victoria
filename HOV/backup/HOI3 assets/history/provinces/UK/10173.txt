@@ -1,0 +1,7 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+terrain = plains
+infra = 4
+naval_base = 1
+air_base = 1

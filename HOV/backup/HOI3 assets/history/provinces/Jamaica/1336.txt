@@ -1,0 +1,6 @@
+owner = JMC
+controller = JMC
+add_core = JMC
+infra = 5
+
+rare_materials = 5.00

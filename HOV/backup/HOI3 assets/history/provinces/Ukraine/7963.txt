@@ -1,0 +1,10 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+infra = 6
+industry = 1
+2014.4.7 = {
+owner = REB
+controller = REB
+add_core = UKR
+}

@@ -1,0 +1,5 @@
+owner = GAB
+controller = GAB
+add_core = GAB
+infra = 2
+naval_base = 1

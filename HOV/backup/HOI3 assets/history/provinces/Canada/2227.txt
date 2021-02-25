@@ -1,0 +1,7 @@
+owner = CAN
+controller = CAN
+add_core = CAN
+add_core = QUE
+terrain = urban
+infra = 5
+points = 5

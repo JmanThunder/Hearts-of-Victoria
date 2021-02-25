@@ -1,0 +1,4 @@
+owner = ISR
+controller = ISR
+add_core = ISR
+infra = 7

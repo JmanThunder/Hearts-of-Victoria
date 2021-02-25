@@ -1,0 +1,8 @@
+owner = ABK
+controller = ABK
+add_core = GEO
+infra = 3
+naval_base = 3
+energy = 4.00
+land_fort = 3
+points = 3

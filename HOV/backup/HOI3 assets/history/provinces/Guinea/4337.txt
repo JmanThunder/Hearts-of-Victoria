@@ -1,0 +1,6 @@
+owner = GUI
+controller = GUI
+add_core = GUI
+infra = 4
+metal = 10.00
+rare_materials = 10.00

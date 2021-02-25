@@ -1,0 +1,5 @@
+owner = SEN
+controller = SEN
+add_core = SEN
+infra = 4
+rare_materials = 2.00

@@ -1,0 +1,7 @@
+owner = PER
+controller = PER
+add_core = PER
+infra = 3
+naval_base = 4
+manpower = 5.00
+energy = 25.00

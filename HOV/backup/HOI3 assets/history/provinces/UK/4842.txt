@@ -1,0 +1,7 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+infra = 7
+air_base = 5
+metal = 5.00
+crude_oil = 5.00

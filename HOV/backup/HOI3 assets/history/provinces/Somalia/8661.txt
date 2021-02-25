@@ -1,0 +1,6 @@
+owner = SOM
+controller = SOM
+add_core = SOM
+infra = 4
+naval_base = 1
+rare_materials = 10.00

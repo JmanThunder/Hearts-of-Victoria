@@ -1,0 +1,4 @@
+owner = ZMB
+controller = ZMB
+add_core = ZMB
+infra = 2

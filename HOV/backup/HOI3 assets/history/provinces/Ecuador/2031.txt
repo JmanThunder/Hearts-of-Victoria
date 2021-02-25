@@ -1,0 +1,6 @@
+owner = ECU
+controller = ECU
+add_core = ECU
+infra = 4
+air_base = 1
+manpower = 6.00

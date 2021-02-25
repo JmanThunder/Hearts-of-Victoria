@@ -1,0 +1,6 @@
+owner = MIC
+controller = MIC
+add_core = MIC
+terrain = plains
+infra = 4
+naval_base = 1

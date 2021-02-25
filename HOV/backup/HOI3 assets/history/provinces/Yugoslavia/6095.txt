@@ -1,0 +1,5 @@
+owner = BOS
+controller = BOS
+add_core = BOS
+infra = 5
+naval_base = 1

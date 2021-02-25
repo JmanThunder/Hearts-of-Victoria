@@ -1,0 +1,9 @@
+owner = BGL
+controller = BGL
+add_core = BGL
+infra = 4
+manpower = 10.00
+energy = 4.00
+2000.1.1 = {
+	infra = 2
+}

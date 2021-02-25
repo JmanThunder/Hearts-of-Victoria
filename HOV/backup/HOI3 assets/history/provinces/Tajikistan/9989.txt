@@ -1,0 +1,6 @@
+owner = TAJ
+controller = TAJ
+add_core = TAJ
+points = 12
+terrain = urban
+infra = 4

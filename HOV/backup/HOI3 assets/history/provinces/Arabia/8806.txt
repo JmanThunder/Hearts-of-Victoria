@@ -1,0 +1,6 @@
+owner = SAU
+controller = SAU
+add_core = SAU
+infra = 2
+crude_oil = 21.00
+land_fort = 3

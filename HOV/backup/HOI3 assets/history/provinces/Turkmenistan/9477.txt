@@ -1,0 +1,6 @@
+owner = TRK
+controller = TRK
+add_core = TRK
+points = 12
+terrain = urban
+infra = 4

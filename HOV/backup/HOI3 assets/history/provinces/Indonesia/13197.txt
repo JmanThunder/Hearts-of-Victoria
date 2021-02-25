@@ -1,0 +1,5 @@
+owner = INO
+controller = INO
+add_core = INO
+infra = 4
+rare_materials = 5.00

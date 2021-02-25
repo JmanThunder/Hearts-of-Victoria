@@ -1,0 +1,4 @@
+owner = MAL
+controller = MAL
+add_core = MAL
+infra = 2

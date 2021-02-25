@@ -1,0 +1,8 @@
+owner = ALB
+controller = ALB
+add_core = ALB
+points = 12
+terrain = urban
+infra = 6
+naval_base = 1
+manpower = 3.00

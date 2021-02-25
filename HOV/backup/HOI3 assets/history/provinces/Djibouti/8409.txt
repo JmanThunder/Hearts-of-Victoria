@@ -1,0 +1,7 @@
+owner = DJI
+controller = DJI
+add_core = DJI
+infra = 6
+naval_base = 2
+energy = 4.00
+air_base = 1

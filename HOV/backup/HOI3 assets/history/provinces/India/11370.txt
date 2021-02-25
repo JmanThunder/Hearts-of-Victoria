@@ -1,0 +1,7 @@
+owner = IND
+controller = IND
+add_core = IND
+infra = 4
+energy = 3.00
+manpower = 20.00
+crude_oil = 4.00

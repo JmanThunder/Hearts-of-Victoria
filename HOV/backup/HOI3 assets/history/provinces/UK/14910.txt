@@ -1,0 +1,5 @@
+owner = SVG
+controller = SVG
+add_core = SVG
+infra = 4
+naval_base = 1

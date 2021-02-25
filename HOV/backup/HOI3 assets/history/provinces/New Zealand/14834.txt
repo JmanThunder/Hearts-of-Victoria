@@ -1,0 +1,11 @@
+owner = NZL
+controller = NZL
+add_core = NZL
+infra = 5
+crude_oil = 1.00
+naval_base = 3
+industry = 4
+energy = 4.00
+2000.1.1 = {
+	infra = 2
+}

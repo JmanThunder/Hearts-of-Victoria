@@ -1,0 +1,6 @@
+owner = HON
+controller = HON
+add_core = HON
+infra = 5
+air_base = 1
+points = 12

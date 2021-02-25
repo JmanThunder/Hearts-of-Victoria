@@ -1,0 +1,9 @@
+owner = SPA
+controller = SPA
+add_core = SPA
+terrain = urban
+infra = 8
+air_base = 1
+points = 9
+manpower = 5.00
+leadership = 5.00

@@ -1,0 +1,6 @@
+owner = SLL
+controller = SLL
+add_core = SOM
+infra = 2
+naval_base = 1
+rare_materials = 10.00

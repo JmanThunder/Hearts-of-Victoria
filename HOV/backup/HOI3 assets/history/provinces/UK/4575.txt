@@ -1,0 +1,8 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+add_core = GRT
+add_core = SPA
+infra = 8
+naval_base = 5
+air_base = 5

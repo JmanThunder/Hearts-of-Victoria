@@ -1,0 +1,11 @@
+owner = MOR
+controller = MOR
+add_core = MOR
+terrain = urban
+infra = 4
+naval_base = 4
+air_base = 5
+manpower = 8.00
+leadership = 3.00
+industry = 4
+points = 12

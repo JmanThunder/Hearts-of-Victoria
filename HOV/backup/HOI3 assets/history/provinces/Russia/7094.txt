@@ -1,0 +1,9 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = LAT
+terrain = urban
+infra = 6
+air_base = 10
+land_fort = 3
+2007.3.27 = { remove_core = LAT }

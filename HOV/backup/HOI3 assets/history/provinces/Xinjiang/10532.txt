@@ -1,0 +1,7 @@
+owner = CHC
+controller = CHC
+add_core = CHC
+add_core = TWN
+add_core = ETK
+infra = 1
+land_fort = 3

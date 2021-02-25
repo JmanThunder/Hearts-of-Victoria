@@ -1,0 +1,11 @@
+owner = KOR
+controller = KOR
+add_core = KOR
+add_core = PRK
+infra = 8
+naval_base = 4
+industry = 9
+energy = 10.00
+manpower = 10.00
+leadership = 5.00
+air_base = 5

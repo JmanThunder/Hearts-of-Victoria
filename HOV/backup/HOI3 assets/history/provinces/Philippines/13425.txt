@@ -1,0 +1,8 @@
+owner = PHI
+controller = REB
+add_core = PHI
+infra = 4
+rare_materials = 3.00
+energy = 5.00
+air_base = 5
+industry = 3

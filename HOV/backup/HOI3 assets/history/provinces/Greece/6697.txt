@@ -1,0 +1,13 @@
+owner=GRE
+controller=GRE
+add_core=GRE
+add_core = EUU
+points = 12
+terrain = urban
+infra = 8
+naval_base = 6
+air_base = 5
+leadership = 5.00
+industry = 3
+manpower = 3.00
+energy = 5.00

@@ -1,0 +1,6 @@
+owner = KAZ
+controller = KAZ
+add_core = KAZ
+terrain = urban
+infra = 5
+points = 1

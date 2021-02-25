@@ -1,0 +1,9 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+terrain = urban
+points = 2
+naval_base = 5
+air_base = 1
+infra = 7
+land_fort = 3

@@ -1,0 +1,6 @@
+owner=POL
+controller=POL
+add_core=POL
+terrain = urban
+infra = 6
+points = 3

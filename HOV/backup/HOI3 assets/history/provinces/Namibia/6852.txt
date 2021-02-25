@@ -1,0 +1,4 @@
+owner = NAM
+controller = NAM
+add_core = NAM
+infra = 4

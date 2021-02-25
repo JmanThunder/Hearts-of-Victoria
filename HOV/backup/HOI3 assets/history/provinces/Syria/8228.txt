@@ -1,0 +1,5 @@
+owner = SYR
+controller = SYR
+add_core = SYR
+infra = 5
+land_fort = 3

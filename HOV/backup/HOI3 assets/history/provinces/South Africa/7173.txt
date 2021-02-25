@@ -1,0 +1,11 @@
+owner = SAF
+controller = SAF
+add_core = SAF
+infra = 6
+strategic_resource = gold
+industry = 6
+energy = 6.00
+manpower = 5.00
+leadership = 6.00
+air_base = 5
+rare_materials = 10.00

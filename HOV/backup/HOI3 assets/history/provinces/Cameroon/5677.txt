@@ -1,0 +1,6 @@
+owner = CAM
+controller = CAM
+add_core = CAM
+infra = 4
+manpower = 14.00
+energy = 4.00

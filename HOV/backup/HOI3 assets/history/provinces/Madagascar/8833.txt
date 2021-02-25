@@ -1,0 +1,6 @@
+owner = MAD
+controller = MAD
+add_core = MAD
+infra = 4
+industry = 4
+rare_materials = 10.00

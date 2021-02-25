@@ -1,0 +1,13 @@
+owner = LAT
+controller = LAT
+add_core = LAT
+points = 12
+terrain = urban
+infra = 8
+naval_base = 1
+air_base = 5
+energy = 4.00
+industry = 2
+2004.5.1 = {
+    add_core = EUU
+}

@@ -1,0 +1,7 @@
+owner = IND
+controller = IND
+add_core = IND
+terrain = urban
+infra = 4
+points = 3
+crude_oil = 10.00

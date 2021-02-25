@@ -1,0 +1,6 @@
+owner = EGY
+controller = EGY
+add_core = EGY
+infra = 5
+manpower = 9.00
+air_base = 2

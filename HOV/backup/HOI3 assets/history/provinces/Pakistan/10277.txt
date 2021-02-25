@@ -1,0 +1,6 @@
+owner = PAK
+controller = PAK
+add_core = PAK
+infra = 4
+manpower = 10.00
+land_fort = 5

@@ -1,0 +1,5 @@
+owner = TNZ
+controller = TNZ
+add_core = TNZ
+infra = 4
+manpower = 8.00

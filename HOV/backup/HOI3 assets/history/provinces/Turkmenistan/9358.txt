@@ -1,0 +1,4 @@
+owner = TRK
+controller = TRK
+add_core = TRK
+infra = 2

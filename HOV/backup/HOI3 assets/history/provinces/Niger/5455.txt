@@ -1,0 +1,5 @@
+owner = NGR
+controller = NGR
+add_core = NGR
+infra = 4
+rare_materials = 4.00

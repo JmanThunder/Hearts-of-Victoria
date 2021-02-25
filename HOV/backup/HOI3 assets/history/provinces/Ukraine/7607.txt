@@ -1,0 +1,10 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+add_core = CRM
+infra = 6
+2014.3.19 = {
+owner = RUS
+controller = RUS
+add_core = UKR
+}

@@ -1,0 +1,7 @@
+owner = USA
+controller = USA
+add_core = USA
+terrain = urban
+infra = 7
+points = 3
+crude_oil = 1.00

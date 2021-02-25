@@ -1,0 +1,4 @@
+owner = SOM
+controller = SOM
+add_core = SOM
+infra = 4

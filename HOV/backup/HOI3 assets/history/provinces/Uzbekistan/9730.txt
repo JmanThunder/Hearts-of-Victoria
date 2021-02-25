@@ -1,0 +1,8 @@
+owner=UZB
+controller=UZB
+add_core=UZB
+infra = 4
+energy = 4.00
+2000.1.1 = {
+	infra = 2
+}

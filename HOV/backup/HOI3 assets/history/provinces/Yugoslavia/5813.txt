@@ -1,0 +1,14 @@
+owner = SLV
+controller = SLV
+add_core = SLV
+points = 12
+terrain = urban
+infra = 7
+air_base = 1
+industry = 3
+manpower = 3.00
+energy = 9.00
+land_fort = 3
+2004.5.1 = {
+    add_core = EUU
+}

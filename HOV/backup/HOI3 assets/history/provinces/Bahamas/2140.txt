@@ -1,0 +1,7 @@
+owner = BHM
+controller = BHM
+add_core = BHM
+infra = 4
+naval_base = 1
+air_base = 1
+points = 12

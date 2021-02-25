@@ -1,0 +1,5 @@
+owner = AZB
+controller = AZB
+add_core = AZB
+infra = 5
+land_fort = 3

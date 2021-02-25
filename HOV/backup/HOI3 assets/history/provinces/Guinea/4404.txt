@@ -1,0 +1,4 @@
+owner = GUI
+controller = GUI
+add_core = GUI
+infra = 2

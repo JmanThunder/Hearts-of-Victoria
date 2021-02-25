@@ -1,0 +1,8 @@
+owner = JOR
+controller = JOR
+add_core = JOR
+terrain = urban
+infra = 5
+air_base = 1
+points = 12
+land_fort = 3

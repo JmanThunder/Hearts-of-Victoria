@@ -1,0 +1,6 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = SUR
+infra = 5
+air_base = 1

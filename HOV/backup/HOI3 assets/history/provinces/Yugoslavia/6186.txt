@@ -1,0 +1,9 @@
+owner = BOS
+controller = BOS
+add_core = BOS
+points = 12
+terrain = urban
+infra = 5
+air_base = 5
+industry = 3
+manpower = 3.00

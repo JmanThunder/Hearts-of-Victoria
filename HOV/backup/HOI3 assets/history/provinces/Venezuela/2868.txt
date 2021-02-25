@@ -1,0 +1,13 @@
+owner = VEN
+controller = VEN
+add_core = VEN
+points = 12
+terrain = urban
+infra = 5
+naval_base = 3
+air_base = 5
+industry = 6
+energy = 9.00
+manpower = 6.00
+crude_oil = 10.00
+leadership = 5.00

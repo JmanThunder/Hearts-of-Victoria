@@ -1,0 +1,7 @@
+owner = KOR
+controller = KOR
+add_core = KOR
+add_core = PRK
+infra = 8
+industry = 9
+energy = 10.00

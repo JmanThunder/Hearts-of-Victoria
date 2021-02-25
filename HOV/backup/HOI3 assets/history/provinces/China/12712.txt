@@ -1,0 +1,8 @@
+owner = CHC
+controller = CHC
+add_core = CHC
+add_core = TWN
+infra = 7
+nuclear_reactor = 6
+terrain = urban
+points = 6

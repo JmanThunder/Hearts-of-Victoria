@@ -1,0 +1,7 @@
+owner = LUX
+controller = LUX
+add_core = LUX
+add_core = EUU
+terrain = urban
+infra = 9
+air_base = 5

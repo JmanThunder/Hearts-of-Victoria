@@ -1,0 +1,6 @@
+owner = BUR
+controller = BUR
+add_core = BUR
+infra = 3
+naval_base = 4
+leadership = 3.00

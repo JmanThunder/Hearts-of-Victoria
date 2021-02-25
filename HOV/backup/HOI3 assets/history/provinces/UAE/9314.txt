@@ -1,0 +1,9 @@
+owner=UAE
+controller=UAE
+add_core=UAE
+infra = 6
+naval_base = 4
+air_base = 5
+industry = 7
+crude_oil = 40.00
+energy = 22.00

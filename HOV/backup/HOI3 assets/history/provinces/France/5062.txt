@@ -1,0 +1,6 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+terrain = urban
+infra = 8
+points = 5

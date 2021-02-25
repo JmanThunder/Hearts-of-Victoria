@@ -1,0 +1,11 @@
+owner = PER
+controller = PER
+add_core = PER
+terrain = urban
+infra = 5
+air_base = 5
+industry = 10
+energy = 16.00
+manpower = 15.00
+leadership = 8.00
+points = 12

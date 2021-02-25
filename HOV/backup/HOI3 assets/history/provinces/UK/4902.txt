@@ -1,0 +1,7 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+infra = 8
+manpower = 10.00
+leadership = 2.50
+air_base = 5

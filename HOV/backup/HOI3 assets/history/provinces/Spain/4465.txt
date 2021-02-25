@@ -1,0 +1,6 @@
+owner = SPA
+controller = SPA
+add_core = SPA
+infra = 8
+manpower = 5.00
+metal = 5.00

@@ -1,0 +1,5 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+infra = 6
+metal = 10.00

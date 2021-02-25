@@ -1,0 +1,6 @@
+owner = ITA
+controller = ITA
+add_core = ITA
+terrain = urban
+infra = 8
+points = 6

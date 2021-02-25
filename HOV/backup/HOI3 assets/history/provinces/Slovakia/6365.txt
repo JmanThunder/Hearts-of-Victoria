@@ -1,0 +1,5 @@
+owner = SLO
+controller = SLO
+add_core = SLO
+infra = 7
+land_fort = 3

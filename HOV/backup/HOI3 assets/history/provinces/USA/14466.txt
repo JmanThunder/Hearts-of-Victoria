@@ -1,0 +1,6 @@
+owner = USA
+controller = USA
+add_core = USA
+terrain = plains
+infra = 4
+naval_base = 1

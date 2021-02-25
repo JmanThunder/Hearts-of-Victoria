@@ -1,0 +1,4 @@
+owner = SRL
+controller = SRL
+add_core = SRL
+infra = 3

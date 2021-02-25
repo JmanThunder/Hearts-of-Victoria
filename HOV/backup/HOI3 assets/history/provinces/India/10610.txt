@@ -1,0 +1,7 @@
+owner = IND
+controller = IND
+add_core = IND
+add_core = PAK
+add_core = CHC
+infra = 2
+land_fort = 5

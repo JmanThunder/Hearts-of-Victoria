@@ -1,0 +1,5 @@
+owner = NGR
+controller = NGR
+add_core = NGR
+infra = 4
+manpower = 11.00

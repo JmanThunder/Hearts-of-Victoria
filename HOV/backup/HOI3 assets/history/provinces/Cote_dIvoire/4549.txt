@@ -1,0 +1,4 @@
+owner=CDI
+controller=CDI
+add_core=CDI
+infra = 4

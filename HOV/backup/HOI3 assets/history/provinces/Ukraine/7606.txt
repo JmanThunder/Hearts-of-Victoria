@@ -1,0 +1,5 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+infra = 6
+naval_base = 3

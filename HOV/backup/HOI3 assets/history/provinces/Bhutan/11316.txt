@@ -1,0 +1,7 @@
+owner = BHU
+controller = BHU
+add_core = BHU
+infra = 4
+2000.1.1 = {
+	infra = 2
+}

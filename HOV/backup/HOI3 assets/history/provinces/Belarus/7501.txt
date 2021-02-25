@@ -1,0 +1,5 @@
+owner = BLR
+controller = BLR
+add_core = BLR
+infra = 5
+metal = 5.00

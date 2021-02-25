@@ -1,0 +1,6 @@
+owner = BUR
+controller = BUR
+add_core = BUR
+infra = 4
+air_base = 5
+leadership = 3.00

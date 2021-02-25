@@ -1,0 +1,9 @@
+owner=BUL
+controller=BUL
+add_core=BUL
+infra = 5
+naval_base = 3
+air_base = 5
+manpower = 3.00
+energy = 4.00
+land_fort = 3

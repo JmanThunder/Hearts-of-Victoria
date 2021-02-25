@@ -1,0 +1,5 @@
+owner = BOT
+controller = BOT
+add_core = BOT
+infra = 4
+energy = 4.00

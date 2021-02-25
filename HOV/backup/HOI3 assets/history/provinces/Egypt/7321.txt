@@ -1,0 +1,10 @@
+owner = EGY
+controller = EGY
+add_core = EGY
+infra = 5
+naval_base = 4
+air_base = 5
+points = 5
+energy = 14.00
+manpower = 9.00
+industry = 5

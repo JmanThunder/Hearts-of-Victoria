@@ -1,0 +1,5 @@
+owner = IND
+controller = IND
+add_core = IND
+infra = 3
+rare_materials = 5.00

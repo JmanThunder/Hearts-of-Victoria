@@ -1,0 +1,6 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+infra = 5
+crude_oil = 1.00
+land_fort = 3

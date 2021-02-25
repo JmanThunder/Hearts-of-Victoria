@@ -1,0 +1,6 @@
+owner = AZB
+controller = AZB
+add_core = AZB
+infra = 5
+crude_oil = 10.00
+land_fort = 3

@@ -1,0 +1,5 @@
+owner = GEO
+controller = GEO
+add_core = GEO
+infra = 3
+points = 8

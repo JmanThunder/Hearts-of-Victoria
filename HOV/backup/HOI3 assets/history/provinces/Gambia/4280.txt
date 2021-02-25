@@ -1,0 +1,6 @@
+owner = GAM
+controller = GAM
+add_core = GAM
+infra = 4
+naval_base = 1
+energy = 4.00

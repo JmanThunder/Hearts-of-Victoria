@@ -1,0 +1,4 @@
+owner = SYR
+controller = SYR
+add_core = SYR
+infra = 5

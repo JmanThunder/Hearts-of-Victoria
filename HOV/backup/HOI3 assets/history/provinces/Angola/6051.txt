@@ -1,0 +1,5 @@
+owner = ANG
+controller = ANG
+add_core = ANG
+infra = 1
+rare_materials = 3.00

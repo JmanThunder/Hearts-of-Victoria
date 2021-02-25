@@ -1,0 +1,5 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+infra = 6
+manpower = 9.00

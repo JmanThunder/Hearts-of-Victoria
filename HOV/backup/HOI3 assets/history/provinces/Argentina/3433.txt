@@ -1,0 +1,5 @@
+owner = ARG
+controller = ARG
+add_core = ARG
+infra = 6
+rare_materials = 2.00

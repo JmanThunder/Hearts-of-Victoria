@@ -1,0 +1,13 @@
+owner = HNK
+controller = HNK
+add_core = CHC
+add_core = CHC
+add_core = TWN
+add_core = HNK
+infra = 9
+terrain = urban
+points = 8
+naval_base = 9
+air_base = 1
+industry = 8
+energy = 10.00

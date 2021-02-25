@@ -1,0 +1,37 @@
+owner= IEA
+controller= IEA
+add_core = IEA
+add_core = ISA
+infra = 4
+
+2000.1.1 = {
+    owner = IEA
+    controller = IEA
+    add_core = IEA
+    add_core = ISA
+    infra = 2
+}
+
+2001.10.7 = {
+    owner = IEA
+    controller = IEA
+    add_core = IEA
+    add_core = ISA
+    infra = 2
+}
+
+2002.6.6 = {
+    owner = USA
+    controller = USA
+    add_core = IEA		
+	remove_core = ISA
+    infra = 2
+}
+
+2002.6.6 = {
+    owner = AFG
+    controller = AFG
+    add_core = AFG
+	remove_core = ISA
+    infra = 2
+}

@@ -1,0 +1,5 @@
+owner = SUD
+controller = SUD
+add_core = SUD
+infra = 4
+energy = 4.00

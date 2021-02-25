@@ -1,0 +1,8 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+add_core = SCO
+terrain = urban
+infra = 8
+points = 9
+naval_base = 4

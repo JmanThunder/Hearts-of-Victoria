@@ -1,0 +1,8 @@
+owner = KYG
+controller = KYG
+add_core = KYG
+infra = 4
+rare_materials = 5.00
+2000.1.1 = {
+	infra = 2
+}

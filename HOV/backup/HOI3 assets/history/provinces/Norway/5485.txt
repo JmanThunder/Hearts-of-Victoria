@@ -1,0 +1,12 @@
+owner = NOR
+controller = NOR
+add_core = NOR
+points = 12
+terrain = urban
+infra = 8
+naval_base = 5
+air_base = 5
+industry = 6
+energy = 10.00
+leadership = 5.00
+manpower = 3.00

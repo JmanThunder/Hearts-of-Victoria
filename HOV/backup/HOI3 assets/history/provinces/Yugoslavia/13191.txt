@@ -1,0 +1,6 @@
+owner = SLV
+controller = SLV
+add_core = SLV
+infra = 6
+naval_base = 1
+land_fort = 3

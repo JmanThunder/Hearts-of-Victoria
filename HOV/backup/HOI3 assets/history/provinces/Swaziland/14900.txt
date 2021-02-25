@@ -1,0 +1,4 @@
+owner = SWA
+controller = SWA
+add_core = SWA
+infra = 4

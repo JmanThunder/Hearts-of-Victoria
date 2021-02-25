@@ -1,0 +1,21 @@
+owner = IRQ
+controller = IRQ
+add_core = KUR
+add_core = IRQ
+infra = 2
+land_fort = 3
+
+2003.3.15 = {
+owner = KUR
+controller = KUR
+add_core = KUR
+add_core = IRQ
+}
+
+2005.5.3 = {
+owner = DIR
+controller = DIR
+add_core = KUR
+add_core = DIR
+remove_core = IRQ
+}

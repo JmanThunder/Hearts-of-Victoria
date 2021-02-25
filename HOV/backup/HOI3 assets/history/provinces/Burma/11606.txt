@@ -1,0 +1,9 @@
+owner = BUR
+controller = BUR
+add_core = BUR
+infra = 4
+manpower = 9.00
+industry = 3
+2000.1.1 = {
+	infra = 2
+}

@@ -1,0 +1,8 @@
+owner = NEP
+controller = NEP
+add_core = NEP
+infra = 3
+industry = 3
+2000.1.1 = {
+	infra = 2
+}

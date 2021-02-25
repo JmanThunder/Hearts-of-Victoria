@@ -1,0 +1,9 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+add_core = FKL
+add_core = ARG
+terrain = arctic
+infra = 3
+air_base = 5
+naval_base = 5

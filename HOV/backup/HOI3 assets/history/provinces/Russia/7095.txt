@@ -1,0 +1,7 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = LAT
+infra = 4
+land_fort = 3
+2007.3.27 = { remove_core = LAT }

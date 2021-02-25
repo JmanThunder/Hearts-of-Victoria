@@ -1,0 +1,6 @@
+owner=OMN
+controller=OMN
+add_core=OMN
+points = 5
+infra = 3
+energy = 5.00

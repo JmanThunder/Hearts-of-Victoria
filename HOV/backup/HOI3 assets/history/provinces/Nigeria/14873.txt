@@ -1,0 +1,6 @@
+owner = NIG
+controller = NIG
+add_core = NIG
+infra = 4
+manpower = 9.00
+leadership = 4.00

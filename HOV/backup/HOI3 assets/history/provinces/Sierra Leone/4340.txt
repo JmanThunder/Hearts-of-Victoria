@@ -1,0 +1,7 @@
+owner = SIE
+controller = SIE
+add_core = SIE
+infra = 4
+naval_base = 1
+rare_materials = 2.00
+energy = 4.00

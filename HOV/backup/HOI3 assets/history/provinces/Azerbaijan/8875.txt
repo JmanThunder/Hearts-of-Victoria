@@ -1,0 +1,4 @@
+owner = AZB
+controller = AZB
+add_core = AZB
+infra = 5

@@ -1,0 +1,5 @@
+owner = MLW
+controller = MLW
+add_core = MLW
+infra = 4
+rare_materials = 10.00

@@ -1,0 +1,7 @@
+owner = SPA
+controller = SPA
+add_core = SPA
+terrain = urban
+infra = 8
+points = 7
+manpower = 5.00

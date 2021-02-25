@@ -1,0 +1,5 @@
+owner=CDI
+controller=CDI
+add_core=CDI
+infra = 2
+rare_materials = 2.00

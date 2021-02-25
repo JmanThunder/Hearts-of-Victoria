@@ -1,0 +1,4 @@
+owner=GHN
+controller=GHN
+add_core=GHN
+infra = 2

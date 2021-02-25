@@ -1,0 +1,5 @@
+owner = UGD
+controller = UGD
+add_core = UGD
+infra = 2
+manpower = 6.00

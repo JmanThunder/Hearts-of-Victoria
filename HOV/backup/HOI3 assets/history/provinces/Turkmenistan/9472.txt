@@ -1,0 +1,8 @@
+owner = TRK
+controller = TRK
+add_core = TRK
+infra = 2
+crude_oil = 2.00
+2000.1.1 = {
+	infra = 2
+}

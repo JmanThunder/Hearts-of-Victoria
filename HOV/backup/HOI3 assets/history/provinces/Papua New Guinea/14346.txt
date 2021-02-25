@@ -1,0 +1,4 @@
+owner = PAG
+controller = PAG
+add_core = PAG
+infra = 2

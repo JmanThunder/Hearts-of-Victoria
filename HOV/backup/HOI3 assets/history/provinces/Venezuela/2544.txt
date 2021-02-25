@@ -1,0 +1,6 @@
+owner = VEN
+controller = VEN
+add_core = VEN
+infra = 5
+energy = 5.00
+manpower = 6.00

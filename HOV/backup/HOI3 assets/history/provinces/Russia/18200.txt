@@ -1,0 +1,22 @@
+owner = CHR
+controller = CHR
+add_core = RUS
+add_core = CHR
+infra = 3
+air_base = 1
+
+2000.1.1 = {
+    owner = CHR
+    controller = CHR
+    add_core = RUS
+    add_core = CHR
+    infra = 3
+}
+
+2000.5.15 = {
+    owner = RUS
+    controller = RUS
+    add_core = RUS
+    add_core = CHR
+    infra = 3
+}

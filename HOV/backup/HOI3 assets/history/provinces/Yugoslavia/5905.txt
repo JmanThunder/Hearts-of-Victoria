@@ -1,0 +1,6 @@
+owner = CRO
+controller = CRO
+add_core = CRO
+infra = 6
+energy = 4.00
+land_fort = 3

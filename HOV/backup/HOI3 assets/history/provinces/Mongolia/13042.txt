@@ -1,0 +1,6 @@
+owner = MON
+controller = MON
+add_core = MON
+add_core = TWN
+infra = 2
+land_fort = 3

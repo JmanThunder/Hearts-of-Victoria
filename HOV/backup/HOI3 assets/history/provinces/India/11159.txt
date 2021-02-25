@@ -1,0 +1,17 @@
+owner = IND
+controller = IND
+add_core = IND
+add_core = BGL
+terrain = urban
+infra = 6
+naval_base = 4
+points = 4
+industry = 7
+energy = 3.00
+manpower = 100.00
+leadership = 5.00
+air_base = 5
+
+2011.9.5 = {
+    remove_core = BGL	
+}

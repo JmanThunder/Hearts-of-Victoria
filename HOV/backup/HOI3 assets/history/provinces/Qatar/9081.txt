@@ -1,0 +1,6 @@
+owner=QTR
+controller=QTR
+add_core=QTR
+infra = 5
+crude_oil = 80.00
+energy = 60.00

@@ -1,0 +1,14 @@
+owner=POL
+controller=POL
+add_core=POL
+points = 12
+terrain = urban
+infra = 8
+air_base = 5
+industry = 10
+energy = 5.00
+manpower = 5.00
+leadership = 3.00
+2004.5.1 = {
+    add_core = EUU
+}

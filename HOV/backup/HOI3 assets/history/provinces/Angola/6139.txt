@@ -1,0 +1,6 @@
+owner = ANG
+controller = ANG
+add_core = ANG
+infra = 4
+manpower = 4.00
+rare_materials = 10.00

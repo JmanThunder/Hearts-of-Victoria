@@ -1,0 +1,6 @@
+owner = NGK
+controller = NGK
+add_core = AZB
+infra = 5
+industry = 3
+land_fort = 3

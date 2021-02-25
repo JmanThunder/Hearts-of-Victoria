@@ -1,0 +1,14 @@
+owner = IRQ
+controller = IRQ
+add_core = IRQ
+infra = 3
+terrain = urban
+points = 6
+air_base = 2
+
+2005.5.3 = {
+owner = DIR
+controller = DIR
+add_core = DIR
+remove_core = IRQ
+}

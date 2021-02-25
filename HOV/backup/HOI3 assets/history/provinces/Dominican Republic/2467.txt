@@ -1,0 +1,4 @@
+owner = DOM
+controller = DOM
+add_core = DOM
+infra = 4

@@ -1,0 +1,6 @@
+owner = SLI
+controller = SLI
+add_core = SLI
+infra = 4
+naval_base = 1
+air_base = 1

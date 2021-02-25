@@ -1,0 +1,5 @@
+owner = ETH
+controller = ETH
+add_core = ETH
+add_core = SOM
+infra = 2

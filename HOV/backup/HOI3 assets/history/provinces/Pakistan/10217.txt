@@ -1,0 +1,11 @@
+owner = PAK
+controller = PAK
+add_core = PAK
+points = 12
+terrain = urban
+infra = 4
+
+air_base = 1
+manpower = 10.00
+leadership = 4.00
+2003.03.15 = { add_core = UNN }

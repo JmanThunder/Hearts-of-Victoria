@@ -1,0 +1,7 @@
+owner = DRC
+controller = DRC
+add_core = DRC
+infra = 4
+naval_base = 1
+manpower = 7.00
+energy = 4.00

@@ -1,0 +1,6 @@
+owner = GUI
+controller = GUI
+add_core = GUI
+infra = 4
+naval_base = 1
+2003.03.15 = { add_core = UNN }

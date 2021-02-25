@@ -1,0 +1,6 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+terrain = urban
+points = 3
+infra = 2

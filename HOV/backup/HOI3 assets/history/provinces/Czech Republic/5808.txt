@@ -1,0 +1,13 @@
+owner = CZR
+controller = CZR
+add_core = CZR
+terrain = urban
+infra = 9
+air_base = 5
+manpower = 11.00
+leadership = 4.00
+industry = 6
+points = 12
+2004.5.1 = {
+    add_core = EUU
+}

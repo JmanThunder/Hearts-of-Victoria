@@ -1,0 +1,9 @@
+owner = IND
+controller = IND
+add_core = IND
+terrain = urban
+infra = 6
+points = 1
+industry = 7
+energy = 3.00
+manpower = 100.00

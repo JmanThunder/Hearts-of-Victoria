@@ -1,0 +1,7 @@
+owner = AUS
+controller = AUS
+add_core = AUS
+infra = 8
+industry = 6
+metal = 5.00
+land_fort = 3

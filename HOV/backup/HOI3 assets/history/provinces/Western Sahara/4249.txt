@@ -1,0 +1,5 @@
+owner = MOR
+controller = MOR
+add_core = SDR
+infra = 2
+rare_materials = 3.00

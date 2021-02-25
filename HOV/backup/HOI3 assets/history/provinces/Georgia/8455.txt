@@ -1,0 +1,7 @@
+owner = GEO
+controller = GEO
+add_core = GEO
+infra = 5
+energy = 4.00
+manpower = 3.00
+land_fort = 3

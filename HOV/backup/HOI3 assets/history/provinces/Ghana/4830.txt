@@ -1,0 +1,5 @@
+owner=GHN
+controller=GHN
+add_core=GHN
+infra = 2
+rare_materials = 10.00

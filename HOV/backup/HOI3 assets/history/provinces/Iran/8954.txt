@@ -1,0 +1,5 @@
+owner = PER
+controller = PER
+add_core = PER
+terrain = urban
+infra = 4

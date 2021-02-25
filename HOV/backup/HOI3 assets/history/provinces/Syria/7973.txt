@@ -1,0 +1,6 @@
+owner = SYR
+controller = SYR
+add_core = SYR
+infra = 5
+air_base = 1
+energy = 4.00

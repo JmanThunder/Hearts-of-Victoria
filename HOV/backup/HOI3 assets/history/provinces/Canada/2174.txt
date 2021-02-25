@@ -1,0 +1,11 @@
+owner = CAN
+controller = CAN
+add_core = CAN
+add_core = UNN
+terrain = urban
+infra = 5
+air_base = 5
+points = 12
+rare_materials = 5.00
+
+2003.03.15 = { remove_core = UNN } 

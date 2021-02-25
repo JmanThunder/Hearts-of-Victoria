@@ -1,0 +1,9 @@
+owner = CMB
+controller = CMB
+add_core = CMB
+points = 12
+terrain = urban
+infra = 2
+air_base = 5
+naval_base = 5
+leadership = 3.00

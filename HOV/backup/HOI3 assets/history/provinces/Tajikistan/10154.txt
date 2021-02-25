@@ -1,0 +1,7 @@
+owner = TAJ
+controller = TAJ
+add_core = TAJ
+infra = 2
+2000.1.1 = {
+	infra = 2
+}

@@ -1,0 +1,6 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 7
+air_base = 5
+land_fort = 3

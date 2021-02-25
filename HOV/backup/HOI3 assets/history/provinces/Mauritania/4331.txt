@@ -1,0 +1,5 @@
+owner = MRA
+controller = MRA
+add_core = MRA
+infra = 1
+energy = 4.00

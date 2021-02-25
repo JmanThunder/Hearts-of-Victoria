@@ -1,0 +1,13 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+add_core = SCO
+terrain = urban
+infra = 8
+air_base = 5
+points = 4
+naval_base = 4
+industry = 10
+manpower = 10.00
+metal = 5.00
+leadership = 2.50

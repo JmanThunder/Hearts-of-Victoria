@@ -1,0 +1,5 @@
+owner = TRK
+controller = TRK
+add_core = TRK
+infra = 3
+manpower = 7.00

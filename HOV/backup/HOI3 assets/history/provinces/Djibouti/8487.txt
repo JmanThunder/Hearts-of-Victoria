@@ -1,0 +1,4 @@
+owner = DJI
+controller = DJI
+add_core = DJI
+infra = 5

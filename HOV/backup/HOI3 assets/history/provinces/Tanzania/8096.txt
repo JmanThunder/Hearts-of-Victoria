@@ -1,0 +1,5 @@
+owner = TNZ
+controller = TNZ
+add_core = TNZ
+infra = 2
+rare_materials = 2.00

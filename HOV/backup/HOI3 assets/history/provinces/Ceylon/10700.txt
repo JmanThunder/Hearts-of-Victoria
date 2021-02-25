@@ -1,0 +1,6 @@
+owner = SRL
+controller = SRL
+add_core = SRL
+infra = 4
+naval_base = 1
+manpower = 8.00

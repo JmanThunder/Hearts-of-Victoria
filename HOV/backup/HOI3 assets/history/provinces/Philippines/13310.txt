@@ -1,0 +1,6 @@
+owner = PHI
+controller = PHI
+add_core = PHI
+infra = 4
+manpower = 10.00
+naval_base = 3

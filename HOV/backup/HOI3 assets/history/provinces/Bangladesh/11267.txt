@@ -1,0 +1,15 @@
+owner = BGL
+controller = BGL
+add_core = BGL
+add_core = UNN
+points = 12
+terrain = urban
+infra = 6
+air_base = 5
+leadership = 5.00
+manpower = 16.00
+2000.1.1 = {
+	infra = 2
+}
+
+2003.03.15 = { remove_core = UNN } 

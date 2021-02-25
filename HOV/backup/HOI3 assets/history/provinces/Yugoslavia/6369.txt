@@ -1,0 +1,27 @@
+owner = SRM
+controller = SRM
+add_core = SRM
+add_core = SER
+points = 12
+terrain = urban
+infra = 7
+
+air_base = 1
+industry = 3
+leadership = 1.00
+manpower = 3.00
+2000.1.1 = {
+    owner = SRM
+    controller = SRM
+    add_core = SRM
+    add_core = SER
+    infra = 2
+}
+
+2006.6.5 = {
+	owner = SER
+    controller = SER
+    add_core = SER
+	remove_core = SRM
+    infra = 2
+}

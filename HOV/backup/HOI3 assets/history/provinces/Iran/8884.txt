@@ -1,0 +1,6 @@
+owner = PER
+controller = PER
+add_core = PER
+infra = 4
+crude_oil = 10.00
+land_fort = 3

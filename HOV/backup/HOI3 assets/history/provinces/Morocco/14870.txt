@@ -1,0 +1,7 @@
+owner = MOR
+controller = MOR
+add_core = MOR
+infra = 4
+naval_base = 1
+air_base = 1
+manpower = 6.00

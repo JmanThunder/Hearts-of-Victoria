@@ -1,0 +1,7 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+infra = 8
+air_base = 5
+metal = 5.00
+nuclear_reactor = 3

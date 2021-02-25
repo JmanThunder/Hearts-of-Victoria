@@ -1,0 +1,5 @@
+owner = ROM
+controller = ROM
+add_core=ROM
+infra = 5
+air_base = 1

@@ -1,0 +1,5 @@
+owner = COM
+controller = COM
+add_core = COM
+infra = 4
+naval_base = 1

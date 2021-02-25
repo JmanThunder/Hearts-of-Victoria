@@ -1,0 +1,7 @@
+owner = INO
+controller = INO
+add_core = INO
+infra = 8
+2000.1.1 = {
+	infra = 2
+}

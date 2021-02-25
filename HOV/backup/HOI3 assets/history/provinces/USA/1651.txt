@@ -1,0 +1,6 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 5
+crude_oil = 2.00
+air_base = 3

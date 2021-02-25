@@ -1,0 +1,22 @@
+owner = SRM
+controller = SRM
+add_core = SRM
+add_core = SER
+infra = 6
+
+land_fort = 3
+2000.1.1 = {
+    owner = SRM
+    controller = SRM
+    add_core = SRM
+    add_core = SER
+    infra = 2
+}
+
+2006.6.5 = {
+	owner = SER
+    controller = SER
+    add_core = SER
+	remove_core = SRM
+    infra = 2
+}

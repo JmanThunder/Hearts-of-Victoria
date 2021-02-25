@@ -1,0 +1,4 @@
+owner = DRC
+controller = DRC
+add_core = DRC
+infra = 1

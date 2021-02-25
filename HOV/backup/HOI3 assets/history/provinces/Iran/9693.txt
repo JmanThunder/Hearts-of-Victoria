@@ -1,0 +1,8 @@
+owner = PER
+controller = PER
+add_core = PER
+infra = 2
+land_fort = 3
+2000.1.1 = {
+	infra = 2
+}

@@ -1,0 +1,9 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 7
+terrain = urban
+points = 5
+naval_base = 10
+air_base = 10
+land_fort = 3

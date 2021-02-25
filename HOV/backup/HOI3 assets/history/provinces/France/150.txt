@@ -1,0 +1,6 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = FPO
+infra = 4
+naval_base = 1

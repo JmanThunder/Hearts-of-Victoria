@@ -1,0 +1,5 @@
+owner = KEN
+controller = KEN
+add_core = KEN
+infra = 5
+manpower = 7.00

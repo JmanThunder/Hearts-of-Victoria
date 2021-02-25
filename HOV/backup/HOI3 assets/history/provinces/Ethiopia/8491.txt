@@ -1,0 +1,6 @@
+owner = ETH
+controller = ETH
+add_core = ETH
+add_core = SOM
+infra = 4
+manpower = 10.00

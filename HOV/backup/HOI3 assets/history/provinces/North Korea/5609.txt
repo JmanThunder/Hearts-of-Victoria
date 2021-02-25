@@ -1,0 +1,7 @@
+owner=PRK
+controller=PRK
+add_core=PRK
+add_core=KOR
+infra = 5
+manpower = 5.00
+naval_base = 4

@@ -1,0 +1,7 @@
+owner = EGY
+controller = EGY
+add_core = EGY
+infra = 5
+naval_base = 1
+air_base = 3
+manpower = 9.00

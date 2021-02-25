@@ -1,0 +1,5 @@
+owner = SPA
+controller = SPA
+add_core = SPA
+infra = 5
+points = 5

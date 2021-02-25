@@ -1,0 +1,4 @@
+owner = CZR
+controller = CZR
+add_core = CZR
+infra = 7

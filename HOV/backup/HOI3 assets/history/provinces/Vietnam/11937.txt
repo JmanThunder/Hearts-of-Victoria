@@ -1,0 +1,10 @@
+owner = VIE
+controller = VIE
+add_core = VIE
+points = 12
+terrain = urban
+infra = 6
+air_base = 5
+leadership = 6.00
+manpower = 10.00
+industry = 4

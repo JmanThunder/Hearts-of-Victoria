@@ -1,0 +1,24 @@
+owner = SRM
+controller = SRM
+add_core = SRM
+add_core = MTN
+infra = 6
+naval_base = 1
+
+energy = 4.00
+land_fort = 3
+2000.1.1 = {
+    owner = SRM
+    controller = SRM
+    add_core = SRM
+    add_core = MTN
+    infra = 3
+}
+
+2006.6.5 = {
+	owner = MTN
+    controller = MTN
+    add_core = MTN
+	remove_core = SRM
+    infra = 3
+}

@@ -1,0 +1,13 @@
+owner=BUL
+controller=BUL
+add_core=BUL
+points = 12
+terrain = urban
+infra = 5
+air_base = 1
+industry = 3
+manpower = 3.00
+2003.03.15 = { add_core = UNN }
+2007.1.1 = {
+    add_core = EUU
+}

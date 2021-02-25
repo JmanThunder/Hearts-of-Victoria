@@ -1,0 +1,5 @@
+owner=UAE
+controller=UAE
+add_core=UAE
+infra = 3
+crude_oil = 22.00

@@ -1,0 +1,6 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+terrain = urban
+infra = 5
+land_fort = 3

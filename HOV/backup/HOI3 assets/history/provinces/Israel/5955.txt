@@ -1,0 +1,7 @@
+owner = ISR
+controller = ISR
+add_core = ISR
+infra = 7
+points = 5
+leadership = 6.00
+energy = 4.00

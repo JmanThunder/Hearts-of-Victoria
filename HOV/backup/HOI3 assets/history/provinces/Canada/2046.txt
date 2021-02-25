@@ -1,0 +1,12 @@
+owner = CAN
+controller = CAN
+add_core = CAN
+terrain = urban
+infra = 8
+air_base = 5
+points = 10
+industry = 10
+energy = 10.00
+manpower = 5.00
+metal = 6.00
+leadership = 5.00

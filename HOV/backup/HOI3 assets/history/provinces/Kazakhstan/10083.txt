@@ -1,0 +1,8 @@
+owner = KAZ
+controller = KAZ
+add_core = KAZ
+points = 12
+terrain = urban
+infra = 4
+air_base = 10
+manpower = 4.50

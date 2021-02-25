@@ -1,0 +1,8 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+add_core = SOG
+add_core = ARG
+terrain = arctic
+infra = 2
+naval_base = 1

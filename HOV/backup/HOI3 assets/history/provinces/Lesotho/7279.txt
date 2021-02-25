@@ -1,0 +1,4 @@
+owner = LST
+controller = LST
+add_core = LST
+infra = 4

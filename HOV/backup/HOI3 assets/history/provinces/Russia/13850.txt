@@ -1,0 +1,7 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+infra = 7
+industry = 4
+energy = 10.00
+manpower = 8.00

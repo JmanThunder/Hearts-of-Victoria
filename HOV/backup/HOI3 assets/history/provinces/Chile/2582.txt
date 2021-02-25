@@ -1,0 +1,6 @@
+owner = CHL
+controller = CHL
+add_core = CHL
+infra = 4
+
+rare_materials = 5.00

@@ -1,0 +1,7 @@
+owner = MLW
+controller = MLW
+add_core = MLW
+infra = 4
+manpower = 5.00
+energy = 4.00
+rare_materials = 10.00

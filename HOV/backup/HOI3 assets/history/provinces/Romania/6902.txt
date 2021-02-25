@@ -1,0 +1,15 @@
+owner = ROM
+controller = ROM
+add_core=ROM
+points = 12
+terrain = urban
+air_base = 5
+infra = 7
+manpower = 5.00
+leadership = 8.00
+industry = 8
+energy = 5.00
+land_fort = 3
+2007.1.1 = {
+    add_core = EUU
+}

@@ -1,0 +1,12 @@
+owner=TWN
+controller=TWN
+add_core=TWN
+add_core=CHC
+points = 12
+terrain = urban
+infra = 8
+air_base = 5
+industry = 5
+energy = 8.00
+manpower = 6.00
+leadership = 4.00

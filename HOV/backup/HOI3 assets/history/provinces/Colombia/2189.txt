@@ -1,0 +1,7 @@
+owner = COL
+controller = COL
+add_core = COL
+infra = 5
+naval_base = 3
+industry = 6
+manpower = 10.00

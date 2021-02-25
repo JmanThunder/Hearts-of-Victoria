@@ -1,0 +1,5 @@
+owner = AGB
+controller = AGB
+add_core = AGB
+infra = 4
+naval_base = 1

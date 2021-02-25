@@ -1,0 +1,14 @@
+owner = TUN
+controller = TUN
+add_core = TUN
+add_core = UNN
+terrain = urban
+infra = 5
+naval_base = 4
+air_base = 5
+points = 12
+leadership = 3.00
+energy = 9.00
+industry = 4
+
+2003.03.15 = { remove_core = UNN } 

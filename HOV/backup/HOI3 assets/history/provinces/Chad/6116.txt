@@ -1,0 +1,5 @@
+owner = CHD
+controller = CHD
+add_core = CHD
+infra = 2
+energy = 4.00

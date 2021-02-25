@@ -1,0 +1,6 @@
+owner = BRA
+controller = BRA
+add_core = BRA
+terrain = urban
+infra = 4
+points = 2

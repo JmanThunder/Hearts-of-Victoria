@@ -1,0 +1,4 @@
+owner = NGK
+controller = NGK
+add_core = AZB
+infra = 4

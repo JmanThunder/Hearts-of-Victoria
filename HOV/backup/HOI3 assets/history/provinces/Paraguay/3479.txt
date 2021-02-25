@@ -1,0 +1,6 @@
+owner=PAR
+controller=PAR
+add_core=PAR
+points = 12
+terrain = urban
+infra = 4

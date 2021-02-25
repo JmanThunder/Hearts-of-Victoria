@@ -1,0 +1,8 @@
+owner = CAN
+controller = CAN
+add_core = CAN
+add_core = QUE
+terrain = urban
+infra = 4
+points = 9
+air_base = 4

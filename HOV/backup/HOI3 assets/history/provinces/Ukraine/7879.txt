@@ -1,0 +1,7 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+terrain = urban
+infra = 5
+points = 10
+land_fort = 3

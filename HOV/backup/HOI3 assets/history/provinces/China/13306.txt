@@ -1,0 +1,9 @@
+owner = CHC
+controller = CHC
+add_core = CHC
+add_core = TWN
+infra = 9
+industry = 3
+manpower = 100.00
+leadership = 5.00
+air_base = 6

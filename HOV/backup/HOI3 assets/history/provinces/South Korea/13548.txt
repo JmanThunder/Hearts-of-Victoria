@@ -1,0 +1,7 @@
+owner = KOR
+controller = KOR
+add_core = KOR
+add_core = PRK
+infra = 8
+points = 10
+leadership = 5.00

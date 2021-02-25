@@ -1,0 +1,4 @@
+owner = MRA
+controller = MRA
+add_core = MRA
+infra = 2

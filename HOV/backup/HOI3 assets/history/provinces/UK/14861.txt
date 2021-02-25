@@ -1,0 +1,5 @@
+owner = SKN
+controller = SKN
+add_core = SKN
+infra = 4
+naval_base = 1

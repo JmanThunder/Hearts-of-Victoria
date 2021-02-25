@@ -1,0 +1,4 @@
+owner = GUY
+controller = GUY
+add_core = GUY
+infra = 1

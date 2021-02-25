@@ -1,0 +1,4 @@
+owner = CAM
+controller = CAM
+add_core = CAM
+infra = 2

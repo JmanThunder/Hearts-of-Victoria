@@ -1,0 +1,7 @@
+owner=PRK
+controller=PRK
+add_core=PRK
+add_core=KOR
+infra = 4
+manpower = 3.00
+land_fort = 5

@@ -1,0 +1,6 @@
+owner = INO
+controller = INO
+add_core = INO
+infra = 4
+
+manpower = 10.00

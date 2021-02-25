@@ -1,0 +1,5 @@
+owner=POL
+controller=POL
+add_core=POL
+infra = 8
+land_fort = 3

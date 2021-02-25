@@ -1,0 +1,6 @@
+owner = GEO
+controller = GEO
+add_core = GEO
+infra = 5
+land_fort = 3
+points = 10

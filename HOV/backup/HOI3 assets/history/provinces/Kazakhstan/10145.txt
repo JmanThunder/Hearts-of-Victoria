@@ -1,0 +1,7 @@
+owner = KAZ
+controller = KAZ
+add_core = KAZ
+infra = 2
+2000.1.1 = {
+	infra = 2
+}

@@ -1,0 +1,7 @@
+owner = SCH
+controller = SCH
+add_core = SCH
+infra = 5
+air_base = 1
+industry = 5
+leadership = 3.00

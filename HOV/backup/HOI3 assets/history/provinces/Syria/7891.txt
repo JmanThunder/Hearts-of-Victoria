@@ -1,0 +1,10 @@
+owner = SYR
+controller = SYR
+add_core = SYR
+terrain = urban
+infra = 5
+air_base = 5
+manpower = 7.00
+energy = 5.00
+points = 12
+2003.03.15 = { add_core = UNN }

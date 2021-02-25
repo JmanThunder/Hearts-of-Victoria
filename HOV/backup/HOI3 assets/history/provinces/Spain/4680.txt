@@ -1,0 +1,6 @@
+owner = SPA
+controller = SPA
+add_core = SPA
+infra = 8
+naval_base = 3
+metal = 5.00

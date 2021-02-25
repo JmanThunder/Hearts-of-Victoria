@@ -1,0 +1,9 @@
+owner = GER
+controller = GER
+add_core = GER
+terrain = urban
+infra = 9
+points = 4
+industry = 10
+manpower = 10.00
+leadership = 5.00

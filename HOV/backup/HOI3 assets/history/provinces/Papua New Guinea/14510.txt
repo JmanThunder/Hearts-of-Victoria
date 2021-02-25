@@ -1,0 +1,8 @@
+owner = PAG
+controller = PAG
+add_core = PAG
+points = 12
+terrain = urban
+infra = 4
+naval_base = 3
+air_base = 1

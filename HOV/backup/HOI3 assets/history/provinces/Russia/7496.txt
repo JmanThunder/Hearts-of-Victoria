@@ -1,0 +1,7 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+infra = 6
+air_base = 8
+manpower = 2.00
+metal = 5.00

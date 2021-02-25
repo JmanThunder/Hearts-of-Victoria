@@ -1,0 +1,4 @@
+owner = BOS
+controller = BOS
+add_core = BOS
+infra = 5

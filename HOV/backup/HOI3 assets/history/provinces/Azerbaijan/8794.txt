@@ -1,0 +1,6 @@
+owner = AZB
+controller = AZB
+add_core = AZB
+infra = 5
+energy = 4.00
+manpower = 3.00

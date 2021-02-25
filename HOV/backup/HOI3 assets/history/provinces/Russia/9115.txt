@@ -1,0 +1,6 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+infra = 4
+crude_oil = 10.00
+energy = 10.00

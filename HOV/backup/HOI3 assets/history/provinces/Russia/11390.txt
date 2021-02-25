@@ -1,0 +1,7 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+terrain = urban
+infra = 3
+air_base = 2
+points = 2

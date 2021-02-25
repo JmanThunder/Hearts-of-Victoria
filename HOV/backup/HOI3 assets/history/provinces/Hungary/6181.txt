@@ -1,0 +1,13 @@
+owner = HUN
+controller = HUN
+add_core = HUN
+points = 12
+terrain = urban
+infra = 8
+leadership = 4.00
+industry = 6
+manpower = 3.00
+energy = 9.00
+2004.5.1 = {
+    add_core = EUU
+}

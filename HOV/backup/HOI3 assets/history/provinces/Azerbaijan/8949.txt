@@ -1,0 +1,9 @@
+owner = AZB
+controller = AZB
+add_core = AZB
+points = 12
+terrain = urban
+infra = 5
+air_base = 5
+energy = 10.00
+industry = 3

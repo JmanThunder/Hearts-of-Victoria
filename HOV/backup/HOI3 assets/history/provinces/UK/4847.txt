@@ -1,0 +1,7 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+infra = 8
+naval_base = 1
+energy = 10.00
+crude_oil = 5.00

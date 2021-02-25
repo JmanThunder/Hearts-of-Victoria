@@ -1,0 +1,18 @@
+owner = IRQ
+controller = IRQ
+add_core = IRQ
+infra = 5
+naval_base = 4
+crude_oil = 79.00
+rare_materials = 2.00
+air_base = 3
+terrain = urban
+points = 10
+energy = 10.00
+
+2005.5.3 = {
+owner = DIR
+controller = DIR
+add_core = DIR
+remove_core = IRQ
+}

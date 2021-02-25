@@ -1,0 +1,7 @@
+owner = CHC
+controller = CHC
+add_core = CHC
+add_core = TWN
+add_core = CGX
+infra = 6
+rare_materials = 10.00

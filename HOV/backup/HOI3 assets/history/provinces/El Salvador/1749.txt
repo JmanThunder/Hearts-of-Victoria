@@ -1,0 +1,8 @@
+owner = SAL
+controller = SAL
+add_core = SAL
+points = 12
+terrain = urban
+infra = 5
+naval_base = 1
+air_base = 1

@@ -1,0 +1,6 @@
+owner = ERI
+controller = ERI
+add_core = ERI
+add_core = ETH
+infra = 2
+energy = 4.00

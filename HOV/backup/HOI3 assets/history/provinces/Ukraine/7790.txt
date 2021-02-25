@@ -1,0 +1,6 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+terrain = urban
+infra = 6
+points = 8

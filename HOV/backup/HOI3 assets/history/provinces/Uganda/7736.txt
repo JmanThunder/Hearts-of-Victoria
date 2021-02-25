@@ -1,0 +1,4 @@
+owner = UGD
+controller = UGD
+add_core = UGD
+infra = 2

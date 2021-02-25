@@ -1,0 +1,14 @@
+owner = ISR
+controller = ISR
+add_core = LEB
+add_core = SYR
+infra = 4
+
+land_fort = 3
+2001.3.24 = {
+    owner = LEB
+    controller = LEB
+    add_core = LEB
+    add_core = SYR
+    infra = 4
+}

@@ -1,0 +1,6 @@
+owner = CZR
+controller = CZR
+add_core = CZR
+infra = 7
+metal = 10.00
+land_fort = 3

@@ -1,0 +1,7 @@
+owner = IND
+controller = IND
+add_core = IND
+infra = 4
+2000.1.1 = {
+	infra = 2
+}

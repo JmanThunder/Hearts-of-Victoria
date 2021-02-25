@@ -1,0 +1,5 @@
+owner = MAL
+controller = MAL
+add_core = MAL
+infra = 4
+manpower = 6.00

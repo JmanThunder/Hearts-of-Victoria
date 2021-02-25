@@ -1,0 +1,8 @@
+owner = VIE
+controller = VIE
+add_core = VIE
+infra = 6
+rare_materials = 5.00
+2000.1.1 = {
+	infra = 2
+}

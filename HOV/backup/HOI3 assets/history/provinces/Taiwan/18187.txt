@@ -1,0 +1,6 @@
+owner=TWN
+controller=TWN
+add_core=TWN
+add_core=CHC
+air_base = 3
+infra = 7

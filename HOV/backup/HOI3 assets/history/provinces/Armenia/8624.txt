@@ -1,0 +1,6 @@
+owner = ARM
+controller = ARM
+add_core = ARM
+infra = 4
+manpower = 3.00
+land_fort = 3

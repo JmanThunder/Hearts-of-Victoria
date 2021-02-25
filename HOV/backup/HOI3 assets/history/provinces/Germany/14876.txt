@@ -1,0 +1,13 @@
+owner = GER
+controller = GER
+add_core = GER
+add_core = EUU
+points = 12
+terrain = urban
+infra = 10
+air_base = 5
+industry = 10
+manpower = 19.00
+rare_materials = 5.00
+leadership = 5.00
+2003.03.15 = { add_core = UNN }

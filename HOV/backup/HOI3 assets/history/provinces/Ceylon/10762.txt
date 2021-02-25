@@ -1,0 +1,6 @@
+owner = SRL
+controller = SRL
+add_core = SRL
+infra = 3
+rare_materials = 5.00
+industry = 3

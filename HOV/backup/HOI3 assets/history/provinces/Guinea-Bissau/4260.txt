@@ -1,0 +1,5 @@
+owner = GUB
+controller = GUB
+add_core = GUB
+infra = 4
+naval_base = 1

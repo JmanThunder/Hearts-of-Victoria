@@ -1,0 +1,6 @@
+owner=PRK
+controller=PRK
+add_core=PRK
+add_core=KOR
+infra = 4
+energy = 4.00

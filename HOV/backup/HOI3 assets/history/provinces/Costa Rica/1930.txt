@@ -1,0 +1,7 @@
+owner = COS
+controller = COS
+add_core = COS
+infra = 5
+naval_base = 1
+air_base = 1
+points = 12

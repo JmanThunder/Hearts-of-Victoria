@@ -1,0 +1,5 @@
+owner = SDR
+controller = SDR
+add_core = SDR
+infra = 3
+rare_materials = 3.00

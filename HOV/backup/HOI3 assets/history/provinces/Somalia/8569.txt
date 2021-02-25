@@ -1,0 +1,4 @@
+owner = SLL
+controller = SLL
+add_core = SOM
+infra = 4

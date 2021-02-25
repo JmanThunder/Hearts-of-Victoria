@@ -1,0 +1,5 @@
+owner = ZMB
+controller = ZMB
+add_core = ZMB
+infra = 2
+rare_materials = 10.00

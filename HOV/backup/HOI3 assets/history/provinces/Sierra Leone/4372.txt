@@ -1,0 +1,5 @@
+owner = SIE
+controller = SIE
+add_core = SIE
+infra = 2
+rare_materials = 10.00

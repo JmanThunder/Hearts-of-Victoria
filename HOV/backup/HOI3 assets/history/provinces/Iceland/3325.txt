@@ -1,0 +1,8 @@
+owner = ICL
+controller = ICL
+add_core = ICL
+points = 12
+terrain = urban
+infra = 6
+naval_base = 1
+air_base = 3

@@ -1,0 +1,6 @@
+owner = SUD
+controller = SUD
+add_core = SUD
+infra = 4
+naval_base = 1
+manpower = 5.00

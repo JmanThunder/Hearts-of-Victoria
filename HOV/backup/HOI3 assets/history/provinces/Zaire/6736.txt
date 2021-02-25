@@ -1,0 +1,6 @@
+owner = DRC
+controller = DRC
+add_core = DRC
+infra = 4
+manpower = 7.00
+rare_materials = 5.00

@@ -1,0 +1,7 @@
+owner = MCD
+controller = MCD
+add_core = MCD
+infra = 6
+energy = 9.00
+industry = 3
+land_fort = 3

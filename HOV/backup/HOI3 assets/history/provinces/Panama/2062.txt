@@ -1,0 +1,8 @@
+owner = PAN
+controller = PAN
+add_core = PAN
+points = 12
+terrain = urban
+infra = 5
+air_base = 5
+naval_base = 4

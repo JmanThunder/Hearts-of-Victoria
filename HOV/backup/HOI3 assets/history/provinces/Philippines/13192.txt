@@ -1,0 +1,6 @@
+owner = PHI
+controller = PHI
+add_core = PHI
+infra = 4
+rare_materials = 3.00
+energy = 5.00

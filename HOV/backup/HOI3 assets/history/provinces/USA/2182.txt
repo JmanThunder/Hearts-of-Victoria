@@ -1,0 +1,12 @@
+owner = USA
+controller = USA
+add_core = USA
+points = 15
+infra = 10
+terrain = urban
+naval_base = 5
+air_base = 5
+industry = 10
+manpower = 8.50
+energy = 15.00
+leadership = 10.00

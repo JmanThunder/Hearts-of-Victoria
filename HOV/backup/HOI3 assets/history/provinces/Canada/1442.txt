@@ -1,0 +1,6 @@
+owner = CAN
+controller = CAN
+add_core = CAN
+infra = 3
+energy = 10.00
+rare_materials = 5.00

@@ -1,0 +1,6 @@
+owner=MLY
+controller=MLY
+add_core=MLY
+infra = 6
+air_base = 5
+rare_materials = 6.00

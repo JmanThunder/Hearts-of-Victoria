@@ -1,0 +1,6 @@
+owner = DEN
+controller = DEN
+add_core = DEN
+add_core = GRL
+infra = 3
+naval_base = 1

@@ -1,0 +1,5 @@
+owner = ISR
+controller = ISR
+add_core = ISR
+infra = 5
+land_fort = 3

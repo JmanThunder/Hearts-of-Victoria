@@ -1,0 +1,8 @@
+owner=OMN
+controller=OMN
+add_core=OMN
+infra = 4
+naval_base = 1
+manpower = 3.00
+air_base = 5
+energy = 4.00

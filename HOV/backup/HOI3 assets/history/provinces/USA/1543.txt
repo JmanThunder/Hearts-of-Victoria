@@ -1,0 +1,6 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 6
+naval_base = 5
+crude_oil = 1.00

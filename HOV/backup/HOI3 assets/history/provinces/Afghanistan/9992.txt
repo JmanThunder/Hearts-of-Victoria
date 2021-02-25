@@ -1,0 +1,32 @@
+owner = ISA
+controller = ISA
+add_core = IEA
+add_core = ISA
+terrain = urban
+infra = 4
+points = 7
+air_base = 1
+
+2000.1.1 = {
+    owner = ISA
+    controller = ISA
+    add_core = ISA
+    add_core = ISA
+    infra = 2
+}
+
+2001.10.7 = {
+    owner = IEA
+    controller = IEA
+    add_core = IEA
+    add_core = ISA
+    infra = 4
+}
+
+2002.6.6 = {
+    owner = AFG
+    controller = AFG
+    add_core = AFG	
+	remove_core = ISA
+    infra = 2
+}

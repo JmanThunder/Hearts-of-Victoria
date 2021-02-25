@@ -1,0 +1,13 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+terrain = urban
+infra = 5
+points = 1
+industry = 7
+2014.4.7 = {
+owner = DPR
+controller = DPR
+add_core = UKR
+infra = 3
+}

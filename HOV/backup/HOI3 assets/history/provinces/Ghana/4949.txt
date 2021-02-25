@@ -1,0 +1,6 @@
+owner=GHN
+controller=GHN
+add_core=GHN
+infra = 4
+naval_base = 1
+manpower = 19.00

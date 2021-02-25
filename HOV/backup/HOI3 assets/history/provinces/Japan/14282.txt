@@ -1,0 +1,6 @@
+owner = JAP
+controller = JAP
+add_core = JAP
+terrain = urban
+infra = 5
+points = 7

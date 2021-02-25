@@ -1,0 +1,8 @@
+owner = NAM
+controller = NAM
+add_core = NAM
+add_core = UNN
+infra = 4
+energy = 4.00
+
+2003.03.15 = { remove_core = UNN } 

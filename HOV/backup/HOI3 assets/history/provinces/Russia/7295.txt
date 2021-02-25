@@ -1,0 +1,12 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+terrain = urban
+points = 10
+air_base = 5
+naval_base = 1
+infra = 8
+industry = 8
+energy = 10.00
+manpower = 8.00
+leadership = 3.00

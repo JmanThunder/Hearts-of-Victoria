@@ -1,0 +1,11 @@
+owner=POL
+controller=POL
+add_core=POL
+terrain = urban
+infra = 8
+air_base = 1
+points = 8
+energy = 5.00
+manpower = 5.00
+leadership = 3.00
+land_fort = 3

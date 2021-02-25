@@ -1,0 +1,9 @@
+owner = VIE
+controller = VIE
+add_core = VIE
+infra = 6
+naval_base = 5
+leadership = 6.00
+energy = 10.00
+manpower = 10.00
+air_base = 5

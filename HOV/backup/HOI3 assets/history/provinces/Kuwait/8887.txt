@@ -1,0 +1,6 @@
+owner=KWT
+controller=KWT
+add_core=KWT
+infra = 5
+industry = 6
+energy = 22.00

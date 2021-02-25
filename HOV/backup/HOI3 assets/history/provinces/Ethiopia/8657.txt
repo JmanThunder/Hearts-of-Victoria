@@ -1,0 +1,6 @@
+owner = ETH
+controller = ETH
+add_core = ETH
+add_core = SOM
+infra = 1
+rare_materials = 3.00

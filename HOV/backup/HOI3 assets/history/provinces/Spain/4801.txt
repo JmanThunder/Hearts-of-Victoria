@@ -1,0 +1,6 @@
+owner = SPA
+controller = SPA
+add_core = SPA
+infra = 6
+rare_materials = 1.00
+metal = 5.00

@@ -1,0 +1,4 @@
+owner = SUR
+controller = SUR
+add_core = SUR
+infra = 2

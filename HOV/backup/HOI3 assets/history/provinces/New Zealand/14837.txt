@@ -1,0 +1,9 @@
+owner = NZL
+controller = NZL
+add_core = NZL
+infra = 7
+naval_base = 3
+air_base = 4
+2000.1.1 = {
+	infra = 2
+}

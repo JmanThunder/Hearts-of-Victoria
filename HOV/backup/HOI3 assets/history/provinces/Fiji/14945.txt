@@ -1,0 +1,4 @@
+owner = FJI
+controller = FJI
+add_core = FJI
+infra = 3

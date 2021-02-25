@@ -1,0 +1,7 @@
+owner=MLY
+controller=MLY
+add_core=MLY
+infra = 6
+naval_base = 3
+manpower = 2.00
+metal = 7.00

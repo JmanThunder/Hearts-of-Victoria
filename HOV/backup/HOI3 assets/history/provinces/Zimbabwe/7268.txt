@@ -1,0 +1,6 @@
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+infra = 2
+rare_materials = 5.00
+energy = 4.00

@@ -1,0 +1,6 @@
+owner=YEM
+controller=YEM
+add_core=YEM
+infra = 4
+energy = 5.00
+industry = 3

@@ -1,0 +1,5 @@
+owner=EQG
+controller=EQG
+add_core=EQG
+infra = 4
+naval_base = 1

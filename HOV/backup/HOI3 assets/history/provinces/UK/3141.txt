@@ -1,0 +1,6 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+add_core = BRM
+infra = 3
+air_base = 1

@@ -1,0 +1,4 @@
+owner = NGR
+controller = NGR
+add_core = NGR
+infra = 3

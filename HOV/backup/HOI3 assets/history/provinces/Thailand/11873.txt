@@ -1,0 +1,11 @@
+owner = SIA
+controller = SIA
+add_core = SIA
+infra = 5
+naval_base = 5
+air_base = 5
+leadership = 10.00
+industry = 8
+energy = 9.00
+manpower = 10.00
+points = 12

@@ -1,0 +1,5 @@
+owner = CUB
+controller = CUB
+add_core = CUB
+infra = 5
+rare_materials = 5.00

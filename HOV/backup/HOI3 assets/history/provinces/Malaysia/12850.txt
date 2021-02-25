@@ -1,0 +1,5 @@
+owner=MLY
+controller=MLY
+add_core = MLY
+add_core = PHI
+infra = 3

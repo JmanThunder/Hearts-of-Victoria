@@ -1,0 +1,4 @@
+owner = ETH
+controller = ETH
+add_core = ETH
+infra = 2

@@ -1,0 +1,5 @@
+owner = ANG
+controller = ANG
+add_core = ANG
+infra = 2
+industry = 4

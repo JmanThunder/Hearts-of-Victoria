@@ -1,0 +1,6 @@
+owner = BEL
+controller = BEL
+add_core = BEL
+infra = 8
+naval_base = 1
+industry = 5

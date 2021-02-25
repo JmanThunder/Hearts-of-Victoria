@@ -1,0 +1,8 @@
+owner = PER
+controller = PER
+add_core = PER
+terrain = urban
+infra = 4
+points = 3
+manpower = 5.00
+land_fort = 3

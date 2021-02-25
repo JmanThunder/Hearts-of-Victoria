@@ -1,0 +1,6 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+naval_base = 3
+infra = 5
+industry = 1

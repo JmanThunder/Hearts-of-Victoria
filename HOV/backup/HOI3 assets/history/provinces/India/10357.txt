@@ -1,0 +1,8 @@
+owner = IND
+controller = IND
+add_core = IND
+infra = 3
+rare_materials = 5.00
+2000.1.1 = {
+	infra = 2
+}

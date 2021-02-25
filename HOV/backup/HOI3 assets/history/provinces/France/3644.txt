@@ -1,0 +1,6 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = SUR
+infra = 1
+manpower = 3.00

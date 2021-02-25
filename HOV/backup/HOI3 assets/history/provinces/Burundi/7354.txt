@@ -1,0 +1,6 @@
+owner = BRD
+controller = BRD
+add_core = BRD
+infra = 4
+energy = 4.00
+rare_materials = 10.00

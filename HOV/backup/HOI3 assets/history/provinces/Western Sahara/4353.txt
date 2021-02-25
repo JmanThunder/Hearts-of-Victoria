@@ -1,0 +1,4 @@
+owner = SDR
+controller = SDR
+add_core = SDR
+infra = 1

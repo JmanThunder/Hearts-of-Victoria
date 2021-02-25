@@ -1,0 +1,7 @@
+owner = JAP
+controller = JAP
+add_core = JAP
+terrain = urban
+infra = 8
+points = 4
+rare_materials = 2.00

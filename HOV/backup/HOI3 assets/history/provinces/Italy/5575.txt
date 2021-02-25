@@ -1,0 +1,7 @@
+owner = ITA
+controller = ITA
+add_core = ITA
+terrain = urban
+infra = 8
+air_base = 5
+points = 2

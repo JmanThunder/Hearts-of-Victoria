@@ -1,0 +1,6 @@
+owner = BOL
+controller = BOL
+add_core = BOL
+points = 12
+terrain = urban
+infra = 4

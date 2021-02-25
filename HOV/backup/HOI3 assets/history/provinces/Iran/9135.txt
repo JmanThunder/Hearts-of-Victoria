@@ -1,0 +1,6 @@
+owner = PER
+controller = PER
+add_core = PER
+terrain = urban
+infra = 3
+energy = 25.00

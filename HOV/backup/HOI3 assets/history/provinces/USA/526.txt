@@ -1,0 +1,6 @@
+owner = USA
+controller = USA
+add_core = USA
+infra = 5
+strategic_resource = gold
+crude_oil = 6.00

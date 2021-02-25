@@ -1,0 +1,5 @@
+owner = NAM
+controller = NAM
+add_core = NAM
+infra = 2
+manpower = 3.00

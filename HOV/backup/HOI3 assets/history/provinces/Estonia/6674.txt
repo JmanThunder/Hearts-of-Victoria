@@ -1,0 +1,6 @@
+owner = EST
+controller = EST
+add_core = EST
+infra = 6
+energy = 4.00
+land_fort = 3

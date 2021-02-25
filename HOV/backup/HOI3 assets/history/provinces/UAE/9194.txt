@@ -1,0 +1,11 @@
+owner=UAE
+controller=UAE
+add_core=UAE
+terrain = urban
+infra = 5
+naval_base = 4
+air_base = 5
+industry = 7
+crude_oil = 40.00
+leadership = 5.00
+energy = 22.00

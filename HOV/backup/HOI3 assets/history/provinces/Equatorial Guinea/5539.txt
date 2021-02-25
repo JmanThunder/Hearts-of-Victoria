@@ -1,0 +1,6 @@
+owner=EQG
+controller=EQG
+add_core=EQG
+infra = 4
+naval_base = 1
+rare_materials = 2.00

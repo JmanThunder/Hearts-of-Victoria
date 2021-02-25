@@ -1,0 +1,8 @@
+owner = ECU
+controller = ECU
+add_core = ECU
+points = 12
+terrain = urban
+infra = 7
+manpower = 6.00
+air_base = 5

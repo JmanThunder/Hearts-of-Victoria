@@ -1,0 +1,8 @@
+owner = KYG
+controller = KYG
+add_core = KYG
+infra = 1
+energy = 4.00
+2000.1.1 = {
+	infra = 2
+}

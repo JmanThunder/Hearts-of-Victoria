@@ -1,0 +1,4 @@
+owner = NIU
+controller = NIU
+add_core = NIU
+infra = 4

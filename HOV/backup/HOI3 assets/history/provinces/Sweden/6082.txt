@@ -1,0 +1,12 @@
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = EUU
+points = 12
+terrain = urban
+infra = 8
+naval_base = 5
+air_base = 9
+manpower = 3.00
+industry = 5
+leadership = 4.00

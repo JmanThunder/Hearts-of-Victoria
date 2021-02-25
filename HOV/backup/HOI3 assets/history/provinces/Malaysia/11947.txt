@@ -1,0 +1,14 @@
+owner=MLY
+controller=MLY
+add_core = MLY
+add_core = UNN
+points = 12
+terrain = urban
+infra = 8
+naval_base = 1
+energy = 5.00
+manpower = 5.00
+metal = 7.00
+leadership = 6.00
+
+2003.03.15 = { remove_core = UNN } 

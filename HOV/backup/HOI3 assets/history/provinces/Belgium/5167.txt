@@ -1,0 +1,7 @@
+owner = BEL
+controller = BEL
+add_core = BEL
+infra = 8
+industry = 1
+metal = 5.00
+air_base = 3

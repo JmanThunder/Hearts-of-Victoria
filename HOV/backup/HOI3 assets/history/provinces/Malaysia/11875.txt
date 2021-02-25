@@ -1,0 +1,9 @@
+owner=MLY
+controller=MLY
+add_core=MLY
+infra = 8
+energy = 5.00
+manpower = 5.00
+2000.1.1 = {
+	infra = 2
+}

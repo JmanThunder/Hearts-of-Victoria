@@ -1,0 +1,8 @@
+owner = JAP
+controller = JAP
+add_core = JAP
+terrain = urban
+infra = 8
+points = 1
+industry = 10
+manpower = 10.00

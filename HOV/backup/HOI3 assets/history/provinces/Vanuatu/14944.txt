@@ -1,0 +1,4 @@
+owner = VNT
+controller = VNT
+add_core = VNT
+infra = 4

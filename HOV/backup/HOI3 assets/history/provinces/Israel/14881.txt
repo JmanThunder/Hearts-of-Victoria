@@ -1,0 +1,4 @@
+owner = PAL
+controller = PAL
+add_core = PAL
+infra = 3

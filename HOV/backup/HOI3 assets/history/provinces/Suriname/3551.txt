@@ -1,0 +1,6 @@
+owner = SUR
+controller = SUR
+add_core = SUR
+infra = 5
+naval_base = 3
+air_base = 1

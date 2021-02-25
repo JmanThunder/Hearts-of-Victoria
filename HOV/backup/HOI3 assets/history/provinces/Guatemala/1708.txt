@@ -1,0 +1,6 @@
+owner = GUA
+controller = GUA
+add_core = GUA
+infra = 5
+naval_base = 1
+rare_materials = 2.00

@@ -1,0 +1,7 @@
+owner = TUN
+controller = TUN
+add_core = TUN
+infra = 5
+terrain = urban
+points = 10
+air_base = 3

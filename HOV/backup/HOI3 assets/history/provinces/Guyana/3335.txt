@@ -1,0 +1,6 @@
+owner = GUY
+controller = GUY
+add_core = GUY
+add_core = VEN
+infra = 4
+energy = 4.00

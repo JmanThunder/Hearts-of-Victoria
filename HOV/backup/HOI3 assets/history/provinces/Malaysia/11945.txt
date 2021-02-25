@@ -1,0 +1,7 @@
+owner=MLY
+controller=MLY
+add_core=MLY
+infra = 3
+2000.1.1 = {
+	infra = 2
+}

@@ -1,0 +1,7 @@
+owner = KYG
+controller = KYG
+add_core = KYG
+points = 12
+terrain = urban
+infra = 4
+air_base = 10

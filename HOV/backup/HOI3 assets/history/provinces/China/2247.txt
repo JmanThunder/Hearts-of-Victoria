@@ -1,0 +1,13 @@
+owner = MCU
+controller = MCU
+add_core = CHC
+add_core = TWN
+add_core = MCU
+infra = 6
+terrain = urban
+points = 8
+industry = 7
+naval_base = 4
+air_base = 1
+manpower = 10.00
+leadership = 10.00

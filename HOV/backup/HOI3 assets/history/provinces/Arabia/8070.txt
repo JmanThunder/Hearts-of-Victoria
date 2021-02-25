@@ -1,0 +1,7 @@
+owner = SAU
+controller = SAU
+add_core = SAU
+infra = 5
+naval_base = 1
+industry = 6
+energy = 8.00

@@ -1,0 +1,5 @@
+owner = DRC
+controller = DRC
+add_core = DRC
+infra = 4
+industry = 3

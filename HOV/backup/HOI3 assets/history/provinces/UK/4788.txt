@@ -1,0 +1,9 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+terrain = urban
+infra = 8
+air_base = 9
+points = 1
+industry = 10
+manpower = 10.00

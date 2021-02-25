@@ -1,0 +1,9 @@
+owner = SIA
+controller = SIA
+add_core = SIA
+infra = 4
+rare_materials = 10.00
+crude_oil = 7.00
+2000.1.1 = {
+	infra = 2
+}

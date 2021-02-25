@@ -1,0 +1,6 @@
+owner = TNZ
+controller = TNZ
+add_core = TNZ
+infra = 4
+naval_base = 1
+manpower = 8.00

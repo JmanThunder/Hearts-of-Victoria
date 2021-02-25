@@ -1,0 +1,9 @@
+owner = CHL
+controller = CHL
+add_core = CHL
+points = 12
+terrain = urban
+infra = 6
+manpower = 5.00
+leadership = 10.00
+2003.03.15 = { add_core = UNN }

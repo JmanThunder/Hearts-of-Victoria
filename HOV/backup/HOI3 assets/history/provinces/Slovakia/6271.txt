@@ -1,0 +1,4 @@
+owner = SLO
+controller = SLO
+add_core = SLO
+infra = 6

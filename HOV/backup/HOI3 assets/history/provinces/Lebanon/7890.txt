@@ -1,0 +1,10 @@
+owner = LEB
+controller = LEB
+add_core = LEB
+add_core = SYR
+terrain = urban
+infra = 5
+naval_base = 3
+air_base = 5
+points = 5
+energy = 5.00

@@ -1,0 +1,11 @@
+owner=MLY
+controller=MLY
+add_core=MLY
+infra = 3
+rare_materials = 6.00
+metal = 7.00
+energy = 4.00
+industry = 3
+2000.1.1 = {
+	infra = 2
+}

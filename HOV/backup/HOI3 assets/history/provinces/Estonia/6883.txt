@@ -1,0 +1,12 @@
+owner = EST
+controller = EST
+add_core = EST
+terrain = urban
+infra = 8
+air_base = 5
+naval_base = 1
+industry = 2
+points = 12
+2004.5.1 = {
+    add_core = EUU
+}

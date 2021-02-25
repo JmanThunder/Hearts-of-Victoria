@@ -1,0 +1,11 @@
+owner = CHC
+controller = CHC
+add_core = CHC
+add_core = TWN
+infra = 9
+terrain = urban
+points = 8
+naval_base = 9
+industry = 5
+manpower = 50.00
+crude_oil = 4.00

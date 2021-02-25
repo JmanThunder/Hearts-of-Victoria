@@ -1,0 +1,7 @@
+owner = BLR
+controller = BLR
+add_core = BLR
+points = 12
+terrain = urban
+infra = 7
+air_base = 5

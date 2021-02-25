@@ -1,0 +1,4 @@
+owner = NOR
+controller = NOR
+add_core = NOR
+infra = 5

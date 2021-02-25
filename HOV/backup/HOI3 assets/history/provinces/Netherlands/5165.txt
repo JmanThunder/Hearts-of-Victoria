@@ -1,0 +1,8 @@
+owner=HOL
+controller=HOL
+add_core=HOL
+infra = 9
+air_base = 3
+industry = 4
+manpower = 5.00
+leadership = 6.00

@@ -1,0 +1,4 @@
+owner = GEO
+controller = GEO
+add_core = GEO
+infra = 5

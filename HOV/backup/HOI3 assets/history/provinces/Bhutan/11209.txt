@@ -1,0 +1,7 @@
+owner = BHU
+controller = BHU
+add_core = BHU
+infra = 4
+air_base = 1
+leadership = 3.00
+points = 12

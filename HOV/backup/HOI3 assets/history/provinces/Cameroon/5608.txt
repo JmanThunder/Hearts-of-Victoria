@@ -1,0 +1,6 @@
+owner = CAM
+controller = CAM
+add_core = CAM
+infra = 2
+rare_materials = 10.00
+2003.03.15 = { add_core = UNN }

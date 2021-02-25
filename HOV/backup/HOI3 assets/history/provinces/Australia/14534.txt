@@ -1,0 +1,8 @@
+owner = AST
+controller = AST
+add_core = AST
+terrain = urban
+infra = 5
+points = 1
+air_base = 1
+naval_base = 1

@@ -1,0 +1,5 @@
+owner = CPV
+controller = CPV
+add_core = CPV
+infra = 4
+naval_base = 1

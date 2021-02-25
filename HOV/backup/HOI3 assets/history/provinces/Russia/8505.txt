@@ -1,0 +1,5 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+infra = 1
+energy = 35.00

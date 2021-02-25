@@ -1,0 +1,11 @@
+owner = IND
+controller = IND
+add_core = IND
+add_core = PAK
+infra = 3
+land_fort = 5
+
+2005.10.8 = {
+infra = 2
+land_fort = 4
+}

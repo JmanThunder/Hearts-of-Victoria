@@ -1,0 +1,5 @@
+owner = SOM
+controller = SOM
+add_core = SOM
+infra = 4
+rare_materials = 10.00

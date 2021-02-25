@@ -1,0 +1,11 @@
+owner = PHI
+controller = PHI
+add_core = PHI
+points = 12
+terrain = urban
+infra = 5
+naval_base = 3
+air_base = 5
+manpower = 10.00
+leadership = 8.00
+industry = 3

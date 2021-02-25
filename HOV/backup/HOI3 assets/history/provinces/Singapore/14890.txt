@@ -1,0 +1,12 @@
+owner = SGP
+controller = SGP
+add_core = SGP
+points = 12
+terrain = urban
+infra = 8
+naval_base = 5
+air_base = 5
+leadership = 6.00
+energy = 4.00
+industry = 3
+manpower = 3.00

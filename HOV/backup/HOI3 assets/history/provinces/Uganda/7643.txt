@@ -1,0 +1,6 @@
+owner = UGD
+controller = UGD
+add_core = UGD
+infra = 4
+manpower = 6.00
+rare_materials = 10.00

@@ -1,0 +1,8 @@
+owner = NEP
+controller = NEP
+add_core = NEP
+infra = 3
+manpower = 5.00
+2000.1.1 = {
+	infra = 2
+}

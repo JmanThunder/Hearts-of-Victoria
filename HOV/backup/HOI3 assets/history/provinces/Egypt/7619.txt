@@ -1,0 +1,5 @@
+owner = EGY
+controller = EGY
+add_core = EGY
+infra = 4
+crude_oil = 5.00

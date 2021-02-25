@@ -1,0 +1,5 @@
+owner = PHI
+controller = REB
+add_core = PHI
+infra = 4
+manpower = 10.00

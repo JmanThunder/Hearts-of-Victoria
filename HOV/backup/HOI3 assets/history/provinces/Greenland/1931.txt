@@ -1,0 +1,5 @@
+owner = DEN
+controller = DEN
+add_core = DEN
+add_core = GRL
+infra = 1

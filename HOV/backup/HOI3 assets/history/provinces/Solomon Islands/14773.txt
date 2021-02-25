@@ -1,0 +1,4 @@
+owner = SLI
+controller = SLI
+add_core = SLI
+infra = 3

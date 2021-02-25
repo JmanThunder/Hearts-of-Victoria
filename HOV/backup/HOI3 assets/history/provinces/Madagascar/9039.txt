@@ -1,0 +1,4 @@
+owner = MAD
+controller = MAD
+add_core = MAD
+infra = 4

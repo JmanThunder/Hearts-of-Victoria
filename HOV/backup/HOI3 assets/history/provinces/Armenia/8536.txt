@@ -1,0 +1,6 @@
+owner = ARM
+controller = ARM
+add_core = ARM
+infra = 4
+industry = 3
+land_fort = 3

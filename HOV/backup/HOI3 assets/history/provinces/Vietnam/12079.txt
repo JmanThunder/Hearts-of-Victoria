@@ -1,0 +1,8 @@
+owner = VIE
+controller = VIE
+add_core = VIE
+infra = 4
+manpower = 10.00
+2000.1.1 = {
+	infra = 2
+}

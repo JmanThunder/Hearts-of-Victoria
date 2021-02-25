@@ -1,0 +1,6 @@
+owner = VNT
+controller = VNT
+add_core = VNT
+infra = 4
+naval_base = 1
+air_base = 1

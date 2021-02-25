@@ -1,0 +1,5 @@
+owner = CNG
+controller = CNG
+add_core = CNG
+infra = 4
+rare_materials = 10.00

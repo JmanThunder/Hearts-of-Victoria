@@ -1,0 +1,5 @@
+owner = INO
+controller = INO
+add_core = INO
+terrain = plains
+infra = 2

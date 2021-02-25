@@ -1,0 +1,5 @@
+owner=CDI
+controller=CDI
+add_core=CDI
+infra = 2
+energy = 4.00

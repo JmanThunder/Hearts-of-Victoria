@@ -1,0 +1,7 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+terrain = urban
+infra = 8
+points = 8
+industry = 10

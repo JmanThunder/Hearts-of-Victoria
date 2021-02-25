@@ -1,0 +1,20 @@
+owner = LBY
+controller = LBY
+add_core = LBY
+infra = 1
+
+2011.3.15 = {
+    owner = LBY
+    controller = REB
+    add_core = LBY
+    infra = 2
+}
+
+2011.10.23 = {
+    owner = DLY
+    controller = DLY
+    add_core = LBY	
+    add_core = DLY
+	remove_core = LBY	
+    infra = 2
+}

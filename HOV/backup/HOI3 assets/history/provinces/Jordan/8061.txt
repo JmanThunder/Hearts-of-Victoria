@@ -1,0 +1,4 @@
+owner = JOR
+controller = JOR
+add_core = JOR
+infra = 4

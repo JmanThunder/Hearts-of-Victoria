@@ -1,0 +1,5 @@
+owner = PAG
+controller = PAG
+add_core = PAG
+infra = 4
+rare_materials = 3.00

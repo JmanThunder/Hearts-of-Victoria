@@ -1,0 +1,10 @@
+owner = PAK
+controller = PAK
+add_core = PAK
+infra = 4
+land_fort = 5
+
+2005.10.8 = {
+infra = 1
+land_fort = 2
+}

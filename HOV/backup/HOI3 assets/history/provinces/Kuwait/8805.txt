@@ -1,0 +1,10 @@
+owner=KWT
+controller=KWT
+add_core=KWT
+terrain = urban
+infra = 10
+naval_base = 4
+air_base = 5
+crude_oil = 79.00
+energy = 10.00
+points = 12

@@ -1,0 +1,4 @@
+owner = SAL
+controller = SAL
+add_core = SAL
+infra = 5

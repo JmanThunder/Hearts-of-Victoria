@@ -1,0 +1,7 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+terrain = urban
+infra = 8
+air_base = 6
+points = 10

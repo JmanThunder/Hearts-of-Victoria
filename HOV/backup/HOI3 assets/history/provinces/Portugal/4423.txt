@@ -1,0 +1,12 @@
+owner=POR
+controller=POR
+add_core=POR
+add_core = EUU
+points = 12
+terrain = urban
+infra = 9
+naval_base = 1
+air_base = 5
+leadership = 4.00
+industry = 4
+manpower = 3.00

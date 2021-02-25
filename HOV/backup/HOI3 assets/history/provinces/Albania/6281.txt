@@ -1,0 +1,8 @@
+owner = ALB
+controller = ALB
+add_core = ALB
+infra = 5
+naval_base = 3
+energy = 4.00
+industry = 3
+land_fort = 3

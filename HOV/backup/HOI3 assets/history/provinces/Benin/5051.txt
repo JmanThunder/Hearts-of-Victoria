@@ -1,0 +1,5 @@
+owner = BEN
+controller = BEN
+add_core = BEN
+infra = 4
+naval_base = 1

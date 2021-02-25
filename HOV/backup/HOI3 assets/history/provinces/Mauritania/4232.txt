@@ -1,0 +1,5 @@
+owner = MRA
+controller = MRA
+add_core = MRA
+infra = 4
+naval_base = 1

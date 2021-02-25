@@ -1,0 +1,6 @@
+owner = BRA
+controller = BRA
+add_core = BRA
+infra = 4
+manpower = 9.00
+energy = 4.00

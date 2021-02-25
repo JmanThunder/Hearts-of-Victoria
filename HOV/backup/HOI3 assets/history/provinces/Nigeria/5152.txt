@@ -1,0 +1,7 @@
+owner = NIG
+controller = NIG
+add_core = NIG
+infra = 5
+naval_base = 3
+crude_oil = 11.00
+air_base = 5

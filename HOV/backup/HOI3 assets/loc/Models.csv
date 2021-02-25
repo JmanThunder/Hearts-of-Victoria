@@ -1,0 +1,889 @@
+MODEL_TAG;Model;Modèle;Model;;Modelo;;;;;;;;;x
+AST_heavy_armor_brigade_0;Leopard I;Leopard I;Leopard I;;Leopard I;;;;;;;;;
+AST_armor_brigade_0;M1A1 Abrams;M1A1 Abrams;M1A1 Abrams;;M1A1 Abrams;;;;;;;;;
+AST_ifv_brigade_1;M113A1 MRV;M113A1 MRV;M113A1 MRV;;M113A1 MRV;;;;;;;;;
+AST_ifv_brigade_2;ASLAV-25;ASLAV-25 ;ASLAV-25;;ASLAV-25;;;;;;;;;
+AST_ifv_brigade_3;ASLAV-25A1;ASLAV-25A1;ASLAV-25A1;;ASLAV-25A1;;;;;;;;;
+AST_submarine_1;Collins Class;Collins Class;Collins Class;;Collins Class;;;;;;;;;
+AST_multi_role__1;F/A18 Hornet;;F/A18 Hornet;;F/A18 Hornet;;F/A18 Hornet;;;;;;;;;
+AST_transport_plane_0;C130 Hercules;;C130 Hercules;;C130 Hercules;;C130 Hercules;;;;;;;;;
+ITA_tank_destroyer_brigade_1;B-1 Centauro;;;;;;;;;;;;;x
+ITA_tank_destroyer_brigade_2;B-2 120mm Centauro;;;;;;;;;;;;;x
+ITA_heavy_armor_brigade_0;OF-40;;;;;;;;;;;;;x
+ITA_armor_brigade_0;C1 Ariete;;;;;;;;;;;;;x
+ITA_cas_0;FIAT G.91Y;;;;;;;;;;;;;x
+ITA_cas_1;AMX;;;;;;;;;;;;;x
+ITA_cas_2;AMX MLU;;;;;;;;;;;;;x
+ITA_cas_3;M-346K;;;;;;;;;;;;;x
+ITA_attack_aircraft_0;FIAT G.91R;;;;;;;;;;;;;x
+ITA_attack_aircraft_1;Tornado IDS;;;;;;;;;;;;;x
+ITA_attack_aircraft_2;Tornado ECR;;;;;;;;;;;;;x
+ITA_attack_aircraft_3;F-35B;;;;;;;;;;;;;x
+ITA_tactical_bomber_0;A-129A Mangusta;;;;;;;;;;;;;x
+ITA_tactical_bomber_1;A-129C Mangusta;;;;;;;;;;;;;x
+ITA_tactical_bomber_2;A-129D Mangusta;;;;;;;;;;;;;x
+ITA_third_generation_air_superiority_0;F-104S ASA;;;;;;;;;;;;;x
+ITA_third_generation_interceptor_0;F-104S;;;;;;;;;;;;;x
+ITA_third_generation_multi_role_0;F-104G;;;;;;;;;;;;;x
+ITA_interceptor_0;Tornado ADV;;;;;;;;;;;;;x
+ITA_fifth_generation_air_superiority_0;EF-2000 Typhoon;;;;;;;;;;;;;x
+ITA_fifth_generation_multi_role_0;F-35A;;;;;;;;;;;;;x
+ITA_sp_artillery_brigade_0;M-109A-1;;;;;;;;;;;;;x
+ITA_sp_artillery_brigade_1;M-109L;;;;;;;;;;;;;x
+ITA_sp_artillery_brigade_2;PzH-2000;;;;;;;;;;;;;x
+ITA_armored_car_brigade_0;Fiat 6614;;;;;;;;;;;;;x
+ITA_armored_car_brigade_1;Puma 4x4;Puma 4x4;Puma 4x4;;Puma 4x4;;;;;;;;;x
+ITA_armored_car_brigade_2;Puma 6x6;Puma 6x6;Puma 6x6;;Puma 6x6;;;;;;;;;x
+ITA_armored_car_brigade_3;Freccia;;;;;;;;;;;;;x
+CHC_attack_aircraft_0;Xian JH-7;Xian JH-7;Xian JH-7;;Xian JH-7;;;;;;;;;x
+CHC_attack_aircraft_1;Xian JH-7A;Xian JH-7A;Xian JH-7A;;Xian JH-7A;;;;;;;;;x
+CHC_attack_aircraft_2;Xian JH-7A+;Xian JH-7A+;Xian JH-7A+;;Xian JH-7A+;;;;;;;;;x
+CHC_attack_aircraft_3;Xian JH-7B;Xian JH-7B;Xian JH-7B;;Xian JH-7B;;;;;;;;;x
+CHC_tactical_bomber_0;CAIC Z-10;CAIC Z-10;CAIC Z-10;;CAIC Z-10;;;;;;;;;x
+CHC_tactical_bomber_1;CAIC Z-10A;CAIC Z-10A;CAIC Z-10A;;CAIC Z-10A;;;;;;;;;x
+CHC_tactical_bomber_2;CAIC Z-10B;CAIC Z-10B;CAIC Z-10B;;CAIC Z-10B;;;;;;;;;x
+CHC_third_generation_interceptor_0;Chengdu J-7GB;Chengdu J-7GB;Chengdu J-7GB;;Chengdu J-7GB;;;;;;;;;x 
+CHC_third_generation_interceptor_1;Chengdu JZ-7;Chengdu JZ-7;Chengdu JZ-7;;Chengdu JZ-7;;;;;;;;;x
+CHC_third_generation_interceptor_2;Chengdu J-7MG;Chengdu J-7MG;Chengdu J-7MG;;Chengdu J-7MG;;;;;;;;;x 
+CHC_interceptor_0;Sukhoi Su-27UBK;Sukhoi Su-27UBK;Sukhoi Su-27UBK;;Sukhoi Su-27UBK;;;;;;;;;x
+CHC_interceptor_1;Shenyang J-11A;Shenyang J-11A;Shenyang J-11A;;Shenyang J-11A;;;;;;;;;x
+CHC_interceptor_2;Shenyang J-11B;Shenyang J-11B;Shenyang J-11B;;Shenyang J-11B;;;;;;;;;x
+CHC_interceptor_3;Shenyang J-11BS;Shenyang J-11BS;Shenyang J-11BS;;Shenyang J-11BS;;;;;;;;;x
+CHC_fourth_generation_interceptor_0;Shenyang J-8B;Shenyang J-8B;Shenyang J-8B;;Shenyang J-8B;;;;;;;;;x
+CHC_fourth_generation_interceptor_1;Shenyang J-8F;Shenyang J-8F;Shenyang J-8F;;Shenyang J-8F;;;;;;;;;x
+CHC_multi_role_0;Sukhoi Su-27SK;Sukhoi Su-27SK;Sukhoi Su-27SK;;Sukhoi Su-27SK;;;;;;;;;x
+CHC_multi_role_1;Chengdu J-10A;Chengdu J-10A;Chengdu J-10A;;Chengdu J-10A;;;;;;;;;x
+CHC_multi_role_2;Chengdu J-10S;Chengdu J-10S;Chengdu J-10S;;Chengdu J-10S;;;;;;;;;x
+CHC_multi_role_3;Chengdu J-10B;Chengdu J-10B;Chengdu J-10B;;Chengdu J-10B;;;;;;;;;x
+CHC_multi_role_4;Shenyang J-16A;Shenyang J-16A;Shenyang J-16A;;Shenyang J-16A;;;;;;;;;x
+CHC_multi_role_5;Shenyang J-16B;Shenyang J-16B;Shenyang J-16B;;Shenyang J-16B;;;;;;;;;x
+CHC_fifth_generation_air_superiority_1;Chengdu J-20A;Chengdu J-20A;Chengdu J-20A;;Chengdu J-20A;;;;;;;;;x
+CHC_fifth_generation_air_superiority_2;Chengdu J-20B;Chengdu J-20B;Chengdu J-20B;;Chengdu J-20B;;;;;;;;;x
+CHC_fifth_generation_air_superiority_3;Chengdu J-20C/D;Chengdu J-20C/D;Chengdu J-20C/D;;Chengdu J-20C/D;;;;;;;;;x
+CHC_fifth_generation_multi_role_0;FC-31 Multi-Purpose Fighter;FC-31 Multi-Purpose Fighter;FC-31 Multi-Purpose Fighter;;FC-31 Multi-Purpose Fighter;;;;;;;;;x
+CHC_fifth_generation_multi_role_1;Shenyang J-31A;Shenyang J-31A;Shenyang J-31A;;Shenyang J-31A;;;;;;;;;x
+CHC_fifth_generation_multi_role_2;Shenyang J-31B;Shenyang J-31B;Shenyang J-31B;;Shenyang J-31B;;;;;;;;;x
+CHC_cas_0;Nanchang Q-5C;Nanchang Q-5C;Nanchang Q-5C;Nanchang Q-5C;;Nanchang Q-5C;;;;;;;;;x
+CHC_cas_1;Nanchang Q-5D;Nanchang Q-5D;Nanchang Q-5D;Nanchang Q-5D;;Nanchang Q-5D;;;;;;;;;x
+CHC_cas_2;Nanchang Q-5E;Nanchang Q-5E;Nanchang Q-5E;Nanchang Q-5E;;Nanchang Q-5E;;;;;;;;;x
+CHC_cas_3;Nanchang Q-5F;Nanchang Q-5F;Nanchang Q-5F;Nanchang Q-5F;;Nanchang Q-5F;;;;;;;;;x
+CHC_strategic_bomber_0;Xian H-6;Xian H-6;Xian H-6;;Xian H-6;;;;;;;;;x
+CHC_destroyer_0;Type 051G2 Luda III-class;Type 051G2 Luda III-class;Type 051G2 Luda III-class;;Type 051G2 Luda III-class;;;;;;;;;x
+CHC_destroyer_1;Type 052 Luhu-class;Type 052 Luhu-class;Type 052 Luhu-class;;Type 052 Luhu-class;;;;;;;;;x
+CHC_destroyer_2;Type 051B Luhai-class;Type 051B Luhai-class;Type 051B Luhai-class;;Type 051B Luhai-class;;;;;;;;;x
+CHC_destroyer_3;Project 956EM Sovremennyy;Project 956EM Sovremennyy;Project 956EM Sovremennyy;;Project 956EM Sovremennyy;;;;;;;;;x
+CHC_destroyer_4;Type 052B Guangzhou-class;Type 052B Guangzhou-class;Type 052B Guangzhou-class;;Type 052B Guangzhou-class;;;;;;;;;x
+CHC_destroyer_5;Type 052C Luyang II-class;Type 052C Luyang II-class;Type 052C Luyang II-class;;Type 052C Luyang II-class;;;;;;;;;x
+CHC_destroyer_6;Type 052D Kunming-class;Type 052D Kunming-class;Type 052D Kunming-class;;Type 052D Kunming-class;;;;;;;;;x
+CHC_destroyer_7;Type 055-class;Type 055-class;Type 055-class;;Type 055-class;;;;;;;;;x
+CHC_battleship_0;Type 053H Jianghu I-class;Type 053H Jianghu I-class;Type 053H Jianghu I-class;;Type 053H Jianghu I-class;;;;;;;;;x
+CHC_battleship_1;Type 053H1 Jianghu II-class;Type 053H1 Jianghu II-class;Type 053H1 Jianghu II-class;;Type 053H1 Jianghu II-class;;;;;;;;;x
+CHC_battleship_2;Type 053H1G Jianghu V-class;Type 053H1G Jianghu V-class;Type 053H1G Jianghu V-class;;Type 053H1G Jianghu V-class;;;;;;;;;x
+CHC_battleship_3;Type 053H2G Jiangwei I-class;Type 053H2G Jiangwei I-class;Type 053H2G Jiangwei I-class;;Type 053H2G Jiangwei I-class;;;;;;;;;x
+CHC_battleship_4;Type 053H3 Jiangwei II-class;Type 053H3 Jiangwei II-class;Type 053H3 Jiangwei II-class;;Type 053H3 Jiangwei II-class;;;;;;;;;x
+CHC_battleship_5;Type 054 Jiangkai I-class;Type 054 Jiangkai I-class;Type 054 Jiangkai I-class;;Type 054 Jiangkai I-class;;;;;;;;;x
+CHC_battleship_6;Type 054A Jiangkai II-class;Type 054A Jiangkai II-class;Type 054A Jiangkai II-class;;Type 054A Jiangkai II-class;;;;;;;;;x
+CHC_armor_brigade_0;Type 96;Type 96;Type 96;;Type 96;;;;;;;;;x
+CHC_armor_brigade_1;Type 96G;Type 96G;Type 96G;;Type 96G;;;;;;;;;x
+CHC_armor_brigade_2;Type 90;Type 90;Type 90;;Type 90;;;;;;;;;x
+CHC_armor_brigade_3;Type 99;Type 99;Type 99;;Type 99;;;;;;;;;x
+CHC_armor_brigade_4;Type 99A2;Type 99A2;Type 99A2;;Type 99A2;;;;;;;;;x
+CHC_light_armor_brigade_0;Type 63;Type 63;Type 63;;Type 63;;;;;;;;;x
+CHC_light_armor_brigade_1;Type 63-II;Type 63-II;Type 63-II;;Type 63-II;;;;;;;;;x
+CHC_light_armor_brigade_2;Type 63A;Type 63A;Type 63A;;Type 63A;;;;;;;;;x
+CHC_light_armor_brigade_3;ZTD05;ZTD05;ZTD05;;ZTD05;;;;;;;;;x
+CHC_light_armor_brigade_4;ZTD05-VN16;ZTD05-VN16;ZTD05-VN16;;ZTD05-VN16;;;;;;;;;x
+CHC_ifv_brigade_0;Type 89;Type 89;Type 89;;Type 89;;;;;;;;;x
+CHC_ifv_brigade_1;Type 90;Type 90;Type 90;;Type 90;;;;;;;;;x
+CHC_ifv_brigade_2;Type 92;Type 92;Type 92;;Type 92;;;;;;;;;x
+CHC_ifv_brigade_3;ZBD-97;ZBD-97;ZBD-97;;ZBD-97;;;;;;;;;x
+CHC_ifv_brigade_4;ZBD-04;ZBD-04;ZBD-04;;ZBD-04;;;;;;;;;x
+CHC_ifv_brigade_5;ZBD-08;ZBD-08;ZBD-08;;ZBD-08;;;;;;;;;x
+CHC_sp_artillery_brigade_1;Type 83 (152mm);Type 83 (152mm);Type 83 (152mm);;Type 83 (152mm);;;;;;;;;x
+CHC_sp_artillery_brigade_2;PLZ89 (122mm);PLZ89 (122mm);PLZ89 (122mm);;PLZ89 (122mm);;;;;;;;;x
+CHC_sp_artillery_brigade_3;PLL05 (120mm);PLL05 (120mm);PLL05 (120mm);;PLL05 (120mm);;;;;;;;;x
+CHC_sp_artillery_brigade_4;PLZ05 (155mm);PLZ05 (155mm);PLZ05 (155mm);;PLZ05 (155mm);;;;;;;;;x
+CHC_sp_artillery_brigade_5;PLZ07 (155mm);PLZ07 (155mm);PLZ07 (155mm);;PLZ07 (155mm);;;;;;;;;x
+CHC_sp_artillery_brigade_6;PLZ09 (160mm);PLZ09 (160mm);PLZ09 (160mm);;PLZ09 (160mm);;;;;;;;;x
+CHC_sp_artillery_brigade_7;PLZ10 (160mm);PLZ10 (160mm);PLZ10 (160mm);;PLZ10 (160mm);;;;;;;;;x
+CHC_artillery_brigade_1;Type 59 (130mm);Type 59 (130mm);Type 59 (130mm);;Type 59 (130mm);;;;;;;;;x
+CHC_artillery_brigade_2;Type 66 (152mm);Type 66 (152mm);Type 66 (152mm);;Type 66 (152mm);;;;;;;;;x
+CHC_artillery_brigade_3;Type 83 (122mm);Type 83 (122mm);Type 83 (122mm);;Type 83 (122mm);;;;;;;;;x
+CHC_artillery_brigade_4;Type 86 (122mm);Type 86 (122mm);Type 86 (122mm);;Type 86 (122mm);;;;;;;;;x
+CHC_artillery_brigade_5;Type 86 (100mm) AT;Type 86 (100mm) AT;Type 86 (100mm) AT;;Type 86 (100mm) AT;;;;;;;;;x
+CHC_anti_air_brigade_0;HQ-7;HQ-7;HQ-7;;HQ-7;;;;;;;;;x
+CHC_anti_air_brigade_1;HQ-7;HQ-7;HQ-7;;HQ-7;;;;;;;;;x
+CHC_tank_destroyer_brigade_1;PTZ89 Tank Destroyer;PTZ89 Tank Destroyer;PTZ89 Tank Destroyer;;PTZ89 Tank Destroyer;;;;;;;;;x
+CHC_tank_destroyer_brigade_2;HongJian HJ-9A;HongJian HJ-9A;HongJian HJ-9A;;HongJian HJ-9A;;;;;;;;;x
+CHC_tank_destroyer_brigade_3;PTL02;PTL02;PTL02;;PTL02;;;;;;;;;x
+CHC_tank_destroyer_brigade_4;PTL04;PTL04;PTL04;;PTL04;;;;;;;;;x
+CHC_tank_destroyer_brigade_5;PTL06;PTL06;PTL06;;PTL06;;;;;;;;;x
+CHC_tank_destroyer_brigade_6;PTL08;PTL08;PTL08;;PTL08;;;;;;;;;x
+ENG_attack_aircraft_0;Jaguar GR3;Jaguar GR3;Jaguar GR3;;Jaguar GR3;;;;;;;;;x
+ENG_attack_aircraft_1;Jaguar GR3A;Jaguar GR3A;Jaguar GR3A;;Jaguar GR3A;;;;;;;;;x
+ENG_attack_aircraft_2;Harrier GR.9A (Attack);Harrier GR.9A (Attack);Harrier GR.9a (Attack);;Harrier GR.9A (Attack);;;;;;;;;x
+ENG_attack_aircraft_3;Tornado EF3;Tornado EF3;Tornado EF3;;Tornado EF3;;;;;;;;;x
+ENG_strategic_bomber_0;Avro Vulcan B.2;Avro Vulcan B.2;Avro Vulcan B.2;;Avro Vulcan B.2;;;;;;;;;x
+ENG_strategic_bomber_1;Avro Vulcan B.3;Avro Vulcan B.3;Avro Vulcan B.3;;Avro Vulcan B.3;;;;;;;;;x
+ENG_tactical_bomber_0;Lynx AH.7;Lynx AH.7;Lynx AH.7;;Lynx AH.7;;;;;;;;;x
+ENG_tactical_bomber_1;Lynx AH.9;Lynx AH.9;Lynx AH.9;;Lynx AH.9;;;;;;;;;x
+ENG_tactical_bomber_2;Apache AH1;Apache AH1;Apache AH1;;Apache AH1;;;;;;;;;x
+ENG_tactical_bomber_3;Apache AH1 Mk2;Apache AH1 Mk2;Apache AH1 Mk2;;Apache AH1 Mk2;;;;;;;;;x
+ENG_tactical_bomber_4;Wildcat AH1;Wildcat AH1;Wildcat AH1;;Wildcat AH1;;;;;;;;;x
+ENG_interceptor_0;Tornado GR4;Tornado GR4;Tornado GR4;;Tornado GR4;;;;;;;;;x
+ENG_interceptor_1;Tornado GR4+;Tornado GR4+;Tornado GR4+;;Tornado GR4+;;;;;;;;;x
+ENG_interceptor_2;Eurofighter Typhoon B10;Eurofighter Typhoon B10;Eurofighter Typhoon B10;;Eurofighter Typhoon B10;;;;;;;;;x
+ENG_fourth_generation_interceptor_0;Panavia Tornado F2;Panavia Tornado F2;Panavia Tornado F2;;Panavia Tornado F2;;;;;;;;;x
+ENG_fourth_generation_interceptor_1;Panavia Tornado F2A;Panavia Tornado F2A;Panavia Tornado F2A;;Panavia Tornado F2A;;;;;;;;;x
+ENG_fourth_generation_interceptor_2;Panavia Tornado F3;Panavia Tornado F3;Panavia Tornado F3;;Panavia Tornado F3;;;;;;;;;x
+ENG_multi_role_0;Panavia Tornado GR.4;Panavia Tornado FGR.4;Panavia Tornado FGR.4;;Panavia Tornado FGR.4;;;;;;;;;x
+ENG_multi_role_1;Tornado GR.4A TIRRS;Tornado GR.4A TIRRS;Tornado GR.4A TIRRS;;Tornado GR.4A TIRRS;;;;;;;;;x
+ENG_multi_role_2;Eurofighter Typhoon T1;Eurofighter Typhoon T1;Eurofighter Typhoon T1;;Eurofighter Typhoon T1;;;;;;;;;x
+ENG_multi_role_3;Eurofighter Typhoon F2;Eurofighter Typhoon F2;Eurofighter Typhoon F2;;Eurofighter Typhoon F2;;;;;;;;;x
+ENG_multi_role_4;Eurofighter Typhoon T3;Eurofighter Typhoon T3;Eurofighter Typhoon T3;;Eurofighter Typhoon T3;;;;;;;;;x
+ENG_multi_role_5;Eurofighter Typhoon FGR4;Eurofighter Typhoon FGR4;Eurofighter Typhoon FGR4;;Eurofighter Typhoon FGR4;;;;;;;;;x
+ENG_transport_plane_0;Hercules C4;Hercules C4;Hercules C4;;Hercules C4;;;;;;;;;x
+ENG_transport_plane_1;Hercules C5;Hercules C5;Hercules C5;;Hercules C5;;;;;;;;;x
+ENG_transport_plane_2;C-17 Globemaster III;C-17 Globemaster III;C-17 Globemaster III;;C-17 Globemaster III;;;;;;;;;x
+ENG_transport_plane_3;Airbus A400M Atlas;Airbus A400M Atlas;Airbus A400M Atlas;;Airbus A400M Atlas;;;;;;;;;x
+ENG_naval_bomber_0;Nimrod MR1;Nimrod MR1;Nimrod MR1;;Nimrod MR1;;;;;;;;;x
+ENG_naval_bomber_1;Nimrod MR2;Nimrod MR2;Nimrod MR2;;Nimrod MR2;;;;;;;;;x
+ENG_naval_bomber_2;Nimrod MR2 MK.2;Nimrod MR2 MK.2;Nimrod MR2 MK.2;;Nimrod MR2 MK.2;;;;;;;;;x
+ENG_naval_bomber_3;Nimrod MRA4;Nimrod MRA4;Nimrod MRA4;;Nimrod MRA4;;;;;;;;;x
+ENG_cag_0;Sea Harrier FRS.1;Sea Harrier FRS.1;Sea Harrier FRS.1;;Sea Harrier FRS.1;;;;;;;;;x
+ENG_cag_1;Sea Harrier FRS.2;Sea Harrier FRS.2;Sea Harrier FRS.2;;Sea Harrier FRS.2;;;;;;;;;x
+ENG_cag_2;Sea Harrier F(A).2;Sea Harrier F(A).2;Sea Harrier F(A).2;;Sea Harrier F(A).2;;;;;;;;;x
+ENG_cag_3;Sea Harrier F(A).2 Mk.2;Sea Harrier F(A).2 Mk.2;Sea Harrier F(A).2 Mk.2;;Sea Harrier F(A).2 Mk.2;;;;;;;;;x
+ENG_cag_4;F-35 Joint Strike Fighter;F-35 Joint Strike Fighter;F-35 Joint Strike Fighter;;F-35 Joint Strike Fighter;;;;;;;;;x
+ENG_assault_ship_0;Fearless-class;Fearless-class;Fearless-class;;Fearless-class;;;;;;;;;x
+ENG_assault_ship_1;Albion-class;Albion-class;Albion-class;;Albion-class;;;;;;;;;x
+ENG_assault_ship_2;Albion II-class;Albion II-class;Albion II-class;;Albion II-class;;;;;;;;;x
+ENG_escort_carrier_0;Audacious-class;Audacious-class;Audacious-class;;Audacious-class;;;;;;;;;x
+ENG_escort_carrier_1;Invincible-class;Invincible-class;Invincible-class;;Invincible-class;;;;;;;;;x
+ENG_escort_carrier_2;Improved Invincible-class;Improved Invincible-class;Improved Invincible-class;;Improved Invincible-class;;;;;;;;;x
+ENG_escort_carrier_3;Queen Elizabeth-class;Queen Elizabeth-class;Queen Elizabeth-class;;Queen Elizabeth-class;;;;;;;;;x
+ENG_escort_carrier_4;King William-class;King William-class;King William-class;;King William-class;;;;;;;;;x
+ENG_destroyer_0;Sheffield-class (Type 42);Sheffield-class (Type 42);Sheffield-class (Type 42);;Sheffield-class (Type 42);;;;;;;;;x
+ENG_destroyer_1;Sheffield-class (Type 42+);Sheffield-class (Type 42+);Sheffield-class (Type 42+);;Sheffield-class (Type 42+);;;;;;;;;x
+ENG_destroyer_2;Sheffield-class (Type 42 II);Sheffield-class (Type 42 II);Sheffield-class (Type 42 II);;Sheffield-class (Type 42 II);;;;;;;;;x
+ENG_destroyer_3;Daring-class (Type 45);Daring-class (Type 45);Daring-class (Type 45);;Daring-class (Type 45);;;;;;;;;x
+ENG_destroyer_4;Daring II-class (Type 46);Daring II-class (Type 46);Daring II-class (Type 46);;Daring II-class (Type 46);;;;;;;;;x
+ENG_battleship_0;Broadsword-class (Type 22);Broadsword-class (Type 22);Broadsword-class (Type 22);;Broadsword-class (Type 22);;;;;;;;;x
+ENG_battleship_1;Duke-class (Type 23);Duke-class (Type 23);Duke-class (Type 23);;Duke-class (Type 23);;;;;;;;;x
+ENG_battleship_2;Type 26 Global Combat Ship;Type 26 Global Combat Ship;Type 26 Global Combat Ship;;Type 26 Global Combat Ship;;;;;;;;;x
+ENG_nuclear_submarine_0;Swiftsure-class;Swiftsure-class;Swiftsure-class;;Swiftsure-class;;;;;;;;;x
+ENG_nuclear_submarine_1;Trafalgar-class;Trafalgar-class;Trafalgar-class;;Trafalgar-class;;;;;;;;;x
+ENG_nuclear_submarine_2;Astute-class;Astute-class;Astute-class;;Astute-class;;;;;;;;;x
+ENG_nuclear_submarine_3;Astute II-class;Astute II-class;Astute II-class;;Astute II-class;;;;;;;;;x
+ENG_missile_submarine_0;Vanguard-class;Vanguard-class;Vanguard-class;;Vanguard-class;;;;;;;;;x
+ENG_missile_submarine_1;Vanguard-class Block II;Vanguard-class Block II;Vanguard-class Block II;;Vanguard-class Block II;;;;;;;;;x
+ENG_missile_submarine_2;Vanguard Replacement;Vanguard Replacement;Vanguard Replacement;;Vanguard Replacement;;;;;;;;;x
+ENG_invasion_transport_ship_0;LCVP Mk4;LCVP Mk4;LCVP Mk4;;LCVP Mk4;;;;;;;;;x
+ENG_invasion_transport_ship_1;LCVP Mk5;LCVP Mk5;LCVP Mk5;;LCVP Mk5;;;;;;;;;x
+ENG_invasion_transport_ship_2;Griffon 2000TDX Mk1;Griffon 2000TDX Mk1;Griffon 2000TDX Mk1;;Griffon 2000TDX Mk1;;;;;;;;;x
+ENG_invasion_transport_ship_3;Griffon 2000TDX Mk2;Griffon 2000TDX Mk2;Griffon 2000TDX Mk2;;Griffon 2000TDX Mk2;;;;;;;;;x
+ENG_armor_brigade_0;FV4030 Challenger 1 Mk.3;FV4030 Challenger 1 Mk.3;FV4030 Challenger 1 Mk.3;;FV4030 Challenger 1 Mk.3;;;;;;;;;x
+ENG_armor_brigade_1;FV4034 Challenger 2;FV4034 Challenger 2;FV4034 Challenger 2;;FV4034 Challenger 2;;;;;;;;;x
+ENG_armor_brigade_2;FV4034 Challenger 2 TES;FV4034 Challenger 2 TES;FV4034 Challenger 2 TES;;FV4034 Challenger 2 TES;;;;;;;;;x
+ENG_armor_brigade_3;FV4034 Challenger 2 Mk.2;FV4034 Challenger 2 Mk.2;FV4034 Challenger 2 Mk.2;;FV4034 Challenger 2 Mk.2;;;;;;;;;x
+ENG_armor_brigade_4;FV4034 Challenger 2 Mk.3;FV4034 Challenger 2 Mk.3;FV4034 Challenger 2 Mk.3;;FV4034 Challenger 2 Mk.3;;;;;;;;;x
+ENG_heavy_armor_brigade_0;FV4201 Chieftain Mk 3;FV4201 Chieftain Mk 3;FV4201 Chieftain Mk 3;;FV4201 Chieftain Mk 3;;;;;;;;;x
+ENG_heavy_armor_brigade_1;FV4201 Chieftain Mk.5;FV4201 Chieftain Mk 3;FV4201 Chieftain Mk 3;;FV4201 Chieftain Mk 3;;;;;;;;;x
+ENG_heavy_armor_brigade_2;FV4201 Chieftain Mk.6-9;FV4201 Chieftain Mk.6-9;FV4201 Chieftain Mk.6-9;;FV4201 Chieftain Mk.6-9;;;;;;;;;x
+ENG_heavy_armor_brigade_3;FV4201 Chieftain Mk.10;FV4201 Chieftain Mk.10;FV4201 Chieftain Mk.10;;FV4201 Chieftain Mk.10;;;;;;;;;x
+ENG_heavy_armor_brigade_4;FV4201 Chieftain Mk.11;FV4201 Chieftain Mk.11;FV4201 Chieftain Mk.11;;FV4201 Chieftain Mk.11;;;;;;;;;x
+ENG_ifv_brigade_0;FV107A Scimitar;FV107A Scimitar;FV107A Scimitar;;FV107A Scimitar;;;;;;;;;x
+ENG_ifv_brigade_1;FV107B Scimitar;FV107B Scimitar;FV107B Scimitar;;FV107B Scimitar;;;;;;;;;x
+ENG_ifv_brigade_3;FV520 Warrior CRV(T);FV520 Warrior CRV(T);FV520 Warrior CRV(T);;FV520 Warrior CRV(T);;;;;;;;;x
+ENG_armored_car_brigade_0;Land Rover WMIK;Land Rover WMIK;Land Rover WMIK;;Land Rover WMIK;;;;;;;;;x
+ENG_armored_car_brigade_1;Land Rover WMIK Mk.2;Land Rover WMIK Mk.2;Land Rover WMIK Mk.2;;Land Rover WMIK Mk.2;;;;;;;;;x
+ENG_armored_car_brigade_2;WMIK Jackal;WMIK Jackal;WMIK Jackal;;WMIK Jackal;;;;;;;;;x
+ENG_armored_car_brigade_3;WMIK Jackal Mk.2;WMIK Jackal Mk.2;WMIK Jackal Mk.2;;WMIK Jackal Mk.2;;;;;;;;;x
+ENG_armored_car_brigade_4;Ridgeback PPV;Ridgeback PPV;Ridgeback PPV;;Ridgeback PPV;;;;;;;;;x
+ENG_armored_car_brigade_5;Mastiff PPV;Mastiff PPV;Mastiff PPV;;Mastiff PPV;;;;;;;;;x
+ENG_armored_car_brigade_6;Wolfhound HTSV;Wolfhound HTSV;Wolfhound HTSV;;Wolfhound HTSV;;;;;;;;;x
+ENG_sp_rocket_artillery_brigade_0;M270B MLRS;M270B MLRS;M270B MLRS;;M270B MLRS;;;;;;;;;x
+ENG_sp_rocket_artillery_brigade_1;M270B1 IPDS;M270B1 IPDS;M270B1 IPDS;;M270B1 IPDS;;;;;;;;;x
+ENG_sp_artillery_brigade_0;FV433 Abbot Mk.2;FV433 Abbot Mk.2;FV433 Abbot Mk.2;;FV433 Abbot Mk.2;;;;;;;;;x
+ENG_sp_artillery_brigade_1;AS-90;AS-90;AS-90;;AS-90;;;;;;;;;x
+ENG_sp_artillery_brigade_2;AS-90D;AS-90D;AS-90D;;AS-90D;;;;;;;;;xBraveheart
+ENG_sp_artillery_brigade_3;AS-90 Braveheart;AS-90 Braveheart;AS-90 Braveheart;;AS-90 Braveheart;;;;;;;;x
+ENG_sp_artillery_brigade_4;AS-90 Braveheart;AS-90 Braveheart;AS-90 Braveheart;;AS-90 Braveheart;;;;;;;;x
+ENG_artillery_brigade_0;L118 Light Gun;L118 Light Gun;L118 Light Gun;;L118 Light Gun;;;;;;;;x
+ENG_artillery_brigade_1;L118 Light Gun Mk.2;L118 Light Gun Mk.2;L118 Light Gun Mk.2;;L118 Light Gun Mk.2;;;;;;;;x
+ENG_artillery_brigade_2;L118 Light Gun Mk.3;L118 Light Gun Mk.3;L118 Light Gun Mk.3;;L118 Light Gun Mk.3;;;;;;;;x
+ENG_artillery_brigade_3;L118 Light Gun Mk.3;L118 Light Gun Mk.3;L118 Light Gun Mk.3;;L118 Light Gun Mk.3;;;;;;;;x
+ENG_artillery_brigade_4;L118 Light Gun Mk.3;L118 Light Gun Mk.3;L118 Light Gun Mk.3;;L118 Light Gun Mk.3;;;;;;;;x
+ENG_artillery_brigade_5;L118 Light Gun Mk.3;L118 Light Gun Mk.3;L118 Light Gun Mk.3;;L118 Light Gun Mk.3;;;;;;;;x
+ENG_artillery_brigade_6;L118 Light Gun Mk.3;L118 Light Gun Mk.3;L118 Light Gun Mk.3;;L118 Light Gun Mk.3;;;;;;;;x
+ENG_anti_air_brigade_0;Tracked Rapier FSA;Tracked Rapier FSA;Tracked Rapier FSA;;Tracked Rapier FSA;;;;;;;;x
+ENG_anti_air_brigade_1;Tracked Rapier FSB;Tracked Rapier FSB;Tracked Rapier FSB;;Tracked Rapier FSB;;;;;;;;x
+ENG_anti_air_brigade_2;Tracked Rapier FSC;Tracked Rapier FSC;Tracked Rapier FSC;;Tracked Rapier FSC;;;;;;;;x
+ENG_anti_air_brigade_3;Tracked Rapier 2000;Tracked Rapier 2000;Tracked Rapier 2000;;Tracked Rapier 2000;;;;;;;;x
+ENG_tank_destroyer_brigade_0;IFV Warrior MILAN;FV Warrior MILAN;FV Warrior MILAN;;FV Warrior MILAN;;;;;;;;x
+ENG_tank_destroyer_brigade_1;FV102 Striker;FV102 Striker;FV102 Striker;;FV102 Striker;;;;;;;;x
+ENG_anti_tank_brigade_0;MILAN 1;MILAN 1;MILAN 1;;MILAN 1;;;;;;;;x
+ENG_anti_tank_brigade_1;MILAN 2;MILAN 2;MILAN 2;;MILAN 2;;;;;;;;x
+ENG_anti_tank_brigade_2;MILAN 2T;MILAN 2T;MILAN 2T;;MILAN 2T;;;;;;;;x
+ENG_anti_tank_brigade_3;Javelin ATGM;Javelin ATGM;Javelin ATGM;;Javelin ATGM;;;;;;;;x
+FRA_attack_aircraft_0;Mirage 2000N;Mirage 2000N;Mirage 2000N;;Mirage 2000N;;;;;;;;x
+FRA_attack_aircraft_1;Mirage 2000D;Mirage 2000D;Mirage 2000D;;Mirage 2000D;;;;;;;;x
+FRA_attack_aircraft_2;Mirage 2000N-K3;Mirage 2000N-K3;Mirage 2000N-K3;;Mirage 2000N-K3;;;;;;;;x
+FRA_transport_plane_0;Transall C-160;Transall C-160;Transall C-160;;Transall C-160;;;;;;;;;x
+FRA_transport_plane_1;CASA/IPTN CN-200;CASA/IPTN CN-200;CASA/IPTN CN-200;;CASA/IPTN CN-200;;;;;;;;;x
+FRA_transport_plane_2;CASA/IPTN CN-300;CASA/IPTN CN-300;CASA/IPTN CN-300;;CASA/IPTN CN-300;;;;;;;;;x
+FRA_transport_plane_3;Airbus A400M Atlas;Airbus A400M Atlas;Airbus A400M Atlas;;Airbus A400M Atlas;;;;;;;;;x
+FRA_tactical_bomber_0;Gazelle SA 341F;Gazelle SA 341F;Gazelle SA 341F;;Gazelle SA 341F;;;;;;;;x
+FRA_tactical_bomber_1;Gazelle SA 342M;Gazelle SA 342M;Gazelle SA 342M;;Gazelle SA 342M;;;;;;;;x
+FRA_tactical_bomber_2;Eurocopter Tigre HAP;Eurocopter Tigre HAP;Eurocopter Tigre HAP;;Eurocopter Tigre HAP;;;;;;;;x
+FRA_tactical_bomber_3;Eurocopter Tigre HAD+;Eurocopter Tigre HAD+;Eurocopter Tigre HAD+;;Eurocopter Tigre HAD+;;;;;;;;x
+FRA_tactical_bomber_4;Eurocopter Tigre ARH-F;Eurocopter Tigre ARH-F;Eurocopter Tigre ARH-F;;Eurocopter Tigre ARH-F;;;;;;;;x
+FRA_interceptor_0;Dassault Rafale C;Dassault Rafale C;Dassault Rafale C;;Dassault Rafale C;;;;;;;;;x
+FRA_interceptor_1;Dassault Rafale D/R;Dassault Rafale D/R;Dassault Rafale D/R;;Dassault Rafale D/R;;;;;;;;;x
+FRA_multi_role_0;Dassault Mirage F1M;Dassault Mirage F1M;Dassault Mirage F1M;;Dassault Mirage F1M;;;;;;;;;x
+FRA_multi_role_1;Dassault Mirage 2000-5;Dassault Mirage 2000-5;Dassault Mirage 2000-5;;Dassault Mirage 2000-5;;;;;;;;;x
+FRA_multi_role_2;Dassault Rafale B;Dassault Rafale B;Dassault Rafale B;;Dassault Rafale B;;;;;;;;;x
+FRA_multi_role_3;Dassault Rafale B+;Dassault Rafale B+;Dassault Rafale B+;;Dassault Rafale B+;;;;;;;;;x
+FRA_fourth_generation_interceptor_0;Mirage 2000C-Chasseur;Mirage 2000C-Chasseur;Mirage 2000C-Chasseur;;Mirage 2000C-Chasseur;;;;;;;;;x
+FRA_fourth_generation_interceptor_1;Mirage 2000C-Chasseur II;Mirage 2000C-Chasseur II;Mirage 2000C-Chasseur II;;Mirage 2000C-Chasseur II;;;;;;;;;x
+FRA_fourth_generation_interceptor_2;Mirage 2000-5 Mk.2;Mirage 2000-5 Mk.2;Mirage 2000-5 Mk.2;;Mirage 2000-5 Mk.2;;;;;;;;;x
+FRA_cag_0;Dassault Super Étendard;;Dassault Super Étendard;Dassault Super Étendard;;Dassault Super Étendard;;;;;;;;;x
+FRA_cag_1;Dassault Rafale M;;Dassault Rafale M;Dassault Rafale M;;Dassault Rafale M;;;;;;;;;x
+FRA_armor_brigade_0;AMX Leclerc Séries 1;AMX Leclerc Séries 1;AMX Leclerc Séries 1;;AMX Leclerc Séries 1;;;;;;;;x
+FRA_armor_brigade_1;AMX Leclerc Séries 2;AMX Leclerc Séries 2;AMX Leclerc Séries 2;;AMX Leclerc Séries 2;;;;;;;;x
+FRA_armor_brigade_2;AMX Leclerc Séries XXI;AMX Leclerc Séries XXI;AMX Leclerc Séries XXI;;AMX Leclerc Séries XXI;;;;;;;;x
+FRA_armor_brigade_3;AMX Leclerc AZUR;AMX Leclerc AZUR;AMX Leclerc AZUR;;AMX Leclerc AZUR;;;;;;;;x
+FRA_heavy_armor_brigade_0;AMX-30;AMX-30;AMX-30;;AMX-30;;;;;;;;x
+FRA_heavy_armor_brigade_1;AMX-30 ACRA;AMX-30 ACRA;AMX-30 ACRA;;AMX-30 ACRA;;;;;;;;x
+FRA_heavy_armor_brigade_2;AMX-32;AMX-32;AMX-32;;AMX-32;;;;;;;;x
+FRA_light_armor_brigade_0;AMX 10 RC-A;AMX 10 RC-A;AMX 10 RC-A;;AMX 10 RC-A;;;;;;;;x
+FRA_light_armor_brigade_1;AMX 10 RC-B;AMX 10 RC-B;AMX 10 RC-B;;AMX 10 RC-B;;;;;;;;x
+FRA_light_armor_brigade_2;AMX 10 RC-C;AMX 10 RC-C;AMX 10 RC-C;;AMX 10 RC-C;;;;;;;;x
+FRA_light_armor_brigade_3;Scorpion EBRC;Scorpion EBRC;Scorpion EBRC;;Scorpion EBRC;;;;;;;;x
+FRA_ifv_brigade_0;AMX-10P;AMX-10P;AMX-10P;;AMX-10P;;;;;;;;x
+FRA_ifv_brigade_1;AMX-10 PAC 90;AMX-10 PAC 90;AMX-10 PAC 90;;AMX-10 PAC 90;;;;;;;;x
+FRA_ifv_brigade_2;AMX-10RC;AMX-10RC;AMX-10RC;;AMX-10RC;;;;;;;;x
+FRA_ifv_brigade_3;AMX-10RC-B;AMX-10RC-B;AMX-10RC-B;;AMX-10RC-B;;;;;;;;x
+FRA_armored_car_brigade_0;VAB RASIT;VAB RASIT;VAB RASIT;;VAB RASIT;;;;;;;;x
+FRA_armored_car_brigade_1;VAB Reco;VAB Reco;VAB Reco;;VAB Reco;;;;;;;;x
+FRA_armored_car_brigade_2;VBL;VAB Reco;VAB Reco;;VAB Reco;;;;;;;;x
+FRA_armored_car_brigade_3;VBL Reco 12.7;VBL Reco 12.7;VBL Reco 12.7;;VBL Reco 12.7;;;;;;;;x
+FRA_sp_artillery_brigade_0;CCT AUF1 (155mm);CCT AUF1 (155mm);CCT AUF1 (155mm);;CCT AUF1 (155mm);;;;;;;;x
+FRA_sp_artillery_brigade_1;CCT AUF2 (155mm);CCT AUF2 (155mm);CCT AUF2 (155mm);;CCT AUF2 (155mm);;;;;;;;x
+FRA_sp_artillery_brigade_2;GIAT CAESAR (155mm);GIAT CAESAR (155mm);GIAT CAESAR (155mm);;GIAT CAESAR (155mm);;;;;;;;x
+FRA_sp_artillery_brigade_3;GIAT CAESAR-B (155mm);GIAT CAESAR-B (155mm);GIAT CAESAR-B (155mm);;GIAT CAESAR-B (155mm);;;;;;;;x
+FRA_sp_artillery_brigade_4;GIAT CAESAR-C (155mm);GIAT CAESAR-C (155mm);GIAT CAESAR-C (155mm);;GIAT CAESAR-C (155mm);;;;;;;;x
+FRA_artillery_brigade_0;TRF1-A (155mm);TRF1-A (155mm);TRF1-A (155mm);;TRF1-A (155mm);;;;;;;;x
+FRA_artillery_brigade_1;TRF1-B (155mm);TRF1-B (155mm);TRF1-B (155mm);;TRF1-B (155mm);;;;;;;;x
+FRA_artillery_brigade_2;TRF1-C (155mm);TRF1-C (155mm);TRF1-C (155mm);;TRF1-C (155mm);;;;;;;;x
+FRA_artillery_brigade_3;TRF1-D (155mm);TRF1-D (155mm);TRF1-D (155mm);;TRF1-D (155mm);;;;;;;;x
+FRA_artillery_brigade_4;TRF2 (155mm);TRF2 (155mm);TRF2 (155mm);;TRF2 (155mm);;;;;;;;x
+FRA_mot_aa_brigade_0;AMX Roland;AMX Roland;AMX Roland;;AMX Roland;;;;;;;;x
+FRA_mot_aa_brigade_1;AMX Roland 2;AMX Roland 2;AMX Roland 2;;AMX Roland 2;;;;;;;;x
+FRA_mot_aa_brigade_2;AMX Roland 2B;AMX Roland 2B;AMX Roland 2B;;AMX Roland 2B;;;;;;;;x
+FRA_mot_aa_brigade_3;AMX Roland 2C;AMX Roland 2C;AMX Roland 2C;;AMX Roland 2C;;;;;;;;x
+FRA_carrier_0;Charles de Gaulle-Class;Charles de Gaulle-Class;Charles de Gaulle-Class;;Charles de Gaulle-Class;;;;;;;;x
+FRA_carrier_1;Charles de Gaulle-Class II;Charles de Gaulle-Class II;Charles de Gaulle-Class II;;Charles de Gaulle-Class II;;;;;;;;x
+FRA_assault_ship_0;Foudre-class;Foudre-class;Foudre-class;;Foudre-class;;;;;;;;x
+FRA_assault_ship_1;Foudre-class II;Foudre-class II;Foudre-class II;;Foudre-class II;;;;;;;;x
+FRA_assault_ship_2;Mistral 120-class;Mistral 120-class;Mistral 120-class;;Mistral 120-class;;;;;;;;x
+FRA_assault_ship_3;Mistral 140-class;Mistral 140-class;Mistral 140-class;;Mistral 140-class;;;;;;;;x
+FRA_destroyer_0;Georges Leygues-class;Georges Leygues-class;Georges Leygues-class;;Georges Leygues-class;;;;;;;;x
+FRA_destroyer_1;Cassard-class;Cassard-class;Cassard-class;;Cassard-class;;;;;;;;x
+FRA_destroyer_2;Horizon-class;Horizon-class;Horizon-class;;Horizon-class;;;;;;;;x
+FRA_destroyer_3;Aquitaine class;Aquitaine class;Aquitaine class;;Aquitaine class;;;;;;;;x
+FRA_battleship_0;Floréal-class;Floréal-class;Floréal-class;;Floréal-class;;;;;;;;x
+FRA_battleship_1;Floréal-class II;Floréal-class II;Floréal-class II;;Floréal-class II;;;;;;;;x
+FRA_battleship_2;La Fayette-class;La Fayette-class;La Fayette-class;;La Fayette-class;;;;;;;;x
+FRA_battleship_3;La Fayette-class II;La Fayette-class II;La Fayette-class II;;La Fayette-class II;;;;;;;;x
+FRA_missile_submarine_0;Redoutable-class;Redoutable-class;Redoutable-class;;Redoutable-class;;;;;;;;x
+FRA_missile_submarine_1;Inflexible-class;Inflexible-class;Inflexible-class;;Inflexible-class;;;;;;;;x
+FRA_missile_submarine_2;Triomphant-class;Triomphant-class;Triomphant-class;;Triomphant-class;;;;;;;;x
+FRA_missile_submarine_3;Barracuda-class;Barracuda-class;Barracuda-class;;Barracuda-class;;;;;;;;x
+FRA_nuclear_submarine_0;Rubis-class;Rubis-class;Rubis-class;;Rubis-class;;;;;;;;x
+FRA_nuclear_submarine_1;Rubis-class II;Rubis-class II;Rubis-class II;;Rubis-class II;;;;;;;;x
+FRA_nuclear_submarine_2;Suffren-class;Suffren-class;Suffren-class;;Suffren-class;;;;;;;;x
+GER_attack_aircraft_0;Tornado IDS;Tornado IDS;Tornado IDS;;Tornado IDS;;;;;;;;;x
+GER_attack_aircraft_1;Tornado ECM;Tornado ECM;Tornado ECM;;Tornado ECM;;;;;;;;;x
+GER_third_generation_air_superiority_0;RF-4E Phantom II;RF-4E Phantom II;RF-4E Phantom II;;RF-4E Phantom II;;;;;;;;;x
+GER_third_generation_air_superiority_1;RF-4E Phantom II (KWS II);RF-4E Phantom II (KWS II);RF-4E Phantom II (KWS II);;RF-4E Phantom II (KWS II);;;;;;;;;x
+GER_third_generation_air_superiority_2;F-4F Phantom II;F-4F Phantom II;F-4F Phantom II;;F-4F Phantom II;;;;;;;;;x
+GER_third_generation_air_superiority_3;F-4F Phantom II (KWS II);F-4F Phantom II (KWS II);F-4F Phantom II (KWS II);;F-4F Phantom II (KWS II);;;;;;;;;x
+GER_third_generation_air_superiority_4;F-4F Phantom II (KWS III);F-4F Phantom II (KWS III);F-4F Phantom II (KWS III);;F-4F Phantom II (KWS III);;;;;;;;;x
+GER_third_generation_multi_role_0;Tornado IDS;Tornado IDS;Tornado IDS;;Tornado IDS;;;;;;;;;x
+GER_third_generation_multi_role_1;Tornado IDS (KWS I);Tornado IDS (KWS I);Tornado IDS (KWS I);;Tornado IDS (KWS I);;;;;;;;;x
+GER_third_generation_multi_role_2;Tornado IDS (KWS II);Tornado IDS (KWS II);Tornado IDS (KWS II);;Tornado IDS (KWS II);;;;;;;;;x
+GER_multi_role_0;Eurofighter Typhoon;Eurofighter Typhoon;Eurofighter Typhoon;;Eurofighter Typhoon;;;;;;;;;x
+GER_multi_role_1;Eurofighter Typhoon (Tranche 2);Eurofighter Typhoon (Tranche 2);Eurofighter Typhoon (Tranche 2);;Eurofighter Typhoon (Tranche 2);;;;;;;;;x
+GER_multi_role_2;Eurofighter Typhoon (Tranche 3A);Eurofighter Typhoon (Tranche 3a);Eurofighter Typhoon (Tranche 3a);;Eurofighter Typhoon (Tranche 3a);;;;;;;;;x
+GER_multi_role_3;Eurofighter Typhoon (Tranche 3B);Eurofighter Typhoon (Tranche 3B);Eurofighter Typhoon (Tranche 3B));;Eurofighter Typhoon (Tranche 3B);;;;;;;;;x
+GER_multi_role_4;Eurofighter Typhoon (Tranche 3C);Eurofighter Typhoon (Tranche 3C);Eurofighter Typhoon (Tranche 3C);;Eurofighter Typhoon (Tranche 3C);;;;;;;;;x
+GER_tactical_bomber_0;Bo 105P/PAH-1A1;Bo 105P/PAH-1A1;Bo 105P/PAH-1A1;;Bo 105P/PAH-1A1;;;;;;;;;x
+GER_tactical_bomber_1;Bo 105P/BSH;Bo 105P/BSH;Bo 105P/BSH;;Bo 105P/BSH;;;;;;;;;x
+GER_tactical_bomber_2;UH Tiger (KWS I);UH Tiger (KWS I);UH Tiger (KWS I);;UH Tiger (KWS I);;;;;;;;;x
+GER_transport_plane_0;Transall C-160;Transall C-160;Transall C-160;;Transall C-160;;;;;;;;;x
+GER_transport_plane_1;Airbus A310;Airbus A310;Airbus A310;;Airbus A310;;;;;;;;;x
+GER_transport_plane_2;Airbus A310 +;Airbus A310 +;Airbus A310 +;;Airbus A310 +;;;;;;;;;x
+GER_transport_plane_3;Airbus A320;Airbus A320;Airbus A320;;Airbus A320;;;;;;;;;x
+GER_transport_plane_4;Airbus A320 +;Airbus A320 +;Airbus A320 +;;Airbus A320 +;;;;;;;;;x
+GER_transport_plane_5;Airbus A400M;Airbus A400M;Airbus A400M;;Airbus A400M;;;;;;;;;x
+GER_transport_plane_6;Airbus A400M +;Airbus A400M +;Airbus A400M +;;Airbus A400M +;;;;;;;;;x
+GER_armor_brigade_0;Leopard 2A4;Leopard 2A4;Leopard 2A4;;Leopard 2A4;;;;;;;;;x
+GER_armor_brigade_1;Leopard 2A5;Leopard 2A5;Leopard 2A5;;Leopard 2A5;;;;;;;;;x
+GER_armor_brigade_2;Leopard 2A5 KWS II;Leopard 2A5 KWS II;Leopard 2A5 KWS II;;Leopard 2A5 KWS II;;;;;;;;;x
+GER_armor_brigade_3;Leopard 2A6;Leopard 2A6;Leopard 2A6;;Leopard 2A6;;;;;;;;;x
+GER_armor_brigade_4;Leopard 2A6M;Leopard 2A6M;Leopard 2A6M;;Leopard 2A6M;;;;;;;;;x
+GER_armor_brigade_5;Leopard 2A7;Leopard 2A7;Leopard 2A7;;Leopard 2A7;;;;;;;;;x
+GER_armor_brigade_7;Leopard PSO/2A7+;Leopard 2 PSO/2A7+;Leopard 2 PSO/2A7+;;Leopard 2 PSO/2A7+;;;;;;;;;x
+GER_sp_artillery_brigade_0;Panzerhaubitze M109;Panzerhaubitze M109;Panzerhaubitze M109;;Panzerhaubitze M109;;;;;;;;;x
+GER_sp_artillery_brigade_1;Panzerhaubitze M109G;Panzerhaubitze M109G;Panzerhaubitze M109G;;Panzerhaubitze M109G;;;;;;;;;x
+GER_sp_artillery_brigade_2;Panzerhaubitze 2000;Panzerhaubitze 2000;Panzerhaubitze 2000;;Panzerhaubitze 2000;;;;;;;;;x
+GER_sp_artillery_brigade_3;Panzerhaubitze 2000 (KWS I);Panzerhaubitze 2000 (KWS I);Panzerhaubitze 2000 (KWS I);;Panzerhaubitze 2000 (KWS I);;;;;;;;;x
+GER_sp_artillery_brigade_4;Panzerhaubitze 2000 (KWS II);Panzerhaubitze 2000 (KWS II);Panzerhaubitze 2000 (KWS II);;Panzerhaubitze 2000 (KWS II);;;;;;;;;x
+GER_sp_artillery_brigade_5;Panzerhaubitze 2000 (KWS III);Panzerhaubitze 2000 (KWS III);Panzerhaubitze 2000 (KWS III);;Panzerhaubitze 2000 (KWS III);;;;;;;;;x
+GER_mot_aa_brigade_0;MAN 8x8 Roland 2 (KWS II);MAN 8x8 Roland 2 (KWS II);MAN 8x8 Roland 2 (KWS II);;MAN 8x8 Roland 2 (KWS II);;;;;;;;;x
+GER_mot_aa_brigade_1;MAN 8x8 Roland 3;MAN 8x8 Roland 3;MAN 8x8 Roland 3;;MAN 8x8 Roland 3;;;;;;;;;x
+GER_mot_aa_brigade_2;MAN 8x8 Roland 3 (KWS II);MAN 8x8 Roland 3 (KWS II);MAN 8x8 Roland 3 (KWS II);;MAN 8x8 Roland 3 (KWS II);;;;;;;;;x
+GER_tank_destroyer_brigade_1;RakJPz Jaguar 1 (KWS II);RakJPz Jaguar 1 (KWS II);RakJPz Jaguar 1 (KWS II);;RakJPz Jaguar 1 (KWS II);;;;;;;;;x
+GER_tank_destroyer_brigade_2;RakJPz Jaguar 2;RakJPz Jaguar 2;RakJPz Jaguar 2;;RakJPz Jaguar 2;;;;;;;;;x
+GER_tank_destroyer_brigade_3;RakJPz Jaguar 2 (KWS II);RakJPz Jaguar 2 (KWS II);RakJPz Jaguar 2 (KWS II);;RakJPz Jaguar 2 (KWS II);;;;;;;;;x
+GER_ifv_brigade_0;Wiesel 1 A2 MK;Wiesel 1 A2 MK;Wiesel 1 A2 MK;;Wiesel 1 A2 MK;;;;;;;;;x
+GER_ifv_brigade_1;Wiesel 1 A3 MK;Wiesel 1 A3 MK;Wiesel 1 A3 MK;;Wiesel 1 A3 MK;;;;;;;;;x
+GER_ifv_brigade_2;Wiesel 1 A3 MK (KWS II);Wiesel 1 A3 MK (KWS I);Wiesel 1 A3 MK (KWS I);;Wiesel 1 A3 MK (KWS I);;;;;;;;;x
+GER_ifv_brigade_3;;Marder 1 A4;Marder 1 A4;;Marder 1 A4;;;;;;;;;x
+GER_ifv_brigade_4;Marder 1 A5;Marder 1 A5;Marder 1 A5;;Marder 1 A5;;;;;;;;;x
+GER_ifv_brigade_5;Schützenpanzer Puma A1;Schützenpanzer Puma A1;Schützenpanzer Puma A1;;Schützenpanzer Puma A1;;;;;;;;;x
+GER_ifv_brigade_6;Schützenpanzer Puma A1 (KWS II);Schützenpanzer Puma A1 (KWS II);Schützenpanzer Puma A1 (KWS II);;Schützenpanzer Puma A1 (KWS II);;;;;;;;;x
+GER_armored_car_brigade_0;TPz Fuchs MG3;TPz Fuchs MG3;TPz Fuchs MG3;;TPz Fuchs MG3;;;;;;;;;x
+GER_armored_car_brigade_1;TPz Fuchs MG3 (KWS II);TPz Fuchs MG3 (KWS II);TPz Fuchs MG3 (KWS II);;TPz Fuchs MG3 (KWS II);;;;;;;;;x
+GER_armored_car_brigade_2;LGS Fennek GMG;LGS Fennek GMG;LGS Fennek GMG;;LGS Fennek GMG;;;;;;;;;x
+GER_armored_car_brigade_3;LGS Fennek GMG (KWS II);LGS Fennek GMG (KWS II);LGS Fennek GMG (KWS II);;LGS Fennek GMG (KWS II);;;;;;;;;x
+GER_armored_car_brigade_4;Mowag Eagle IV;Mowag Eagle IV;Mowag Eagle IV;;Mowag Eagle IV;;;;;;;;;x
+GER_anti_air_brigade_0;FlakPz Gepard;FlakPz Gepard;FlakPz Gepard;;FlakPz Gepard;;;;;;;;;x
+GER_anti_air_brigade_1;FlakPz Gepard (KWS I);FlakPz Gepard (KWS I);FlakPz Gepard (KWS I);;FlakPz Gepard (KWS I);;;;;;;;;x
+GER_anti_tank_brigade_0;PALR MILAN 2;PALR MILAN 2;PALR MILAN 2;;PALR MILAN 2;;;;;;;;;x
+GER_anti_tank_brigade_1;PALR MILAN 2T;PALR MILAN 2T;PALR MILAN 2T;;PALR MILAN 2T;;;;;;;;;x
+GER_anti_tank_brigade_2;PALR MILAN 3;PALR MILAN 3;PALR MILAN 3;;PALR MILAN 3;;;;;;;;;x
+GER_anti_tank_brigade_3;PALR MILAN ER;PALR MILAN ER;PALR MILAN ER;;PALR MILAN ER;;;;;;;;;x
+GER_anti_tank_brigade_4;EUROSPIKE;UROSPIKE;EUROSPIKE;;EUROSPIKE;;;;;;;;;x
+GER_mechanized_brigade_0;Panzergrenadier 1998;Panzergrenadier 1998;Panzergrenadier 1998;;Panzergrenadier 1998;;;;;;;;;x
+GER_mechanized_brigade_1;Panzergrenadier 2000;Panzergrenadier 2000;Panzergrenadier 2000;;Panzergrenadier 2000;;;;;;;;;x
+GER_mechanized_brigade_2;Panzergrenadier 2002;Panzergrenadier 2002;Panzergrenadier 2002;;Panzergrenadier 2002;;;;;;;;;x
+GER_mechanized_brigade_3;Panzergrenadier 2006;Panzergrenadier 2006;Panzergrenadier 2006;;Panzergrenadier 2006;;;;;;;;;x
+GER_mechanized_brigade_4;Panzergrenadier 2010;Panzergrenadier 2010;Panzergrenadier 2010;;Panzergrenadier 2010;;;;;;;;;x
+GER_mechanized_brigade_5;Panzergrenadier 2012;Panzergrenadier 2012;Panzergrenadier 2012;;Panzergrenadier 2012;;;;;;;;;x
+GER_mechanized_brigade_6;Panzergrenadier 2015;Panzergrenadier 2015;Panzergrenadier 2015;;Panzergrenadier 2015;;;;;;;;;x
+GER_battleship_0;Brandenburg-Klasse;Brandenburg-Klasse;Brandenburg-Klasse;;Brandenburg-Klasse;;;;;;;;;x
+GER_battleship_1;Bremen-Klasse;Bremen-Klasse;Bremen-Klasse;;Bremen-Klasse;;;;;;;;;x
+GER_battleship_2;Sachsen-Klasse;Sachsen-Klasse;Sachsen-Klasse;;Sachsen-Klasse;;;;;;;;;x
+GER_battleship_3;Sachsen-Klasse (KWS II);Sachsen-Klasse (KWS II);Sachsen-Klasse (KWS II);;Sachsen-Klasse (KWS II);;;;;;;;;x
+GER_battleship_4;Baden-Württemberg-Klasse;Baden-Württemberg-Klasse;Baden-Württemberg-Klasse;;Baden-Württemberg-Klasse;;;;;;;;;x
+GER_destroyer_0;Lütjens-Klasse;Lütjens-Klasse;Lütjens-Klasse;;Lütjens-Klasse;;;;;;;;;x
+GER_destroyer_1;Lütjens-Klasse (KWS II);Lütjens-Klasse (KWS II);Lütjens-Klasse (KWS II);;Lütjens-Klasse (KWS II);;;;;;;;;x
+GER_heavy_cruiser_0;143A Gepard-Klasse;143A Gepard-Klasse;143A Gepard-Klasse;;143A Gepard-Klasse;;;;
+GER_heavy_cruiser_1;Braunschweig-Klasse;Braunschweig-Klasse;Braunschweig-Klasse;;Braunschweig-Klasse;;;;
+GER_submarine_0;206-Klasse;206-Klasse;206-Klasse;;206-Klasse;;;;
+GER_submarine_1;206-Klasse (KWS II);206-Klasse (KWS II);206-Klasse (KWS II);;206-Klasse (KWS II);;;;
+GER_submarine_2;212-Klasse;212-Klasse;212-Klasse;;212-Klasse;;;;
+RUS_attack_aircraft_0;Sukhoi Su-24 Fencer;Sukhoi Su-24 Fencer;Sukhoi Su-24 Fencer;;Sukhoi Su-24 Fencer;;;;;;;;;x
+RUS_attack_aircraft_1;Sukhoi Su-24M Fencer-D;Sukhoi Su-24M Fencer-D;Sukhoi Su-24M Fencer-D;;Sukhoi Su-24M Fencer-D;;;;;;;;;x
+RUS_attack_aircraft_2;Sukhoi Su-24M2 Fencer-D;Sukhoi Su-24M2 Fencer-D;Sukhoi Su-24M2 Fencer-D;;Sukhoi Su-24M2 Fencer-D;;;;;;;;;x
+RUS_attack_aircraft_3;Sukhoi Su-24MP Fencer-F;Sukhoi Su-24MP Fencer-F;Sukhoi Su-24MP Fencer-F;;Sukhoi Su-24MP Fencer-F;;;;;;;;;x
+RUS_attack_aircraft_4;Sukhoi Su-34 Fullback;Sukhoi Su-34 Fullback;Sukhoi Su-34 Fullback;;Sukhoi Su-34 Fullback;;;;;;;;;x
+RUS_tactical_bomber_0;Mi-24D;Mi-24D;Mi-24D;;Mi-24D;;;;;;;;;x
+RUS_tactical_bomber_1;Mi-24V/P;Mi-24V/P;Mi-24V/P;;Mi-24V/P;;;;;;;;;x
+RUS_tactical_bomber_2;Mi-35;Mi-35;Mi-35;;Mi-35;;;;;;;;;x
+RUS_tactical_bomber_3;Mi-28A Havoc;Mi-28A Havoc;Mi-28A Havoc;;Mi-28A Havoc;;;;;;;;;x
+RUS_tactical_bomber_4;Kamov Ka-50Sh;Kamov Ka-50Sh;Kamov Ka-50Sh;;Kamov Ka-50Sh;;;;;;;;;x
+RUS_tactical_bomber_5;Mi-28D Havoc;Mi-28D Havoc;Mi-28D Havoc;;Mi-28D Havoc;;;;;;;;;x
+RUS_tactical_bomber_6;Kamov Ka-52 Aligator;Kamov Ka-52 Aligator;Kamov Ka-52 Aligator;;Kamov Ka-52 Aligator;;;;;;;;;x
+RUS_third_generation_air_superiority_0;Mikoyan MiG-23M;Mikoyan MiG-23M;Mikoyan MiG-23M;;Mikoyan MiG-23M;;;;;;;;;x
+RUS_third_generation_air_superiority_1;Mikoyan MiG-23P;Mikoyan MiG-23P;Mikoyan MiG-23P;;Mikoyan MiG-23P;;;;;;;;;x
+RUS_third_generation_air_superiority_2;MiG-23ML Flogger;MiG-23ML Flogger;MiG-23ML Flogger;;MiG-23ML Flogger;;;;;;;;;x
+RUS_third_generation_air_superiority_3;MiG-23MLA Flogger-G;MiG-23MLA Flogger-G;MiG-23MLA Flogger-G;;MiG-23MLA Flogger-G;;;;;;;;;x
+RUS_third_generation_air_superiority_4;MiG-23MLD Flogger-K;MiG-23MLD Flogger-K;MiG-23MLD Flogger-K;;MiG-23MLD Flogger-K;;;;;;;;;x
+RUS_third_generation_multi_role_0;Sukhoi Su-17M Fitter-C;Sukhoi Su-17M Fitter-C;Sukhoi Su-17M Fitter-C;;Sukhoi Su-17M Fitter-C;;;;;;;;;x
+RUS_third_generation_multi_role_1;Sukhoi Su-17R Fitter-C;Sukhoi Su-17R Fitter-C;Sukhoi Su-17R Fitter-C;;Sukhoi Su-17R Fitter-C;;;;;;;;;x
+RUS_third_generation_multi_role_2;Sukhoi Su-17M2 Fitter-D;Sukhoi Su-17M2 Fitter-D;Sukhoi Su-17M2 Fitter-D;;Sukhoi Su-17M2 Fitter-D;;;;;;;;;x
+RUS_third_generation_interceptor_0;MiG-25P Foxbat-A;MiG-25P Foxbat-A;MiG-25P Foxbat-A;;MiG-25P Foxbat-A;;;;;;;;;x
+RUS_third_generation_interceptor_1;MiG-25PD Foxbat-E;MiG-25PD Foxbat-E;MiG-25PD Foxbat-E;;MiG-25PD Foxbat-E;;;;;;;;;x
+RUS_third_generation_interceptor_2;MiG-25PDS Foxbat-E;MiG-25PDS Foxbat-E;MiG-25PDS Foxbat-E;;MiG-25PDS Foxbat-E;;;;;;;;;x
+RUS_third_generation_interceptor_3;MiG-25PDSL Foxbat-E;MiG-25PDSL Foxbat-E;MiG-25PDSL Foxbat-E;;MiG-25PDSL Foxbat-E;;;;;;;;;x
+RUS_interceptor_0;Mikoyan MiG-29;Mikoyan MiG-29;Mikoyan MiG-29;;Mikoyan MiG-29;;;;;;;;;x
+RUS_interceptor_1;Mikoyan MiG-29S-13;Mikoyan MiG-29S-13;Mikoyan MiG-29S-13;;Mikoyan MiG-29S-13;;;;;;;;;x
+RUS_interceptor_2;Mikoyan MiG-29SMT;Mikoyan MiG-29SMT;Mikoyan MiG-29SMT;;Mikoyan MiG-29SMT;;;;;;;;;x
+RUS_interceptor_3;Sukhoi Su-27 Flanker;Sukhoi Su-27 Flanker;Sukhoi Su-27 Flanker;;Sukhoi Su-27 Flanker;;;;;;;;;x
+RUS_interceptor_4;Sukhoi Su-35S;Sukhoi Su-35S;Sukhoi Su-35S;;Sukhoi Su-35S;;;;;;;;;x
+RUS_multi_role_0;Mikoyan MiG-29M;Mikoyan MiG-29M;Mikoyan MiG-29M;;Mikoyan MiG-29M;;;;;;;;;x
+RUS_multi_role_1;Mikoyan MiG-29M-2;Mikoyan MiG-29M-2;Mikoyan MiG-29M-2;;Mikoyan MiG-29M-2;;;;;;;;;x
+RUS_multi_role_2;Sukhoi Su-30KN Flanker-C;Sukhoi Su-30KN Flanker-C;Sukhoi Su-30KN Flanker-C;;Sukhoi Su-30KN Flanker-C;;;;;;;;;x
+RUS_multi_role_3;Su-30SM Flanker-D;Su-30SM Flanker-D;Su-30SM Flanker-D;;Su-30SM Flanker-D;;;;;;;;;x
+RUS_multi_role_4;Su-30SM2 Flanker-D;Su-30SM Flanker-D;Su-30SM Flanker-D;;Su-30SM Flanker-D;;;;;;;;;x
+RUS_multi_role_5;Mikoyan MiG-35;Mikoyan MiG-35;Mikoyan MiG-35;;Mikoyan MiG-35;;;;;;;;;x
+RUS_fourth_generation_interceptor_0;Mikoyan MiG-25PDZ;Mikoyan MiG-25PDZ;Mikoyan MiG-25PDZ;;Mikoyan MiG-25PDZ;;;;;;;;;x
+RUS_fourth_generation_interceptor_1;Mikoyan MiG-31;Mikoyan MiG-31;Mikoyan MiG-31;;Mikoyan MiG-31;;;;;;;;;x
+RUS_fourth_generation_interceptor_2;Mikoyan MiG-31B;Mikoyan MiG-31B;Mikoyan MiG-31B;;Mikoyan MiG-31B;;;;;;;;;x
+RUS_fourth_generation_interceptor_3;Mikoyan MiG-31BM;Mikoyan MiG-31BM;Mikoyan MiG-31BM;;Mikoyan MiG-31BM;;;;;;;;;x
+RUS_fifth_generation_air_superiority_0;Sukhoi T-50;Sukhoi T-50;Sukhoi T-50;;Sukhoi T-50;;;;;;;;;x
+RUS_fifth_generation_air_superiority_1;Sukhoi T-50M;Sukhoi T-50M;Sukhoi T-50M;;Sukhoi T-50M;;;;;;;;;x
+RUS_fifth_generation_multi_role_0;Sukhoi Su-47 Berkut;Sukhoi Su-47 Berkut;Sukhoi Su-47 Berkut;;Sukhoi Su-47 Berkut;;;;;;;;;x
+RUS_fifth_generation_multi_role_1;Mikoyan MiG-42;Mikoyan MiG-42;Mikoyan MiG-42;;Mikoyan MiG-42;;;;;;;;;x
+RUS_fifth_generation_multi_role_2;Mikoyan MiG-42M;Mikoyan MiG-42M;Mikoyan MiG-42M;;Mikoyan MiG-42M;;;;;;;;;x
+RUS_cag_0;Mikoyan MiG-29K;Mikoyan MiG-29K;Mikoyan MiG-29K;;Mikoyan MiG-29K;;;;;;;;;x
+RUS_cag_1;Mikoyan MiG-29KUB;Mikoyan MiG-29KUB;Mikoyan MiG-29KUB;;Mikoyan MiG-29KUB;;;;;;;;;x
+RUS_cag_2;Sukhoi Su-33 Flanker-D;Sukhoi Su-33 Flanker-D;Sukhoi Su-33 Flanker-D;;Sukhoi Su-33 Flanker-D;;;;;;;;;x
+RUS_cag_3;Sukhoi T-50K;Sukhoi T-50K;Sukhoi T-50K;;Sukhoi T-50K;;;;;;;;;x
+RUS_cas_0;Sukhoi Su-25K;Sukhoi Su-25K;Sukhoi Su-25K;;Sukhoi Su-25K;;;;;;;;;x
+RUS_cas_1;Sukhoi Su-25UB;Sukhoi Su-25UB;Sukhoi Su-25UB;;Sukhoi Su-25UB;;;;;;;;;x
+RUS_cas_2;Sukhoi Su-25TM;Sukhoi Su-25TM;Sukhoi Su-25TM;;Sukhoi Su-25TM;;;;;;;;;x
+RUS_cas_3;Sukhoi Su-25SM;Sukhoi Su-25SM;Sukhoi Su-25SM;;Sukhoi Su-25SM;;;;;;;;;x
+RUS_cas_4;Sukhoi Su-25KM;Sukhoi Su-25KM;Sukhoi Su-25KM;;Sukhoi Su-25KM;;;;;;;;;x
+RUS_nuclear_icbm_missile_0;RT-2PM Topol;RT-2PM Topol;RT-2PM Topol;;RT-2PM Topol;;;;;;;;;x
+RUS_nuclear_icbm_missile_1;RT-2PM2 Topol-M;RT-2PM2 Topol-M;RT-2PM2 Topol-M;;RT-2PM2 Topol-M;;;;;;;;;x
+RUS_nuclear_icbm_missile_2;RS-24 Yars;RS-24 Yars;RS-24 Yars;;RT-2PM2 Topol-M;;;;;;;;;x
+RUS_short_range_missile_0;OTR-21 Tochka-B;OTR-21 Tochka-B;OTR-21 Tochka-B;;OTR-21 Tochka-B;;;;;;;;;x
+RUS_short_range_missile_1;OTR-21 Tochka-C;OTR-21 Tochka-C;OTR-21 Tochka-C;;OTR-21 Tochka-C;;;;;;;;;x
+RUS_short_range_missile_2;9K720 Iskander-M;9K720 Iskander-M;9K720 Iskander-M;;9K720 Iskander-M;;;;;;;;;x
+RUS_short_range_missile_3;9K720 Iskander-K;9K720 Iskander-K;9K720 Iskander-K;;9K720 Iskander-K;;;;;;;;;x
+RUS_transport_plane_0;Ilyushin Il-76MF;Ilyushin Il-76MF;Ilyushin Il-76MF;;Ilyushin Il-76MF;;;;;;;;;x
+RUS_transport_plane_1;Ilyushin IL-76MD;Ilyushin IL-76MD;Ilyushin IL-76MD;;Ilyushin IL-76MD;;;;;;;;;x
+RUS_transport_plane_2;Antonov An-22;Antonov An-22;Antonov An-22;;Antonov An-22;;;;;;;;;x
+RUS_large_transport_plane_0;Antonov An-124 Ruslan;Antonov An-124 Ruslan;Antonov An-124 Ruslan;;Antonov An-124 Ruslan;;;;;;;;;x
+RUS_large_transport_plane_1;Antonov An-225 Mriya;Antonov An-225 Mriya;Antonov An-225 Mriya;;Antonov An-225 Mriya;;;;;;;;;x
+RUS_large_transport_plane_2;Antonov An-225 Mriya II;Antonov An-225 Mriya II;Antonov An-225 Mriya II;;Antonov An-225 Mriya II;;;;;;;;;x
+RUS_strategic_bomber_0;Tupolev Tu-95M Bear;Tupolev Tu-95M Bear;Tupolev Tu-95M Bear;;Tupolev Tu-95M Bear;;;;;;;;;x
+RUS_strategic_bomber_1;Tupolev Tu-95MS Bear;Tupolev Tu-95MS Bear;Tupolev Tu-95MS Bear;;Tupolev Tu-95MS Bear;;;;;;;;;x
+RUS_strategic_bomber_2;Tupolev Tu-22M3 Backfire-C;Tupolev Tu-22M3 Backfire-C;Tupolev Tu-22M3 Backfire-C;;Tupolev Tu-22M3 Backfire-C;;;;;;;;;x
+RUS_strategic_bomber_3;Tupolev Tu-160S Blackjack;Tupolev Tu-160S Blackjack;Tupolev Tu-160S Blackjack;;Tupolev Tu-160S Blackjack;;;;;;;;;x
+RUS_strategic_bomber_4;Tupolev Tu-160M;Tupolev Tu-160M;Tupolev Tu-160S;;Tupolev Tu-160S;;;;;;;;;x
+RUS_strategic_bomber_5;Tupolev PAK-DA;Tupolev PAK-DA;Tupolev PAK-DA;;Tupolev PAK-DA;;;;;;;;;x
+RUS_naval_bomber_0;Tu-142M Bear F/J;Tu-142M Bear F/J;Tu-142M Bear F/J;;Tu-142M Bear F/J;;;;;;;;;x
+RUS_naval_bomber_1;Tu-142MK Bear F/J;Tu-142MK Bear F/J;Tu-142MK Bear F/J;;Tu-142MK Bear F/J;;;;;;;;;x
+RUS_naval_bomber_2;Tu-22M3 Backfire-C;Tu-22M3 Backfire-C;Tu-22M3 Backfire-C;;Tu-22M3 Backfire-C;;;;;;;;;x
+RUS_naval_bomber_3;Tu-142MZ Bear F/J;Tu-142MZ Bear F/J;Tu-142MZ Bear F/J;;Tu-142MZ Bear F/J;;;;;;;;;x
+RUS_naval_bomber_4;Tu-22M3R Backfire-C;Tu-22M3R Backfire-C;Tu-22M3R Backfire-C;;Tu-22M3R Backfire-C;;;;;;;;;x
+RUS_unmanned_bomber_1;RPV PCHELA-1T;RPV PCHELA-1T;RPV PCHELA-1T;;RPV PCHELA-1T;;;;;;;;;x
+RUS_unmanned_bomber_2;MiG Skat;MiG Skat;MiG Skat;;MiG Skat;;;;;;;;;x
+RUS_escort_carrier_0;Moskva-class;Moskva-class;Moskva-class;;Moskva-class;;;;;;;;;x
+RUS_escort_carrier_1;Kiev-class;Kiev-class;Kiev-class;;Kiev-class;;;;;;;;;x
+RUS_escort_carrier_2;Kuznetsov-class;Kuznetsov-class;Kuznetsov-class;;Kuznetsov-class;;;;;;;;;x
+RUS_escort_carrier_3;Kuznetsov-class II;Kuznetsov-class II;Kuznetsov-class II;;Kuznetsov-class II;;;;;;;;;x
+RUS_escort_carrier_4;Ulyanovsk-class;Ulyanovsk-class;Ulyanovsk-class;;Ulyanovsk-class;;;;;;;;;x
+RUS_super_heavy_battleship_0;Kirov-class;Kirov-class;Kirov-class;;Kirov-class;;;;;;;;;x
+RUS_super_heavy_battleship_1;Kirov-class Block II;Kirov-class Block II;Kirov-class Block II;;Kirov-class Block II;;;;;;;;;x
+RUS_battlecruiser_0;Project 1134B Berkut B;Project 1134B Berkut B;Project 1134B Berkut B;;Project 1134B Berkut B;;;;;;;;;x
+RUS_battlecruiser_1;Project 1164 Atlant;Project 1164 Atlant;Project 1164 Atlant;;Project 1164 Atlant;;;;;;;;;x
+RUS_battlecruiser_2;Project 1164-B Atlant;Project 1164-B Atlant;Project 1164-B Atlant;;Project 1164-B Atlant;;;;;;;;;x
+RUS_battleship_0;Project 1135 Burevestnik;Project 1135 Burevestnik;Project 1135 Burevestnik;;Project 1135 Burevestnik;;;;;;;;;x
+RUS_battleship_1;Neustrashimyy-class;Neustrashimyy-class;Neustrashimyy-class;;Neustrashimyy-class;;;;;;;;;x
+RUS_battleship_2;Steregushchy-class;Steregushchy-class;Steregushchy-class;;Steregushchy-class;;;;;;;;;x
+RUS_battleship_3;Admiral Grigorovich-class;Admiral Grigorovich-class;Admiral Grigorovich-class;;Admiral Grigorovich-class;;;;;;;;;x
+RUS_destroyer_0;Project 1155 'Udaloy';Project 1155 'Udaloy';Project 1155 'Udaloy';;Project 1155 'Udaloy';;;;;;;;;x
+RUS_destroyer_1;Project 1155 'Udaloy II';Project 1155 'Udaloy II';Project 1155 'Udaloy II';;Project 1155 'Udaloy II';;;;;;;;;x
+RUS_destroyer_2;Project 956 Sovremennyy;Project 956 Sovremennyy;Project 956 Sovremennyy;;Project 956 Sovremennyy;;;;;;;;;x
+RUS_destroyer_3;Project 21956;Project 21956;Project 21956;;Project 21956;;;;;;;;;x
+RUS_heavy_cruiser_0;Project 1234 Ovod III;Project 1234 Ovod III;Project 1234 Ovod III;;Project 1234 Ovod III;;;;;;;;;x
+RUS_heavy_cruiser_1;Project 1234 Ovod IV;Project 1234 Ovod IV;Project 1234 Ovod IV;;Project 1234 Ovod IV;;;;;;;;;x
+RUS_heavy_cruiser_2;Project 1124ME Grisha;Project 1124ME Grisha;Project 1124ME Grisha;;Project 1124ME Grisha;;;;;;;;;x
+RUS_heavy_cruiser_3;Project 21630 Buyan-M;Project 21630 Buyan-M;Project 21630 Buyan-M;;Project 21630 Buyan-M;;;;;;;;;x
+RUS_light_cruiser_0;Project 1241 Tarantul-II;Project 1241 Tarantul-II;Project 1241 Tarantul-II;;Project 1241 Tarantul-II;;;;;;;;;x
+RUS_light_cruiser_1;Project 12411 Tarantul-III;Project 12411 Tarantul-III;Project 12411 Tarantul-III;;Project 12411 Tarantul-III;;;;;;;;;x
+RUS_light_cruiser_2;Project 12700;Project 12700;Project 12700;;Project 12700;;;;;;;;;x
+RUS_submarine_0;Project 877 Paltus;Project 877 Paltus;Project 877 Paltus;;Project 877 Paltus;;;;;;;;;x
+RUS_submarine_1;Project 877K Paltus;Project 877K Paltus;Project 877K Paltus;;Project 877K Paltus;;;;;;;;;x
+RUS_submarine_2;Project Varshavyanka;Project Varshavyanka;Project Varshavyanka;;Project Varshavyanka;;;;;;;;;x
+RUS_submarine_3;Project 677 Lada-class;Project 677 Lada-class;Project 677 Lada-class;;Project 677 Lada-class;;;;;;;;;x
+RUS_nuclear_submarine_0;Project 945 Barrakuda;Project 945 Barrakuda;Project 945 Barrakuda;;Project 945 Barrakuda;;;;;;;;;x
+RUS_nuclear_submarine_1;Project 971I Akula;Project 971I Akula;Project 971I Akula;;Project 971I Akula;;;;;;;;;x
+RUS_nuclear_submarine_2;Project 971U Akula-II;Project 971U Akula-II;Project 971U Akula-II;;Project 971U Akula-II;;;;;;;;;x
+RUS_nuclear_submarine_3;Project 971M Akula-III;Project 971M Akula-III;Project 971M Akula-III;;Project 971M Akula-III;;;;;;;;;x
+RUS_nuclear_submarine_4;Yasen-class;Yasen-class;Yasen-class;;Yasen-class;;;;;;;;;x
+RUS_missile_submarine_0;Project 667BDR Delfin III;Project 667BDR Delfin III;Project 667BDR Delfin III;;Project 667BDR Delfin III;;;;;;;;;x
+RUS_missile_submarine_1;Project 667BDRM Delfin IV;Project 667BDRM Delfin IV;Project 667BDRM Delfin IV;;Project 667BDRM Delfin IV;;;;;;;;;x
+RUS_missile_submarine_2;Project 941 Akula;Project 941 Akula;Project 941 Akula;;Project 941 Akula;;;;;;;;;x
+RUS_missile_submarine_3;Project 955-A Borei;Project 955-A Borei;Project 955-A Borei;;Project 955-A Borei;;;;;;;;;x
+RUS_missile_submarine_4;Project 955-A Borei II;Project 955-A Borei II;Project 955-A Borei II;;Project 955-A Borei II;;;;;;;;;x
+RUS_invasion_transport_ship_0;Project-11770 Serna;Project-11770 Serna;Project-11770 Serna;;Project-11770 Serna;;;;;;;;;x
+RUS_invasion_transport_ship_1;Zubr-class LCAC;Zubr-class LCAC;Zubr-class LCAC;;Zubr-class LCAC;;;;;;;;;x
+RUS_invasion_transport_ship_2;Dyugon-class;Dyugon-class;Dyugon-class;;Dyugon-class;;;;;;;;;x
+RUS_assault_ship_0;Tapir-class;Tapir-class;Tapir-class;;Tapir-class;;;;;;;;;x
+RUS_assault_ship_1;Ropucha-class;Ropucha-class;Ropucha-class;;Ropucha-class;;;;;;;;;x
+RUS_assault_ship_2;Ropucha II-class;Ropucha II-class;Ropucha II-class;;Ropucha II-class;;;;;;;;;x
+RUS_assault_ship_3;Ropucha III-class;Ropucha III-class;Ropucha III-class;;Ropucha III-class;;;;;;;;;x
+RUS_heavy_armor_brigade_0;T-64BK;T-64BK;T-64BK;;T-64BK;;;;;;;;;x
+RUS_heavy_armor_brigade_1;T-64B1K;T-64B1K;T-64B1K;;T-64B1K;;;;;;;;;x
+RUS_heavy_armor_brigade_2;T-72B obr.1990g;T-72B obr.1990g;T-72B obr.1990g;;T-72B obr.1990g;;;;;;;;;x
+RUS_heavy_armor_brigade_3;T-72BA;T-72BA;T-72BA;;T-72BA;;;;;;;;;x
+RUS_heavy_armor_brigade_4;T-72B2;T-72B2;T-72B2;;T-72B2;;;;;;;;;x
+RUS_heavy_armor_brigade_5;T-72B3;T-72B3;T-72B3;;T-72B3;;;;;;;;;x
+RUS_heavy_armor_brigade_6;T-72B3M;T-72B3M;T-72B3M;;T-72B3M;;;;;;;;;x
+RUS_armor_brigade_0;T-80BV/U;T-80BV/U;T-80BV/U;;T-80BV/U;;;;;;;;;x
+RUS_armor_brigade_1;T-80U;T-80U;T-80U;;T-80U;;;;;;;;;x
+RUS_armor_brigade_2;T-90;T-90;T-90;;T-90;;;;;;;;;x
+RUS_armor_brigade_3;T-90A;T-90A;T-90A;;T-90A;;;;;;;;;x
+RUS_armor_brigade_4;T-90AM;T-90AM;T-90AM;;T-90AM;;;;;;;;;x
+RUS_super_heavy_armor_brigade_0;T-14 Armata;T-14 Armata;T-14 Armata;;T-14 Armata;;;;;;;;;x
+RUS_light_armor_brigade_0;PT-76B;PT-76B;PT-76B;;PT-76B;;;;;;;;;x
+RUS_light_armor_brigade_1;PT-76E;PT-76E;PT-76E;;PT-76E;;;;;;;;;x
+RUS_ifv_brigade_0;BMP-2M;BMP-2M;BMP-2M;;BMP-2M;;;;;;;;;x
+RUS_ifv_brigade_1;BMP-2M Brezhok;BMP-2M Brezhok;BMP-2M Brezhok;;BMP-2M Brezhok;;;;;;;;;x
+RUS_ifv_brigade_2;BMP-3M;BMP-3M;BMP-3M;;BMP-3M;;;;;;;;;x
+RUS_ifv_brigade_3;BMD-3;BMD-3;BMD-3;;BMD-3;;;;;;;;;x
+RUS_ifv_brigade_4;BMD-4M;BMD-4M;BMD-4M;;BMD-4M;;;;;;;;;x
+RUS_ifv_brigade_5;BMP-3SM+;BMP-3SM+;BMP-3SM+;;BMP-3SM+;;;;;;;;;x
+RUS_armored_car_brigade_0;BTR-70 obr. 1986;BTR-70 obr. 1986;BTR-70 obr. 1986;;BTR-70 obr. 1986;;;;;;;;;x
+RUS_armored_car_brigade_1;BTR-80M;BTR-80M;BTR-80M;;BTR-80M;;;;;;;;;x
+RUS_armored_car_brigade_2;BRDM-2M;BRDM-2M;BRDM-2M;;BRDM-2M;;;;;;;;;x
+RUS_armored_car_brigade_3;BTR-90;BTR-90;BTR-90;;BTR-90;;;;;;;;;x
+RUS_armored_car_brigade_4;GAZ-2975 Tigr;GAZ-2975 Tigr;GAZ-2975 Tigr;;GAZ-2975 Tigr;;;;;;;;;x
+RUS_sp_rct_artillery_brigade_0;BM-21 Grad;BM-21 Grad;BM-21 Grad;;BM-21 Grad;;;;;;;;;x
+RUS_sp_rct_artillery_brigade_1;BM-21-1 Grad;BM-21-1 Grad;BM-21-1 Grad;;BM-21-1 Grad;;;;;;;;;x
+RUS_sp_rct_artillery_brigade_2;BM-27 Uragan;BM-27 Uragan;BM-27 Uragan;;BM-27 Uragan;;;;;;;;;x
+RUS_sp_rct_artillery_brigade_3;BM-30 Smerch;BM-30 Smerch;BM-30 Smerch;;BM-30 Smerch;;;;;;;;;x
+RUS_sp_rct_artillery_brigade_4;BM-9M55K1 Smerch;BM-9M55K1 Smerch;BM-9M55K1 Smerch;;BM-9M55K1 Smerch;;;;;;;;;x
+RUS_sp_rct_artillery_brigade_5;9A52-4 Tornado;9A52-4 Tornado;9A52-4 Tornado;;9A52-4 Tornado;;;;;;;;;x
+RUS_sp_artillery_brigade_0;2S3M Akatsiya;2S3M Akatsiya;2S3M Akatsiya;;2S3M Akatsiya;;;;;;;;;x
+RUS_sp_artillery_brigade_1;2S3M1 Akatsiya;2S3M1 Akatsiya;2S3M1 Akatsiya;;2S3M1 Akatsiya;;;;;;;;;x
+RUS_sp_artillery_brigade_2;2S19 Msta-S;2S19 Msta-S;2S19 Msta-S;;2S19 Msta-S;;;;;;;;;x
+RUS_sp_artillery_brigade_3;2S19 Msta-M1;2S19 Msta-M1;2S19 Msta-M1;;2S19 Msta-M1;;;;;;;;;x
+RUS_sp_artillery_brigade_4;2S19 Msta-M2;2S19 Msta-M2;2S19 Msta-M2;;2S19 Msta-M2;;;;;;;;;x
+RUS_sp_artillery_brigade_5;2S27 Msta-K;2S27 Msta-K;2S27 Msta-K;;2S27 Msta-K;;;;;;;;;x
+RUS_sp_artillery_brigade_6;2S31 Vena;2S31 Vena;2S31 Vena;;2S31 Vena;;;;;;;;;x
+RUS_sp_artillery_brigade_7;2S31 Vena;2S31 Vena;2S31 Vena;;2S31 Vena;;;;;;;;;x
+RUS_artillery_brigade_0;2A18M D-30;2A18M D-30;2A18M D-30;;2A18M D-30;;;;;;;;;x
+RUS_artillery_brigade_1;2A36 Giatsint-B;2A36 Giatsint-B;2A36 Giatsint-B;;2A36 Giatsint-B;;;;;;;;;x
+RUS_artillery_brigade_2;2A65 Msta-B;2A65 Msta-B;2A65 Msta-B;;2A65 Msta-B;;;;;;;;;x
+RUS_artillery_brigade_3;2A65 Msta-BM;2A65 Msta-BM;2A65 Msta-BM;;2A65 Msta-BM;;;;;;;;;x
+RUS_artillery_brigade_4;2A18M2 D-30;2A18M2 D-30;2A18M2 D-30;;2A18M2 D-30;;;;;;;;;x
+RUS_artillery_brigade_5;2A18M2 D-30;2A18M2 D-30;2A18M2 D-30;;2A18M2 D-30;;;;;;;;;x
+RUS_artillery_brigade_6;2A18M2 D-30;2A18M2 D-30;2A18M2 D-30;;2A18M2 D-30;;;;;;;;;x
+RUS_artillery_brigade_7;2A18M2 D-30;2A18M2 D-30;2A18M2 D-30;;2A18M2 D-30;;;;;;;;;x
+RUS_anti_tank_brigade_0;9M113M Konkurs-M;9M113M Konkurs-M;9M113M Konkurs-M;;9M113M Konkurs-M;;;;;;;;;x
+RUS_anti_tank_brigade_1;9K115-2 Metis-M;9K115-2 Metis-M;9K115-2 Metis-M;;9K115-2 Metis-M;;;;;;;;;x
+RUS_anti_tank_brigade_2;9M133-1 Kornet;9M133-1 Kornet;9M133-1 Kornet;;9M133-1 Kornet;;;;;;;;;x
+RUS_anti_tank_brigade_3;9M133F-1 Kornet;9M133F-1 Kornet;9M133F-1 Kornet;;9M133F-1 Kornet;;;;;;;;;x
+RUS_anti_tank_brigade_4;Kornet-D;Kornet-D;Kornet-D;;Kornet-D;;;;;;;;;x
+RUS_tank_destroyer_brigade_0;9P149 Shturm-S;9P149 Shturm-S;9P149 Shturm-S;;9P149 Shturm-S;;;;;;;;;x
+RUS_tank_destroyer_brigade_1;9P148 Konkurs-M;9P148 Konkurs-M;9P148 Konkurs-M;;9P148 Konkurs-M;;;;;;;;;x
+RUS_tank_destroyer_brigade_2;9P149 Shturm-S;9P149 Shturm-S;9P149 Shturm-S;;9P149 Shturm-S;;;;;;;;;x
+RUS_tank_destroyer_brigade_3;2S25 Sprut;2S25 Sprut;2S25 Sprut;;2S25 Sprut;;;;;;;;;x
+RUS_tank_destroyer_brigade_4;2S25 Sprut-SD;2S25 Sprut-SD;2S25 Sprut-SD;;2S25 Sprut-SD;;;;;;;;;x
+RUS_mot_aa_brigade_0;9K37M2 Buk;9K37M2 Buk;9K37M2 Buk;;9K37M2 Buk;;;;;;;;;x
+RUS_mot_aa_brigade_1;S-300P;S-300P;S-300P;;S-300P;;;;;;;;;x
+RUS_mot_aa_brigade_2;S-300PM2;S-300PM2;S-300PM2;;S-300PM2;;;;;;;;;x
+RUS_mot_aa_brigade_3;S-300PMU2;S-300PMU2;S-300PMU2;;S-300PMU2;;;;;;;;;x
+RUS_mot_aa_brigade_4;S-300VM Antey-2500;-300VM Antey-2500;-300VM Antey-2500;;-300VM Antey-2500;;;;;;;;;x
+RUS_mot_aa_brigade_5;S-400 Triumf;S-400 Triumf;S-400 Triumf;;S-400 Triumf;;;;;;;;;x
+RUS_mot_aa_brigade_6;S-500;S-500;S-500;;S-500;;;;;;;;;x
+RUS_anti_air_brigade_0;9K33M3 Osa-AKM;9K33M3 Osa-AKM;9K33M3 Osa-AKM;;9K33M3 Osa-AKM;;;;;;;;;x
+RUS_anti_air_brigade_1;2K22M Tunguska;2K22M Tunguska;2K22M Tunguska;;2K22M Tunguska;;;;;;;;;x
+RUS_anti_air_brigade_2;9A34 Strela-10;9A34 Strela-10;9A34 Strela-10;;9A34 Strela-10;;;;;;;;;x
+RUS_anti_air_brigade_3;2K22M1 Tunguska;2K22M1 Tunguska;2K22M1 Tunguska;;2K22M1 Tunguska;;;;;;;;;x
+RUS_anti_air_brigade_4;2K22M-57E6 Tunguska;2K22M-57E6 Tunguska;2K22M-57E6 Tunguska;;2K22M-57E6 Tunguska;;;;;;;;;x
+RUS_anti_air_brigade_5;Pantsir-S1;Pantsir-S1;Pantsir-S1;;Pantsir-S1;;;;;;;;;x
+USA_attack_aircraft_0;Lockheed F-117A Nighthawk;Lockheed F-117A Nighthawk;Lockheed F-117A Nighthawk;;Lockheed F-117A Nighthawk;;;;;;;;;x
+USA_attack_aircraft_1;F-15E Strike Eagle;F-15E Strike Eagle;F-15E Strike Eagle;;F-15E Strike Eagle;;;;;;;;;x
+USA_attack_aircraft_2;F-15E Strike Eagle II;F-15E Strike Eagle II;F-15E Strike Eagle II;;F-15E Strike Eagle II;;;;;;;;;x
+USA_attack_aircraft_3;F-15ES Silent Eagle;F-15ES Silent Eagle;F-15ES Silent Eagle;;F-15ES Silent Eagle;;;;;;;;;x
+USA_third_generation_multi_role_0;F-4A Phantom II;F-4A Phantom II;F-4A Phantom II;;F-4A Phantom II;;;;;;;;;x
+USA_third_generation_multi_role_1;F-4B Phantom II;F-4B Phantom II;F-4B Phantom II;;F-4B Phantom II;;;;;;;;;x
+USA_third_generation_multi_role_2;RF-4C Phantom II;F-4C Phantom II;F-4C Phantom II;;F-4C Phantom II;;;;;;;;;x
+USA_third_generation_multi_role_3;F-4D Phantom II;F-4A Phantom II;F-4A Phantom II;;F-4A Phantom II;;;;;;;;;x
+USA_third_generation_multi_role_4;RF-4C Phantom II;RF-4C Phantom II;RF-4C Phantom II;;RF-4C Phantom II;;;;;;;;;x
+USA_third_generation_multi_role_5;RF-4E Phantom II;RF-4E Phantom II;RF-4E Phantom II;;RF-4E Phantom II;;;;;;;;;x
+USA_interceptor_0;F-15A Eagle;F-15A Eagle;F-15A Eagle;;F-15A Eagle;;;;;;;;;x
+USA_interceptor_1;F-15B Eagle;F-15B Eagle;F-15B Eagle;;F-15B Eagle;;;;;;;;;x
+USA_interceptor_2;F-15C Eagle;F-15C Eagle;F-15C Eagle;;F-15C Eagle;;;;;;;;;x
+USA_interceptor_3;F-15C Eagle MLU;F-15C Eagle MLU;F-15C Eagle MLU;;F-15C Eagle MLU;;;;;;;;;x
+USA_interceptor_4;F-15D Eagle;F-15D;F-15D Eagle;;F-15D Eagle;;;;;;;;;x
+USA_multi_role_0;F-16B Block 20 Falcon;F16B Block 20 Falcon;F16B Block 20 Falcon;;F16B Block 20 Falcon;;;;;;;;;x
+USA_multi_role_1;F-16C Fighting Falcon;F-16C Fighting Falcon;F-16C Fighting Falcon;;F-16C Fighting Falcon;;;;;;;;;x
+USA_multi_role_2;F-16C/D Block 25 Falcon;F-16C/D Block 25 Falcon;F-16C/D Block 25 Falcon;;F-16C/D Block 25 Falcon;;;;;;;;;x
+USA_multi_role_3;F-16C/D Block 30/32 Falcon;F-16C/D Block 30/32 Falcon;F-16C/D Block 30/32 Falcon;;F-16C/D Block 30/32 Falcon;;;;;;;;;x
+USA_multi_role_4;F-16C/D Block 50/52 Falcon;F-16C/D Block 50/52 Falcon;F-16C/D Block 50/52 Falcon;;F-16C/D Block 50/52 Falcon;;;;;;;;;x
+USA_multi_role_5;F-16C/D Block 50/52+ Falcon;F-16C/D Block 50/52+ Falcon;F-16C/D Block 50/52+ Falcon;;F-16C/D Block 50/52+ Falcon;;;;;;;;;x
+USA_multi_role_6;F-16CJ Fighting Falcon;F-16CJ Fighting Falcon;F-16CJ Fighting Falcon;;F-16CJ Fighting Falcon;;;;;;;;;x
+USA_multi_role_7;F-16E Block 60 Falcon;F-16E Block 60 Falcon;F-16E Block 60 Falcon;;F-16E Block 60 Falcon;;;;;;;;;x
+USA_fourth_generation_interceptor_0;F-14B Tomcat;F-14B Tomcat;F-14B Tomcat;;F-14B Tomcat;;;;;;;;;x
+USA_fourth_generation_interceptor_1;F-14D Super Tomcat;F-14D Super Tomcat;F-14D Super Tomcat;;F-14D Super Tomcat;;;;;;;;;x
+USA_fourth_generation_interceptor_2;F-16D Fighting Falcon Block 60;F-16D Fighting Falcon Block 60;F-16D Fighting Falcon Block 60;;F-16D Fighting Falcon Block 60;;;x
+USA_fourth_generation_interceptor_3;F-16D Fighting Falcon Block 61;F-16D Fighting Falcon Block 61;F-16D Fighting Falcon Block 61;;F-16D Fighting Falcon Block 61;;;x
+USA_fifth_generation_air_superiority_0;F-22A Raptor;F-22A Raptor;F-22A Raptor;;F-22A Raptor;;;;;;;;;x
+USA_fifth_generation_air_superiority_1;F-22A+ Raptor;F-22A+ Raptor;F-22A+ Raptor;;F-22A+ Raptor;;;;;;;;;x
+USA_fifth_generation_air_superiority_2;F-22B Raptor;F-22B Raptor;F-22B Raptor;;F-22B Raptor;;;;;;;;;x
+USA_fifth_generation_multi_role_0;F-35A Lightning II;F-35A Lightning II;F-35A Lightning II;;F-35A Lightning II;;;;;;;;;x
+USA_fifth_generation_multi_role_1;F-35A Lightning II+;F-35A Lightning II+;F-35A Lightning II+;;F-35A Lightning II+;;;;;;;;;x
+USA_fifth_generation_multi_role_2;F-35B Lightning II;F-35B Lightning II;F-35B Lightning II;;F-35B Lightning II;;;;;;;;;x
+USA_fifth_generation_multi_role_3;F-35B Lightning II+;F-35B Lightning II+;F-35B Lightning II+;;F-35B Lightning II+;;;;;;;;;x
+USA_cag_0;F-14D Super Tomcat;F-14D Super Tomcat;F-14D Super Tomcat;;F-14D Super Tomcat;;;;;;;;;x
+USA_cag_1;F/A-18A/B Hornet;F/A-18A/B Hornet;F/A-18A/B Hornet;;F/A-18A/B Hornet;;;;;;;;;x
+USA_cag_2;F/A-18C/D Hornet;F/A-18C/D Hornet;F/A-18C/D Hornet;;F/A-18C/D Hornet;;;;;;;;;x
+USA_cag_3;F/A-18E/F Super Hornet;F/A-18E/F Super Hornet;F/A-18E/F Super Hornet;;F/A-18E/F Super Hornet;;;;;;;;;x
+USA_cag_4;F-35C Lightning II;F-35C Lightning II;F-35C Lightning II;;F-35C Lightning II;;;;;;;;;x
+USA_cag_5;F-35D Lightning II;F-35D Lightning II;F-35D Lightning II;;F-35D Lightning II;;;;;;;;;x
+USA_cas_0;A-10A Thunderbolt II;A-10A Thunderbolt II;A-10A Thunderbolt II;;A-10A Thunderbolt II;;;;;;;;;x
+USA_cas_1;A-10B Thunderbolt II;A-10B Thunderbolt II;A-10B Thunderbolt II;;A-10B Thunderbolt II;;;;;;;;;x
+USA_cas_2;A-10C Thunderbolt II;A-10C Thunderbolt II;A-10C Thunderbolt II;;A-10C Thunderbolt II;;;;;;;;;x
+USA_cas_3;A-10D Thunderbolt II;A-10D Thunderbolt II;A-10D Thunderbolt II;;A-10D Thunderbolt II;;;;;;;;;x
+USA_cas_4;A-10PCAS;A-10PCAS;A-10PCAS;;A-10PCAS;;;;;;;;;x
+USA_naval_bomber_0;Lockheed P-3C Orion;Lockheed P-3C Orion;Lockheed P-3C Orion;;Lockheed P-3C Orion;;;;;;;;;x
+USA_naval_bomber_1;S-3A Viking;S-3A Viking;S-3A Viking;;S-3A Viking;;;;;;;;;x
+USA_naval_bomber_2;S-3B Viking;S-3B Viking;S-3B Viking;;S-3B Viking;;;;;;;;;x
+USA_naval_bomber_3;P-8A Poseidon;P-8A Poseidon;P-8A Poseidon;;P-8A Poseidon;;;;;;;;;x
+USA_naval_bomber_4;P-8B Poseidon;P-8B Poseidon;P-8B Poseidon;;P-8B Poseidon;;;;;;;;;x
+USA_nuclear_icbm_missile_0;LGM-30F Minuteman-II;LGM-30F Minuteman-II;LGM-30F Minuteman-II;;LGM-30F Minuteman-II;;;;;;;;;x
+USA_nuclear_icbm_missile_1;LGM-118A Peacekeeper;LGM-118A Peacekeeper;LGM-118A Peacekeeper;;LGM-118A Peacekeeper;;;;;;;;;x
+USA_nuclear_icbm_missile_2;LGM-30G Minuteman-III;LGM-30G Minuteman-III;LGM-30G Minuteman-III;;LGM-30G Minuteman-III;;;;;;;;;x
+USA_transport_plane_0;C-130H Hercules;C-130H Hercules;C-130H Hercules;;C-130H Hercules;;;;;;;;;x
+USA_transport_plane_1;C-130J Super Hercules;C-130J Super Hercules;C-130J Super Hercules;;C-130J Super Hercules;;;;;;;;;x
+USA_transport_plane_2;C-17A Globemaster III;C-17A Globemaster III;C-17A Globemaster III;;C-17A Globemaster III;;;;;;;;;x
+USA_transport_plane_3;C-17A-ER Globemaster III;C-17A-ER Globemaster III;C-17A-ER Globemaster III;;C-17A-ER Globemaster III;;;;;;;;;x
+USA_transport_plane_4;C-17B Globemaster III;C-17B Globemaster III;C-17B Globemaster III;;C-17B Globemaster III;;;;;;;;;x
+USA_large_transport_plane_0;C-5A Galaxy;C-5A Galaxy;C-5A Galaxy;;C-5A Galaxy;;;;;;;;;x
+USA_large_transport_plane_1;C-5B Galaxy;C-5B Galaxy;C-5B Galaxy;;C-5B Galaxy;;;;;;;;;x
+USA_large_transport_plane_2;C-5C Galaxy;C-5C Galaxy;C-5C Galaxy;;C-5C Galaxy;;;;;;;;;x
+USA_large_transport_plane_3;C-5M Galaxy;C-5M Galaxy;C-5M Galaxy;;C-5M Galaxy;;;;;;;;;x
+USA_strategic_bomber_0;B-52F Stratofortress;B-52F Stratofortress;B-52F Stratofortress;;B-52F Stratofortress;;;;;;;;;x
+USA_strategic_bomber_1;B-2 Sprit;B-2 Sprit;B-2 Sprit;;B-2 Sprit;;;;;;;;;x
+USA_strategic_bomber_2;B-52G Stratofortress;B-52G Stratofortress;B-52G Stratofortress;;B-52G Stratofortress;;;;;;;;;x
+USA_strategic_bomber_3;B-1B Lancer;B-1B Lancer;B-1B Lancer;;B-1B Lancer;;;;;;;;;x
+USA_strategic_bomber_4;B-52H Stratofortress;B-52H Stratofortress;B-52H Stratofortress;;B-52H Stratofortress;;;;;;;;;x
+USA_unmanned_bomber_0;General Atomics GNAT;General Atomics GNAT;General Atomics GNAT;;General Atomics GNAT;;;;;;;;;x
+USA_unmanned_bomber_1;MQ-1 Predator;MQ-1 Predator;MQ-1 Predator;;MQ-1 Predator;;;;;;;;;x
+USA_unmanned_bomber_2;MQ-9 Reaper;MQ-9 Reaper;MQ-9 Reaper;;MQ-9 Reaper;;;;;;;;;x
+USA_unmanned_bomber_3;General Atomics Avenger;General Atomics Avenger;General Atomics Avenger;;General Atomics Avenger;;;;;;;;;x
+USA_tactical_bomber_0;Bell AH-1Z Viper;Bell AH-1Z Viper;Bell AH-1Z Viper;;Bell AH-1Z Viper;;;;;;;;;x
+USA_tactical_bomber_1;Boeing AH-64B Apache;Boeing AH-64B Apache;Boeing AH-64B Apache;;Boeing AH-64B Apache;;;;;;;;;x
+USA_tactical_bomber_2;Boeing AH-64C Apache;Boeing AH-64C Apache;Boeing AH-64C Apache;;Boeing AH-64C Apache;;;;;;;;;x
+USA_tactical_bomber_3;AH-64D Apache Longbow;AH-64D Apache Longbow;AH-64D Apache Longbow;;AH-64D Apache Longbow;;;;;;;;;x
+USA_tactical_bomber_4;AH-64D Apache Block III;AH-64D Apache Block III;AH-64D Apache Block III;;AH-64D Apache Block III;;;;;;;;;x
+USA_tactical_bomber_5;AH-64E Guardian;AH-64E Guardian;AH-64E Guardian;;AH-64E Guardian;;;;;;;;;x
+USA_tactical_bomber_6;RAH-66 Comanche;RAH-66 Comanche;RAH-66 Comanche;;RAH-66 Comanche;;;;;;;;;x
+USA_tactical_bomber_7;RAH-66B Comanche;RAH-66B Comanche;RAH-66B Comanche;;RAH-66B Comanche;;;;;;;;;x
+USA_assault_ship_0;Iwo Jima-Class;Iwo Jima-Class;Iwo Jima-Class;;Iwo Jima-Class;;;;;;;;;x
+USA_assault_ship_1;Tarawa-Class;Tarawa-Class;Tarawa-Class;;Tarawa-Class;;;;;;;;;x
+USA_assault_ship_2;Wasp-Class;Wasp-Class;Wasp-Class;;Wasp-Class;;;;;;;;;x
+USA_assault_ship_3;America-Class;America-Class;America-Class;;America-Class;;;;;;;;;x
+USA_escort_carrier_0;Forrestal-Class;Forrestal-Class;Forrestal-Class;;Forrestal-Class;;;;;;;;;x
+USA_escort_carrier_1;Kitty Hawk-Class;Kitty Hawk-Class;Kitty Hawk-Class;;Kitty Hawk-Class;;;;;;;;;x
+USA_escort_carrier_2;John F. Kennedy-Class;John F. Kennedy-Class;John F. Kennedy-Class;;John F. Kennedy-Class;;;;;;;;;x
+USA_carrier_0;Enterprise-Class;Enterprise-Class;Enterprise-Class;;Enterprise-Class;;;;;;;;;x
+USA_carrier_1;Nimitz-Class;Nimitz-Class;Nimitz-Class;;Nimitz-Class;;;;;;;;;x
+USA_carrier_2;Ronald Reagan Sub-Class;Ronald Reagan Sub-Class;Ronald Reagan Sub-Class;;Ronald Reagan Sub-Class;;;;;;;;;x
+USA_carrier_3;Gerald R.Ford-Class;Gerald R.Ford-Class;Gerald R.Ford-Class;;Gerald R.Ford-Class;;;;;;;;;x
+USA_battlecruiser_0;Virginia-Class;Virginia-Class;Virginia-Class;;Virginia-Class;;;;;;;;;x
+USA_battlecruiser_1;Ticonderoga-Class M26;Ticonderoga-Class M26;Ticonderoga-Class M26;;Ticonderoga-Class M26;;;;;;;;;x
+USA_battlecruiser_2;Ticonderoga-Class M41;Ticonderoga-Class M41;Ticonderoga-Class M41;;Ticonderoga-Class M41;;;;;;;;;x
+USA_battlecruiser_3;Ticonderoga-Class Block III;Ticonderoga-Class Block III;Ticonderoga-Class Block III;;Ticonderoga-Class Block III;;;;;;;;;x
+USA_destroyer_0;Spruance/Kidd-Class;Kidd-Class;Kidd-Class;;Kidd-Class;;;;;;;;;x
+USA_destroyer_1;Arleigh Burke-Class Flight I;Arleigh Burke-Class Flight I;Arleigh Burke-Class Flight I;;Arleigh Burke-Class Flight I;;;;;;;;;x
+USA_destroyer_2;Arleigh Burke-Class Flight II;Arleigh Burke-Class Flight II;Arleigh Burke-Class Flight II;;Arleigh Burke-Class Flight II;;;;;;;;;x
+USA_destroyer_3;Arleigh Burke-Class Flight IIA;Arleigh Burke-Class Flight IIA;Arleigh Burke-Class Flight IIA;;Arleigh Burke-Class Flight IIA;;;;;;;;;x
+USA_destroyer_4;Zumwalt-Class;Zumwalt-Class;Zumwalt-Class;;Zumwalt-Class;;;;;;;;;x
+USA_battleship_0;Knox-class;Knox-class;Knox-class;;Knox-class;;;;;;;;;x
+USA_battleship_1;Oliver Hazard Perry-class;Oliver Hazard Perry-class;Oliver Hazard Perry-class;;Oliver Hazard Perry-class;;;;;;;;;x
+USA_battleship_2;Oliver Hazard Perry-class II;Oliver Hazard Perry-class II;Oliver Hazard Perry-class II;;Oliver Hazard Perry-class II;;;;;;;;;x
+USA_battleship_3;Freedom-class LCS;Freedom-class LCS;Freedom-class LCS;;Freedom-class LCS;;;;;;;;;x
+USA_battleship_4;Independence-class LCS;Independence-class LCS;Independence-class LCS;;Independence-class LCS;;;;;;;;;x
+USA_light_cruiser_0;Cyclone-class Patrol Ship;Cyclone-class Patrol Ship;Cyclone-class Patrol Ship;;Cyclone-class Patrol Ship;;;;;;;;;x
+USA_light_cruiser_1;Improved Cyclone-class;Improved Cyclone-class;Improved Cyclone-class;;Improved Cyclone-class;;;;;;;;;x
+USA_nuclear_submarine_0;Los Angeles-Class;Los Angeles-Class;Los Angeles-Class;;Los Angeles-Class;;;;;;;;;x
+USA_nuclear_submarine_1;Los Angeles-Class VLS;Los Angeles-Class VLS;Los Angeles-Class VLS;;Los Angeles-Class VLS;;;;;;;;;x
+USA_nuclear_submarine_2;Improved Los Angeles-Class;Improved Los Angeles-Class;Improved Los Angeles-Class;;Improved Los Angeles-Class;;;;;;;;;x
+USA_nuclear_submarine_3;Seawolf-Class;Seawolf-Class;Seawolf-Class;;Seawolf-Class;;;;;;;;;x
+USA_nuclear_submarine_4;Virginia-Class;Virginia-Class;Virginia-Class;;Virginia-Class;;;;;;;;;x
+USA_nuclear_submarine_5;Virginia-Class Block II;Virginia-Class Block II;Virginia-Class Block II;;Virginia-Class Block II;;;;;;;;;x
+USA_nuclear_submarine_6;Virginia-Class Block III;Virginia-Class Block III;Virginia-Class Block III;;Virginia-Class Block III;;;;;;;;;x
+USA_missile_submarine_0;Benjamin Franklin-Class;Benjamin Franklin-Class;Benjamin Franklin-Class;;Benjamin Franklin-Class;;;;;;;;;x
+USA_missile_submarine_1;Ohio-Class;Ohio-Class;Ohio-Class;;Ohio-Class;;;;;;;;;x
+USA_missile_submarine_2;Ohio-Class (Block II);Ohio-Class (Block II);Ohio-Class (Block II);;Ohio-Class (Block II);;;;;;;;;x
+USA_transport_ship_0;Cape Ducato-Class;Cape Ducato-Class;Cape Ducato-Class;;Cape Ducato-Class;;;;;;;;;x
+USA_transport_ship_1;Algol-class;Algol-class;Algol-class;;Algol-class;;;;;;;;;x
+USA_transport_ship_2;Bob Hope-Class;Bob Hope-Class;Bob Hope-Class;;Bob Hope-Class;;;;;;;;;x
+USA_invasion_transport_ship_0;LCM-8;LCM-8;LCM-8;;LCM-8;;;;;;;;;x
+USA_invasion_transport_ship_1;LCU-1610;LCU-1610;LCU-1610;;LCU-1610;;;;;;;;;x
+USA_invasion_transport_ship_2;LCAC;LCAC;LCAC;;LCAC;;;;;;;;;x
+USA_invasion_transport_ship_3;LCAC Block II;LCAC Block II;LCAC Block II;;LCAC Block II;;;;;;;;;x
+USA_armor_brigade_0;M1A1 Abrams;M1A1 Abrams;M1A1 Abrams;M1A1 Abrams;;;;;;;;;x
+USA_armor_brigade_1;M1A1HC Abrams;M1A1HC Abrams;M1A1HC Abrams;M1A1HC Abrams;;;;;;;;;x
+USA_armor_brigade_2;M1A1 AIM V.2 Abrams;M1A1 AIM V.2 Abrams;M1A1 AIM V.2 Abrams;;M1A1 AIM V.2 Abrams;;;;;;;;;x
+USA_armor_brigade_3;M1A2 Abrams;M1A2 Abrams;M1A2 Abrams;;M1A2 Abrams;;;;;;;;;x
+USA_armor_brigade_4;M1A2 Abrams SEP;M1A2 Abrams SEP;M1A2 Abrams SEP;;M1A2 Abrams SEP;;;;;;;;;x
+USA_armor_brigade_5;M1A2 Abrams SEP V.2;M1A2 Abrams SEP V.2;M1A2 Abrams SEP V.2;;M1A2 Abrams SEP V.2;;;;;;;;;x
+USA_armor_brigade_6;M1A3 Abrams;M1A3 Abrams;M1A3 Abrams;;M1A3 Abrams;;;;;;;;;x
+USA_heavy_armor_brigade_0;M60A2 Patton;M60A2 Patton;M60A2 Patton;M60A2 Patton;;;;;;;;;x
+USA_heavy_armor_brigade_1;M60A3 Patton;M60A3 Patton;M60A3 Patton;M60A3 Patton;;;;;;;;;x
+USA_heavy_armor_brigade_2;M60A3 TTS;M60A3 TTS;M60A3 TTS;;M60A3 TTS;;;;;;;;;x
+USA_light_armor_brigade_0;M551 Sheridan;M551 Sheridan;M551 Sheridan;M551 Sheridan;;;;;;;;;x
+USA_light_armor_brigade_1;M551A1 Sheridan;M551A1 Sheridan;M551A1 Sheridan;M551A1 Sheridan;;;;;;;;;x
+USA_light_armor_brigade_2;M551A1 TTS;M551A1 TTS;M551A1 TTS;M551A1 TTS;;;;;;;;;x
+USA_ifv_brigade_0;M113A3 APC;M113A3 APC;M113A3 APC;;M113A3 APC;;;;;;;;;x
+USA_ifv_brigade_1;M3A1 Bradley CFV;M3A1 Bradley CFV;M3A1 Bradley CFV;;M3A1 Bradley CFV;;;;;;;;;x
+USA_ifv_brigade_2;LAV-25A1;LAV-25A1;LAV-25A1;;LAV-25A1;;;;;;;;;x
+USA_ifv_brigade_3;M3A2 Bradley CFV;M3A2 Bradley CFV;M3A2 Bradley CFV;;M3A2 Bradley CFV;;;;;;;;;x
+USA_ifv_brigade_4;M3A3 Bradley CFV;M3A3 Bradley CFV;M3A3 Bradley CFV;;M3A3 Bradley CFV;;;;;;;;;x
+USA_ifv_brigade_5;M1127A Stryker RV;M1127A Stryker RV;M1127A Stryker RV;;M1127A Stryker RV;;;;;;;;;x
+USA_ifv_brigade_6;M1127B Stryker RV;M1127B Stryker RV;M1127B Stryker RV;;M1127B Stryker RV;;;;;;;;;x
+USA_armored_car_brigade_0;M1025 HMMWV M-60 LMG;M1025 HMMWV M-60 MG;M1025 HMMWV M-60 MG;;M1025 HMMWV M-60 MG;;;;;;;;;x
+USA_armored_car_brigade_1;M1043 HMMWV M2HB;M1043 HMMWV M2HB;M1043 HMMWV M2HB;;M1043 HMMWV M2HB;;;;;;;;;x
+USA_armored_car_brigade_2;M1109 HMMWV M240 LMG;M1109 HMMWV M240 LMG;M1109 HMMWV M240 LMG;;M1109 HMMWV M240 LMG;;;;;;;;;x
+USA_armored_car_brigade_3;M1109 HMMWV Mk.19 GMG;M1109 HMMWV Mk.19 GMG;M1109 HMMWV Mk.19 GMG;;M1109 HMMWV Mk.19 GMG;;;;;;;;;x
+USA_armored_car_brigade_4;RG-31 Charger M2;RG-31 Charger M2;RG-31 Charger M2;;RG-31 Charger M2;;;;;;;;;x
+USA_armored_car_brigade_5;RG-31 Charger M2;RG-31 Charger M2;RG-31 Charger M2;;RG-31 Charger M2;;;;;;;;;x
+USA_sp_rct_artillery_brigade_0;M270 MLRS;M270 MLRS;M270 MLRS;;M270 MLRS;;;;;;;;;x
+USA_sp_rct_artillery_brigade_1;M270 IPDS;M270 IPDS;M270 IPDS;;M270 IPDS;;;;;;;;;x
+USA_sp_rct_artillery_brigade_2;M270A1 MLRS;M270A1 MLRS;M270A1 MLRS;;M270A1 MLRS;;;;;;;;;x
+USA_sp_rct_artillery_brigade_3;M142 HIMARS;M142 HIMARS;M142 HIMARS;;M142 HIMARS;;;;;;;;;x
+USA_sp_rct_artillery_brigade_4;M142B HIMARS;M142B HIMARS;M142B HIMARS;;M142B HIMARS;;;;;;;;;x
+USA_sp_artillery_brigade_0;M109A2 Howitzer (155mm);M109A2 Howitzer (155mm);M109A2 Howitzer (155mm);;M109A2 Howitzer (155mm);;;;;;;;;x
+USA_sp_artillery_brigade_1;M109A5 Howitzer (155mm);M109A5 Howitzer (155mm);M109A5 Howitzer (155mm);;M109A5 Howitzer (155mm);;;;;;;;;x
+USA_sp_artillery_brigade_2;M109A6 Paladin (155mm);M109A6 Paladin (155mm);M109A6 Paladin (155mm);;M109A6 Paladin (155mm);;;;;;;;;x
+USA_sp_artillery_brigade_3;M109A6+ Paladin (155mm);M109A6+ Paladin (155mm);M109A6+ Paladin (155mm);;M109A6+ Paladin (155mm);;;;;;;;;x
+USA_sp_artillery_brigade_4;M109A7 Paladin (155mm);M109A7 Paladin (155mm);M109A7 Paladin (155mm);;M109A7 Paladin (155mm);;;;;;;;;x
+USA_sp_artillery_brigade_5;M109A8 Paladin (155mm);M109A8 Paladin (155mm);M109A8 Paladin (155mm);;M109A7 Paladin (155mm);;;;;;;;;x
+USA_artillery_brigade_0;M119A2 Howitzer (105mm);M119A2 Howitzer (105mm);M119A2 Howitzer (105mm);;M119A2 Howitzer (105mm);;;;;;;;;x
+USA_artillery_brigade_1;M119A3 Howitzer (105mm);M119A3 Howitzer (105mm);M119A3 Howitzer (105mm);;M119A3 Howitzer (105mm);;;;;;;;;x
+USA_artillery_brigade_2;M119A3 IP Howitzer (105mm);M119A3 IP Howitzer (105mm);M119A3 IP Howitzer (105mm);;M119A3 IP Howitzer (105mm);;;;;;;;;x
+USA_mot_aa_brigade_0;MIM-104A/B Patriot;MIM-104A/B Patriot;MIM-104A/B Patriot;;MIM-104A/B Patriot;;;;;;;;;x
+USA_mot_aa_brigade_1;MIM-104C Patriot;MIM-104C Patriot;MIM-104C Patriot;;MIM-104C Patriot;;;;;;;;;x
+USA_mot_aa_brigade_2;MIM-104D Patriot;MIM-104D Patriot;MIM-104D Patriot;;MIM-104D Patriot;;;;;;;;;x
+USA_mot_aa_brigade_3;MIM-104F (PAC-3) Patriot;MIM-104F (PAC-3) Patriot;MIM-104F (PAC-3) Patriot;;MIM-104F (PAC-3) Patriot;;;;;;;;;x
+USA_mot_aa_brigade_4;MIM-104 (PAAC-4) Patriot;MIM-104 (PAAC-4) Patriot;MIM-104 (PAAC-4) Patriot;;MIM-104 (PAAC-4) Patriot;;;;;;;;;x
+USA_anti_air_brigade_0;M163 VADS;M163 VADS;M163 VADS;;M163 VADS;;;;;;;;;x
+USA_anti_air_brigade_1;AN/TWQ-1A Avenger;AN/TWQ-1A Avenger;AN/TWQ-1A Avenger;;AN/TWQ-1A Avenger;;;;;;;;;x
+USA_anti_air_brigade_2;M6 Linebacker;M6 Linebacker;M6 Linebacker;;M6 Linebacker;;;;;;;;;x
+USA_anti_air_brigade_3;AN/TWQ-1B Avenger;AN/TWQ-1B Avenger;AN/TWQ-1B Avenger;;AN/TWQ-1B Avenger;;;;;;;;;x
+USA_anti_tank_brigade_0;BGM-71C	I-TOW;BGM-71C I-TOW;BGM-71C	I-TOW;;BGM-71C	I-TOW;;;;;;;;;x
+USA_anti_tank_brigade_1;BGM-71D TOW-2;BGM-71D TOW-2;BGM-71D TOW-2;;BGM-71D TOW-2;;;;;;;;;x
+USA_anti_tank_brigade_2;BGM-71F	I-TOW;BGM-71F I-TOW;BGM-71F I-TOW;;BGM-71F I-TOW;;;;;;;;;x
+USA_anti_tank_brigade_3;FGM-148A Javelin;FGM-148A Javelin;FGM-148A Javelin;;FGM-148A Javelin;;;;;;;;;x
+USA_anti_tank_brigade_4;FGM-148B Javelin;FGM-148B Javelin;FGM-148B Javelin;;FGM-148B Javelin;;;;;;;;;x
+USA_tank_destroyer_brigade_0;M151A2 TOW;M151A2 TOW;M151A2 TOW;;M151A2 TOW;;;;;;;;;x
+USA_tank_destroyer_brigade_1;M966 HMMWV I-TOW;M966 HMMWV I-TOW;M966 HMMWV I-TOW;;M966 HMMWV I-TOW;;;;;;;;;x
+USA_tank_destroyer_brigade_2;M966 HMMWV TOW-2A;M966 HMMWV TOW-2A;M966 HMMWV TOW-2A;;M966 HMMWV TOW-2A;;;;;;;;;x
+USA_tank_destroyer_brigade_3;M1036 TOW-2;M1036 TOW-2;M1036 TOW-2;;M1036 TOW-2;;;;;;;;;x
+USA_tank_destroyer_brigade_4;M1134 Stryker ATGM;M1134 Stryker ATGM;M1134 Stryker ATGM;;M1134 Stryker ATGM;;;;;;;;;x
+USA_tank_destroyer_brigade_5;M1128 Stryker MGS;M1128 Stryker MGS;M1128 Stryker MGS;;M1128 Stryker MGS;;;;;;;;;x
+SWE_attack_aircraft_0;Saab AJS 37 Viggen;Saab AJS 37 Viggen;Saab AJS 37 Viggen;;Saab AJS 37 Viggen;;;;;;;;;x
+SWE_attack_aircraft_1;Saab AJ 37 Viggen;Saab AJ 37 Viggen;Saab AJ 37 Viggen;;Saab AJ 37 Viggen;;;;;;;;;x
+SWE_multi_role_0;JAS 39A Gripen;JAS 39A Gripen;JAS 39A Gripen;;JAS 39A Gripen;;;;;;;;;x
+SWE_multi_role_1;JAS 39B Gripen;JAS 39B Gripen;JAS 39B Gripen;;JAS 39B Gripen;;;;;;;;;x
+SWE_multi_role_2;JAS 39C Gripen;JAS 39C Gripen;JAS 39C Gripen;;JAS 39C Gripen;;;;;;;;;x
+SWE_multi_role_3;JAS 39D Gripen;JAS 39D Gripen;JAS 39D Gripen;;JAS 39D Gripen;;;;;;;;;x
+SWE_transport_plane_0;Transportflygplan 84B;Transportflygplan 84B;Transportflygplan 84B;;Transportflygplan 84B;;;;;;;;;x
+SWE_transport_plane_1;Transportflygplan 84C;Transportflygplan 84C;Transportflygplan 84C;;Transportflygplan 84C;;;;;;;;;x
+SWE_transport_plane_2;Transportflygplan 84D;Transportflygplan 84D;Transportflygplan 84D;;Transportflygplan 84D;;;;;;;;;x
+SWE_tactical_bomber_0;Helikopter 6A;Helikopter 6A;Helikopter 6A;;Helikopter 6A;;;;;;;;;x
+SWE_tactical_bomber_1;Helikopter 9A;Helikopter 9A;Helikopter 9A;;Helikopter 9A;;;;;;;;;x
+SWE_tactical_bomber_2;Helikopter 9B;Helikopter 9B;Helikopter 9B;;Helikopter 9B;;;;;;;;;x
+SWE_armor_brigade_0;Stridsvagn 121;Stridsvagn 121;Stridsvagn 121;;Stridsvagn 121;;;;;;;;;x
+SWE_armor_brigade_1;Stridsvagn 122;Stridsvagn 122;Stridsvagn 122;;Stridsvagn 122;;;;;;;;;x
+SWE_armor_brigade_2;Stridsvagn 122B;Stridsvagn 122B;Stridsvagn 122B;;Stridsvagn 122B;;;;;;;;;x
+SWE_armor_brigade_3;Stridsvagn 122B+;Stridsvagn 122B+;Stridsvagn 122B+;;Stridsvagn 122B+;;;;;;;;;x
+SWE_armor_brigade_4;Stridsvagn 122C;Stridsvagn 122C;Stridsvagn 122C;;Stridsvagn 122C;;;;;;;;;x
+SWE_heavy_armor_brigade_1;Stridsvagn 103;Stridsvagn 103;Stridsvagn 103;;Stridsvagn 103;;;;;;;;;x
+SWE_heavy_armor_brigade_2;Stridsvagn 103B;Stridsvagn 103;Stridsvagn 103B;;Stridsvagn 1031B;;;;;;;;;x
+SWE_heavy_armor_brigade_3;Stridsvagn 103C;Stridsvagn 103C;Stridsvagn 103C;;Stridsvagn 1031C;;;;;;;;;x
+SWE_heavy_armor_brigade_4;Stridsvagn 103D;Stridsvagn 103D;Stridsvagn 103D;;Stridsvagn 1031D;;;;;;;;;x
+SWE_ifv_brigade_1;Pansarbandvagn 302;Pansarbandvagn 302;Pansarbandvagn 302;;Pansarbandvagn 302;;;;;;;;;x
+SWE_ifv_brigade_2;Stridsfordon 9040A;Stridsfordon 9040A;Stridsfordon 9040A;;Stridsfordon 9040A;;;;;;;;;x
+SWE_ifv_brigade_3;Stridsfordon 9040B;Stridsfordon 9040B;Stridsfordon 9040B;;Stridsfordon 9040B;;;;;;;;;x
+SWE_ifv_brigade_4;Stridsfordon 9040C;Stridsfordon 9040C;Stridsfordon 9040C;;Stridsfordon 9040C;;;;;;;;;x
+SWE_ifv_brigade_5;Stridsfordon 9040C+;Stridsfordon 9040C+;Stridsfordon 9040C+;;Stridsfordon 9040C+;;;;;;;;;x
+SWE_ifv_brigade_6;Pansarterrängbil 360A;Pansarterrängbil 360A;Pansarterrängbil 360A;;Pansarterrängbil 360A;;;;;;;;;x
+SWE_ifv_brigade_7;Pansarterrängbil 360B;Pansarterrängbil 360B;Pansarterrängbil 360B;;Pansarterrängbil 360B;;;;;;;;;x
+SWE_heavy_cruiser_0;Göteborgsklass;Göteborgsklass;Göteborgsklass;;Göteborgsklass;;;;;;;;;x
+SWE_heavy_cruiser_1;Visbyklass;Visbyklass;Visbyklass;;Visbyklass;;;;;;;;;x
+SWE_heavy_cruiser_2;Visbyklass II;Visbyklass II;Visbyklass II;;Visbyklass II;;;;;;;;;x
+SWE_light_cruiser_0;Tapperklass;Tapperklass;Tapperklass;;Tapperklass;;;;;;;;;x
+SWE_light_cruiser_1;Tapperklass II;Tapperklass II;Tapperklass II;;Tapperklass II;;;;;;;;;x
+SWE_invasion_transport_ship_0;Transportbåt Större;Transportbåt Större;Transportbåt Större;;Transportbåt Större;;;;;;;;;x
+SWE_invasion_transport_ship_1;Stridsbåt 90;Stridsbåt 90;Stridsbåt 90;;Stridsbåt 90;;;;;;;;;x
+SWE_invasion_transport_ship_2;Stridsbåt 90H;Stridsbåt 90H;Stridsbåt 90H;;Stridsbåt 90H;;;;;;;;;x
+SWE_invasion_transport_ship_3;Stridsbåt 90HS;Stridsbåt 90HS;Stridsbåt 90HS;;Stridsbåt 90HS;;;;;;;;;x
+SWE_invasion_transport_ship_4;Svävare 2000;Svävare 2000;Svävare 2000;;Svävare 2000;;;;;;;;;x
+SWE_submarine_0;Västergötlandsklass;Västergötlandsklass;Västergötlandsklass;;Västergötlandsklass;;;;;;;;;x
+SWE_submarine_1;Gotlandsklass;Gotlandsklass;Gotlandsklass;;Gotlandsklass;;;;;;;;;x
+SWE_submarine_2;Södermanlandsklass;Södermanlandsklass;Södermanlandsklass;;Södermanlandsklass;;;;;;;;;x
+SWE_armored_car_brigade_0;Terrängbil 11/13 KSP 58;Terrängbil 11/13 KSP 58;Terrängbil 11/13 KSP 58;;Terrängbil 11/13 KSP 58;;;;;;;;;x
+SWE_armored_car_brigade_1;Pansarterrängbil 203A;Pansarterrängbil 203A;Pansarterrängbil 203A;;Pansarterrängbil 203A;;;;;;;;;x
+SWE_armored_car_brigade_2;Pansarterrängbil 203B;Pansarterrängbil 203B;Pansarterrängbil 203B;;Pansarterrängbil 203B;;;;;;;;;x
+SWE_armored_car_brigade_3;Pansarterrängbil 203B+;Pansarterrängbil 203B+;Pansarterrängbil 203B+;;Pansarterrängbil 203B+;;;;;;;;;x
+SWE_armored_car_brigade_4;Terrängbil 16 Galten;Terrängbil 16 Galten;Terrängbil 16 Galten;;Terrängbil 16 Galten;;;;;;;;;x
+SWE_armored_car_brigade_5;Terrängbil 16B Galten;Terrängbil 16B Galten;Terrängbil 16B Galten;;Terrängbil 16B Galten;;;;;;;;;x
+SWE_armored_car_brigade_6;Terrängbil 16C Galten;Terrängbil 16C Galten;Terrängbil 16C Galten;;Terrängbil 16C Galten;;;;;;;;;x
+SWE_sp_artillery_brigade_0;Bandkanon 1B (155mm);Bandkanon 1B (155mm);Bandkanon 1B (155mm);;Bandkanon 1B (155mm);;;;;;;;;x
+SWE_sp_artillery_brigade_1;Bandkanon 1C (155mm);Bandkanon 1C (155mm);Bandkanon 1C (155mm);;Bandkanon 1C (155mm);;;;;;;;;x
+SWE_sp_artillery_brigade_2;Artillerisystem 08 Archer;Artillerisystem 08 Archer;Artillerisystem 08 Archer;;Artillerisystem 08 Archer;;;;;;;;;x
+SWE_sp_artillery_brigade_3;Artillerisystem 08B Archer;Artillerisystem 08B Archer;Artillerisystem 08B Archer;;Artillerisystem 08B Archer;;;;;;;;;x
+SWE_sp_artillery_brigade_4;Artillerisystem 08C Archer;Artillerisystem 08C Archer;Artillerisystem 08C Archer;;Artillerisystem 08C Archer;;;;;;;;;x
+SWE_artillery_brigade_0;Haubits 77A (155mm);Haubits 77A (155mm);Haubits 77A (155mm);;Haubits 77A (155mm);;;;;;;;;x
+SWE_artillery_brigade_1;Haubits 77B (155mm);Haubits 77B (155mm);Haubits 77B (155mm);;Haubits 77B (155mm);;;;;;;;;x
+SWE_artillery_brigade_2;Haubits 77A (155mm);Haubits 77A (155mm);Haubits 77A (155mm);;Haubits 77A (155mm);;;;;;;;;x
+SWE_anti_tank_brigade_0;Robot 56 Bill;Robot 56 Bill;Robot 56 Bill;;Robot 56 Bill;;;;;;;;;x
+SWE_anti_tank_brigade_1;Robot 56 BILL 2;Robot 56 BILL 2;Robot 56 BILL 2;;Robot 56 BILL 2;;;;;;;;;x
+NOR_multi_role_0;F-16A/B;F-16A/B;F-16A/B;;F-16A/B;;;;;;;;;x
+NOR_multi_role_1;F-16A/BM;F-16A/BM;F-16A/BM;;F-16A/BM;;;;;;;;;x
+NOR_multi_role_2;F-16A/BM MLU;F-16A/BM MLU;F-16A/BM MLU;;F-16A/BM MLU;;;;;;;;;x
+NOR_armor_brigade_0;Leopard 2A4NO;Leopard 2A4NO;Leopard 2A4NO;;Leopard 2A4NO;;;;;;;;;x
+NOR_armor_brigade_1;Leopard 2A4NO+;Leopard 2A4NO+;Leopard 2A4NO+;;Leopard 2A4NO+;;;;;;;;;x
+NOR_armor_brigade_2;Leopard 2A5NO;Leopard 2A5NO;Leopard 2A5NO;;Leopard 2A5NO;;;;;;;;;x
+NOR_ifv_brigade_0;NM135F1;NM135F1;NM135F1;;NM135F1;;;;;;;;;x 
+NOR_ifv_brigade_1;CV9030N;CV9030N;CV9030N;;CV9030N;;;;;;;;;x 
+NOR_ifv_brigade_2;CV9030NF1;CV9030NF1;CV9030NF1;;CV9030NF1;;;;;;;;;x
+NOR_ifv_brigade_3;CV9030NF2;CV9030NF2;CV9030NF2;;CV9030NF2;;;;;;;;;x
+NOR_armored_car_brigade_0;XA-185;XA-185;XA-185;;XA-185;;;;;;;;;x
+NOR_armored_car_brigade_1;XA-185 MLU;XA-185 MLU;XA-185 MLU;;XA-185 MLU;;;;;;;;;x
+NOR_armored_car_brigade_2;Iveco LMV;Iveco LMV;Iveco LMV;;Iveco LMV;;;;;;;;;x
+NOR_armored_car_brigade_3;Dingo 2 A3;Dingo 2 A3;Dingo 2 A3;;Dingo 2 A3;;;;;;;;;x
+NOR_sp_rct_artillery_brigade_0;M270 MLRS;M270 MLRS;M270 MLRS;;M270 MLRS;;;;;;;;;x
+NOR_sp_artillery_brigade_0;M109A3GN (155mm);M109A3GN (155mm);M109A3GN (155mm);;M109A3GN (155mm);;;;;;;;;x
+NOR_sp_artillery_brigade_1;M109A3GN+ (155mm);M109A3GN+ (155mm);M109A3GN+ (155mm);;M109A3GN+ (155mm);;;;;;;;;x
+NOR_sp_artillery_brigade_2;ARCHER-NO (155mm);ARCHER-NO (155mm);ARCHER-NO (155mm);;ARCHER-NO (155mm);;;;;;;;;x
+ISR_attack_aircraft_1;A-4H Skyhawk;A-4H Skyhawk;A-4H Skyhawk;;A-4H Skyhawk;;;;;;;;;x
+ISR_attack_aircraft_2;F-15I Ra'am;F-15I Ra'am;F-15I Ra'am;;F-15I Ra'am;;;;;;;;;x
+ISR_attack_aircraft_3;F-15I Ra'am II;F-15I Ra'am II;F-15I Ra'am II;;F-15I Ra'am II;;;;;;;;;x
+ISR_interceptor_1;F-15A/B Baz;F-15A/B Baz;F-15A/B Baz;;F-15A/B Baz;;;;;;;;;x
+ISR_interceptor_2;F-15C Baz;F-15C Baz;F-15C Baz;;F-15C Baz;;;;;;;;;x
+ISR_interceptor_3;F-15D Baz;F-15D Baz;F-15D Baz;;F-15D Baz;;;;;;;;;x
+ISR_multi_role_1;F-16A/B Netz;F-16A/B Netz;F-16A/B Netz;;F-16A/B Netz;;;;;;;;;x
+ISR_multi_role_2;F-16C Barak;F-16C Barak;F-16C Barak;;F-16C Barak;;;;;;;;;x
+ISR_multi_role_3;F-16D Barak;F-16D Barak;F-16D Barak;;F-16D Barak;;;;;;;;;x
+ISR_multi_role_4;F-16I Sufa;F-16I Sufa;F-16I Sufa;;F-16I Sufa;;;;;;;;;x
+ISR_third_generation_air_superiority_1;F-4D Phantom II;F-4D Phantom II;F-4D Phantom II;;F-4D Phantom II;;;;;;;;;x
+ISR_third_generation_air_superiority_2;F-4E Phantom II;F-4E Phantom II;F-4E Phantom II;;F-4E Phantom II;;;;;;;;;x
+ISR_third_generation_air_superiority_3;F-4E Phantom II;F-4E Phantom II;F-4E Phantom II;;F-4E Phantom II;;;;;;;;;x
+ISR_third_generation_air_superiority_4;F-4E Kurnass 2000;F-4E Kurnass 2000;F-4E Kurnass 2000;;F-4E Kurnass 2000;;;;;;;;;x
+ISR_third_generation_multi_role_1;RF-4E Orev;RF-4E Orev;RF-4E Orev;;RF-4E Orev;;;;;;;;;x
+ISR_third_generation_multi_role_2;IAI Kfir C.2;IAI Kfir C.2;IAI Kfir C.2;;IAI Kfir C.2;;;;;;;;;x
+ISR_third_generation_multi_role_3;IAI Kfir Block 60;IAI Kfir Block 60;IAI Kfir Block 60;;IAI Kfir Block 60;;;;;;;;;x
+ISR_transport_plane_1;C-130E Qarnaf;C-130E Qarnaf;C-130E Qarnaf;;C-130E Qarnaf;;;;;;;;;x
+ISR_transport_plane_2;C-130H Qarnaf;C-130H Qarnaf;C-130H Qarnaf;;C-130H Qarnaf;;;;;;;;;x
+ISR_transport_plane_3;C-130J-30 Shimshon;C-130J-30 Shimshon;C-130J-30 Shimshon;;C-130J-30 Shimshon;;;;;;;;;x
+ISR_tactical_bomber_1;AH-1 Tzefa;AH-1 Tzefa;AH-1 Tzefa;;AH-1 Tzefa;;;;;;;;;x
+ISR_tactical_bomber_2;AH-64A Peten;AH-64A Peten;AH-64A Peten;;AH-64A Peten;;;;;;;;;x
+ISR_tactical_bomber_3;AH-64D Saraph;AH-64D Saraph;AH-64D Saraph;;AH-64D Saraph;;;;;;;;;x
+ISR_unmanned_bomber_1;Hermes 450S Zik;Hermes 450S Zik;Hermes 450S Zik;;Hermes 450S Zik;;;;;;;;;x
+ISR_unmanned_bomber_2;Heron-1 Shoval;Heron-1 Shoval;Heron-1 Shoval;;Heron-1 Shoval;;;;;;;;;x
+ISR_unmanned_bomber_3;Heron-TP Eitan;Heron-TP Eitan;Heron-TP Eitan;;Heron-TP Eitan;;;;;;;;;x
+ISR_unmanned_bomber_4;Hermes 900 Kochav;Hermes 900 Kochav;Hermes 900 Kochav;;Hermes 900 Kochav;;;;;;;;;x
+ISR_armor_brigade_0;Merkava Mk.IID;Merkava Mk.IID;Merkava Mk.IID;;Merkava Mk.IID;;;;;;;;;x
+ISR_armor_brigade_1;Merkava Mk.III;Merkava Mk.III;Merkava Mk.III;;Merkava Mk.III;;;;;;;;;x
+ISR_armor_brigade_2;Merkava Mk.IIID Baz;Merkava Mk.IIID Baz;Merkava Mk.IIID Baz;;Merkava Mk.IIID Baz;;;;;;;;;x
+ISR_armor_brigade_3;Merkava Mk.III Dor-Dalet;Merkava Mk.III Dor-Dalet;Merkava Mk.III Dor-Dalet;;Merkava Mk.III Dor-Dalet;;;;;;;;;x
+ISR_heavy_armor_brigade_0;Centurion Sho't Alef;Centurion Sho't Alef;Centurion Sho't Alef;;Centurion Sho't Alef;;;;;;;;;x
+ISR_heavy_armor_brigade_1;Magach 5;Magach 5;Magach 5;;Magach 5;;;;;;;;;x
+ISR_heavy_armor_brigade_2;Magach 6;Magach 6;Magach 6;;Magach 6;;;;;;;;;x
+ISR_heavy_armor_brigade_3;Magach 7;Magach 7;Magach 7;;Magach 7;;;;;;;;;x
+ISR_heavy_armor_brigade_4;Magach 7 Gimel;Magach 7 Gimel;Magach 7 Gimel;;Magach 7 Gimel;;;;;;;;;x
+ISR_sp_artillery_brigade_0;Soltam M-68 Ro'em;Soltam M-68 Ro'em;Soltam M-68 Ro'em;;Soltam M-68 Ro'em;;;;;;;;;x
+ISR_sp_artillery_brigade_1;M109A5 (155mm);M109A5 (155mm);M109A5 (155mm);;M109A5 (155mm);;;;;;;;;x
+ISR_sp_artillery_brigade_2;M109 Doher (155mm);M109 Doher (155mm);M109 Doher (155mm);;M109 Doher (155mm);;;;;;;;;x
+ISR_sp_artillery_brigade_3;ATMOS 2000 (155mm);ATMOS 2000 (155mm);ATMOS 2000 (155mm);;ATMOS 2000 (155mm);;;;;;;;;x
+ISR_sp_rct_artillery_brigade_0;M270 Menatetz;M270 Menatetz;M270 Menatetz;;M270 Menatetz;;;;;;;;;x
+ISR_sp_rct_artillery_brigade_1;M270 Menatetz;M270 Menatetz;M270 Menatetz;;M270 Menatetz;;;;;;;;;x
+ISR_artillery_brigade_0;Soltam M-71;Soltam M-71;Soltam M-71;;Soltam M-71;;;;;;;;;x
+ISR_ifv_brigade_0;M113 Bardehlas;M113 Bardehlas;M113 Bardehlas;;M113 Bardehlas;;;;;;;;;x
+ISR_ifv_brigade_1;M113 Zelda 2;M113 Zelda 2;M113 Zelda 2;;M113 Zelda 2;;;;;;;;;x
+ISR_ifv_brigade_2;Achzarit Mk 2;Achzarit Mk 2;Achzarit Mk 2;;Achzarit Mk 2;;;;;;;;;x
+ISR_ifv_brigade_3;Namer IFV;Namer IFV;Namer IFV;;Namer IFV;;;;;;;;;x

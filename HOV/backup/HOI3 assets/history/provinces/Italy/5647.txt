@@ -1,0 +1,12 @@
+owner = ITA
+controller = ITA
+add_core = ITA
+add_core = EUU
+points = 12
+terrain = urban
+infra = 10
+naval_base = 6
+air_base = 5
+industry = 6
+manpower = 7.00
+leadership = 6.00

@@ -1,0 +1,5 @@
+owner = EST
+controller = EST
+add_core = EST
+infra = 6
+manpower = 3.00

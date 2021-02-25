@@ -1,0 +1,13 @@
+owner = IRQ
+controller = IRQ
+add_core = IRQ
+infra = 5
+terrain = urban
+points = 4
+
+2005.5.3 = {
+owner = DIR
+controller = DIR
+add_core = DIR
+remove_core = IRQ
+}

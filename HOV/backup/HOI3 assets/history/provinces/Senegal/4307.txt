@@ -1,0 +1,4 @@
+owner = SEN
+controller = SEN
+add_core = SEN
+infra = 4

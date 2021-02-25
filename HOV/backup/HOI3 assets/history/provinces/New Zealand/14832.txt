@@ -1,0 +1,7 @@
+owner = NZL
+controller = NZL
+add_core = NZL
+infra = 7
+2000.1.1 = {
+	infra = 2
+}

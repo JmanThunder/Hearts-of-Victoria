@@ -1,0 +1,10 @@
+owner=PRK
+controller=PRK
+add_core=PRK
+add_core=KOR
+points = 12
+terrain = urban
+infra = 5
+air_base = 5
+manpower = 5.00
+industry = 3

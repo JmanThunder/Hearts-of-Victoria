@@ -1,0 +1,5 @@
+owner = LIB
+controller = LIB
+add_core = LIB
+infra = 2
+naval_base = 1

@@ -1,0 +1,5 @@
+owner = SYR
+controller = SYR
+add_core = SYR
+infra = 5
+naval_base = 3

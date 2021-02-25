@@ -1,0 +1,368 @@
+##################################################;;;;;;;;;;;;;;x
+# Interface;;;;;;;;;;;;;;x
+##################################################;;;;;;;;;;;;;;x
+LIBERATE_COUNTRY;Liberate Country;Libérer le pays;Land befreien;;Liberar país;;;;;;;;;x
+CREATE_PUPPET;Create Puppet;Créer un État fantoche;Marionettenstaat;;Crear títere;;;;;;;;;x
+POLITICAL_ORGANIZATION;Organisation;Organisation;Organisation;;Organización;;;;;;;;;x
+POLITICAL_POPULARITY;Popularity;Popularité;Beliebtheit;;Popularidad;;;;;;;;;x
+RULING_IDEOLOGY;Ruling Ideology;Idéologie dominante;Vorherrschende Ideologie;;Ideología de Gobierno;;;;;;;;;x
+##################################################;;;;;;;;;;;;;;x
+# Minister Positions;;;;;;;;;;;;;;x
+##################################################;;;;;;;;;;;;;;x
+head_of_state;Head of State;;;;;;;;;;;;;x
+head_of_government;Head of Government;;;;;;;;;;;;;x
+foreign_minister;Foreign Minister;;;;;;;;;;;;;x
+minister_of_security;Defense Minister;;;;;;;;;;;;;x
+##################################################;;;;;;;;;;;;;;x
+# Ideologies;;;;;;;;;;;;;;x
+##################################################;;;;;;;;;;;;;;x
+national_socialist;Radical Religious;;;;;;;;;;;;;x
+fascistic;Nationalist;;;;;;;;;;;;;x
+paternal_autocrat;Right-Wing;;;;;;;;;;;;;x
+social_conservative;Social Conservative;;;;;;;;;;;;;x
+market_liberal;Consensus Center;;;;;;;;;;;;;x
+social_liberal;Social Liberal;;;;;;;;;;;;;x
+social_democrat;Social Democrat;;;;;;;;;;;;;x
+left_wing_radical;Left-Wing;;;;;;;;;;;;;x
+leninist;Moderate Communism;;;;;;;;;;;;;x
+stalinist;Radical Communism;;;;;;;;;;;;;x
+##################################################;;;;;;;;;;;;;;x
+# Ministertypes;;;;;;;;;;;;;;x
+##################################################;;;;;;;;;;;;;;x
+biased_intellectual;Biased Intellectual;Intellectuel tendancieux;Beeinflusster Intellektueller;;Intelectual partidista;;;;;;;;;x
+ideological_crusader;Ideological Crusader;Croisé idéologique;Ideologischer Kreuzritter;;Cruzado ideológico;;;;;;;;;x
+apologetic_clerk;Apologetic Clerk;Fonctionnaire navré;Zaghafter Angestellter ;;Funcionario indeciso;;;;;;;;;x
+iron_fisted_brute;Iron-Fisted Brute;Brute à poigne de fer;Eisenharter Rohling;;Bestia con puño de hierro;;;;;;;;;x
+great_compromiser;Great Compromiser;As du compromis;Großer Kompromissler;;Gran conciliador;;;;;;;;;x
+general_staffer;General Staffer;Préposé général;Generalstabsoffizier;;General de carrera;;;;;;;;;x
+the_cloak_n_dagger_schemer;Cloak-and-Dagger Schemer;Conspirateur;Mantel-und-Degen-Intrigant;;Maquiavélico en la sombra;;;;;;;;;x
+administrative_genius;Administrative Genius;Bureaucrate de génie;Verwaltungsgenie;;Genio de la gestión;;;;;;;;;x
+resource_industrialist;Resource Industrialist;Industriel compulsif;Ressourcen-Industrialist;;Industrial de recursos;;;;;;;;;x
+laissez_faires_capitalist;Laissez-Faire Capitalist;Capitaliste laxiste;Laissez-Faire-Kapitalist;;Capitalista libre mercado;;;;;;;;;x
+theoretical_scientist;Theoretical Scientist;Scientifique abstrait;Theoretischer Wissenschaftler;;Científico teórico;;;;;;;;;x
+military_entrepreneur;Military Entrepreneur;Entrepreneur militariste;Kriegsunternehmer;;Contratista militar;;;;;;;;;x
+battle_fleet_proponent;Battle Fleet Proponent;Adepte des navires;Schlachtflotten-Befürworter;;Partidario flota combate;;;;;;;;;x
+submarine_proponent;Submarine Proponent;Adepte des sous-marins;U-Boot-Befürworter;;Partidario submarinos;;;;;;;;;x
+tank_proponent;Tank Proponent;Adepte des blindés;Panzer-Befürworter;;Partidario tanques;;;;;;;;;x
+infantry_proponent;Infantry Proponent;Adepte de l'infanterie;Infanterie-Befürworter;;Partidario infantería;;;;;;;;;x
+air_to_ground_proponent;Air-to-Ground Proponent;Adepte air-sol;Luft-Boden-Raketen-Befürworter;;Partidario aire-tierra;;;;;;;;;x
+air_to_sea_proponent;Air-to-Sea Proponent;Adepte air-mer;Luft-See-Raketen-Befürworter;;Partidario aire-mar;;;;;;;;;x
+strategic_air_proponent;Strategic Air Proponent;Adepte des bombardiers;Strategische Kriegsführung;;Partidario bombardeo estrat.;;;;;;;;;x
+silent_lawyer;Silent Lawyer;Avocat discret;Schweigsamer Anwalt;;Ordenancista silencioso;;;;;;;;;x
+compassionate_gentleman;Compassionate Gentleman;Philanthrope;Leidenschaftlicher Gentleman;;Caballero compasivo;;;;;;;;;x
+crime_fighter;Crime Fighter;Adversaire du crime;Verbrechensbekämpfer;;Luchador contra crimen;;;;;;;;;x
+prince_of_terror;Prince of Terror;Prince de la terreur;Fürst des Schreckens;;Príncipe del terror;;;;;;;;;x
+back_stabber;Back Stabber;Fourbe;Verräter;;Apuñalador;;;;;;;;;x
+man_of_the_people;Man of the People;Homme du peuple;Mann des Volkes;;Hombre del pueblo;;;;;;;;;x
+efficient_sociopath;Efficient Sociopath;Sociopathe efficace;Effizienter Soziopath;;Sociópata eficiente;;;;;;;;;x
+technical_specialist;Technical Specialist;Technicien;Technikspezialist;;Especialista técnica;;;;;;;;;x
+logistics_specialist;Logistics Specialist;Logisticien;Logistikspezialist;;Especialista logística;;;;;;;;;x
+political_specialist;Political Specialist;Politicien;Politikspezialist;;Especialista política;;;;;;;;;x
+dismal_enigma;Dismal Enigma;Homme de l'ombre;Düsteres Rätsel;;Enigma tinieblas;;;;;;;;;x
+industrial_specialist;Industrial Specialist;Industriel;Industriespezialist;;Especialista industria;;;;;;;;;x 
+naval_intelligence_specialist;Naval Intelligence Specialist;Officier de renseignement naval;Marinenachrichtendienst;;Especialista intelig. naval;;;;;;;;;x
+school_of_manoeuvre;School of Manoeuvre;Théorie de la manœuvre;Manöverschule;;Escuela de maniobra;;;;;;;;;x
+school_of_fire_support;School of Fire Support;Théorie du soutien d'artillerie;Schule der Feuerunterstützung;;Escuela de apoyo de fuego;;;;;;;;;x
+school_of_mass_combat;School of Mass Combat;Théorie du combat de masse;Schule der Massenkampfes;;Escuela combate masas;;;;;;;;;x
+school_of_psychology;School of Psychology;Théorie de la psychologie;Schule der Psychologie;;Escuela psicología;;;;;;;;;x
+school_of_defence;School of Defence;Théorie de la défense;Schule der Verteidigung;;Escuela defensa;;;;;;;;;x
+elastic_defence_doctrine;Elastic Defence Doctrine;Doctrine de la défense flexible;Elastische Verteidigung;;Doctrina defensa elástica;;;;;;;;;x
+static_defence_doctrine;Static Defence Doctrine;Doctrine de la défense statique;Statische Verteidigung;;Doctrina defensa estática;;;;;;;;;x
+decisive_battle_doctrine;Decisive Battle Doctrine;Doctrine de la bataille décisive;Entscheidungsschlacht-Doktrin;;Doctrina de la batalla decisiva;;;;;;;;;x
+armoured_spearhead_doctrine;Armoured Spearhead Doctrine;Doctrine du fer de lance blindé;Blitzkrieg-Doktrin;;Doctrina punta ataque acoraz.;;;;;;;;;x
+guns_and_butter_doctrine;Guns and Butter Doctrine;Doctrine du soutien logistique;Kanonen-und-Butter-Doktrin;;Doctrina de la logística;;;;;;;;;x
+open_seas_doctrine;Open Seas Doctrine;Doctrine de la haute mer;Offenes Meer-Doktrin;;Doctrina mares abiertos;;;;;;;;;x
+decisive_naval_battle_doctrine;Decisive Naval Battle Doctrine;Doctrine de la bataille navale décisive;Entscheidungsschlacht-Doktrin;;Doctrina de batalla naval decisiva;;;;;;;;;x
+power_projection_doctrine;Power Projection Doctrine;Doctrine de la suprématie;Machtprojektionsdoktrin;;Doctrina de la supremacía;;;;;;;;;x
+indirect_approach_doctrine;Indirect Approach Doctrine;Doctrine de l'approche indirecte;Indirekte Annäherung;;Doctrina de la aproximación indirecta;;;;;;;;;x
+base_control_doctrine;Base Control Doctrine;Doctrine du contrôle de base;Basiskontrolldoktrin;;Doctrina control bases;;;;;;;;;x
+air_superiority_doctrine;Air Superiority Doctrine;Doctrine de la domination aérienne;Luftüberlegenheitsdoktrin;;Doctrina de la superioridad aérea;;;;;;;;;x
+naval_aviation_doctrine;Naval Aviation Doctrine;Doctrine de l'aéronavale;Marineflieger-Doktrin;;Doctrina aviación naval;;;;;;;;;x
+army_aviation_doctrine;Army Aviation Doctrine;Doctrine de l'aviation terrestre;Heeresflieger-Doktrin;;Doctrina aviación ejército;;;;;;;;;x
+carpet_bombing_doctrine;Carpet Bombing Doctrine;Doctrine du tapis de bombes;Flächenbombardement;;Doctrina del bombardeo en alfombra;;;;;;;;;x
+vertical_envelopment_doctrine;Vertical Envelopment Doctrine;Doctrine de l'encerclement vertical;Vertikale Umfassung;;Doctrina desembarco vertical;;;;;;;;;x
+undistinguished_suit;Undistinguished Suit;Fonctionnaire anonyme;Durchschnittlicher Bürokrat;;Hombre del traje gris;;;;;;;;;x
+air_superiority_proponent;Air Superiority Proponent;Adepte de la suprématie aérienne;Luftüberlegenheitsbefürworter;;Partidario superior. aérea;;;;;;;;;x
+corrupt_kleptocrat;Corrupt Kleptocrat;Kleptocrate corrompu;Korrupter Plünderer;;Cleptócrata corrupto;;;;;;;;;x
+crooked_kleptocrat;Crooked Kleptocrat;Kleptocrate fourbe;Betrügerischer Plünderer;;Cleptócrata retorcido;;;;;;;;;x
+power_hungry_demagogue;Power-Hungry Demagogue;Démagogue avide de pouvoir;Machthungriger Demagoge;;Demagogo sediento de poder;;;;;;;;;x
+barking_buffoon;Barking Buffoon;Bouffon autoritaire;Keifender Hanswurst;;Payaso bocazas;;;;;;;;;x
+stern_imperialist;Stern Imperialist;Impérialiste implacable;Ernster Imperialist;;Imperialista a ultranza;;;;;;;;;x
+ruthless_powermonger;Ruthless Powermonger;Assoiffé de pouvoir impitoyable;Skrupelloser Machtmensch;;Déspota implacable;;;;;;;;;x
+autocratic_charmer;Autocratic Charmer;Charmeur autocratique;Autokratischer Charmeur;;Autócrata encantador;;;;;;;;;x
+resigned_generalissimo;Resigned Generalissimo;Généralissime résigné;Resignierter Generalissimus;;Generalísimo en excedencia;;;;;;;;;x
+benevolent_gentleman;Benevolent Gentleman;Gentleman bienveillant;Wohltätiger Gentleman;;Caballero benevolente;;;;;;;;;x
+weary_stiff_neck;Weary Stiff Neck;Entêté fatigué;Erschöpfter Hardliner;;Pisaverde cansino;;;;;;;;;x
+insignificant_layman;Insignificant Layman;Amateur insignifiant;Unbedeutender Laie;;Ciudadanito de a pie;;;;;;;;;x
+die_hard_reformer;Die-Hard Reformer;Réformateur intransigeant;Eingefleischter Reformer;;Reformador acérrimo;;;;;;;;;x
+pig_headed_isolationist;Pig-Headed Isolationist;Isolationniste têtu;Starrköpfiger Isolationist;;Aislacionista empecinado;;;;;;;;;x
+popular_figurehead;Popular Figurehead;Chef de file populaire;Populäre Galionsfigur;;Adorno popular;;;;;;;;;x
+silent_workhorse;Silent Workhorse;Bête de travail silencieuse;Schweigsames Arbeitspferd;;Mulo discreto;;;;;;;;;x
+naive_optimist;Naive Optimist;Optimiste naïf;Naiver Optimist;;Optimista ingenuo;;;;;;;;;x
+flamboyant_tough_guy;Flamboyant Tough Guy;Dur à cuire extravagant;Extravaganter Grobian;;Tipo duro extravagante;;;;;;;;;x
+happy_amateur;Happy Amateur;Amateur heureux;Fröhlicher Amateur;;Aficionado feliz;;;;;;;;;x
+backroom_backstabber;Backroom Backstabber;Traître sournois;Hinterzimmerverräter;;Apuñalador en la sombra;;;;;;;;;x
+smiling_oilman;Smiling Oilman;Roi du pétrole souriant;Grinsender Ölbaron;;Magnate sonriente;;;;;;;;;x
+old_general;Old General;Vieux général;Alter General;;Antiguo general;;;;;;;;;x
+old_admiral;Old Armiral;Vieil amiral;Alter Admiral;;Viejo almirante;;;;;;;;;x
+old_air_marshal;Old Air Marshal;Vieux Général de l'armée de l'air;Alter Fliegermarschall;;Antiguo mariscal del aire;;;;;;;;;x
+political_protege;Political Protege;Protégé politique;Politischer Protégé;;Protegido político;;;;;;;;;x
+ambitious_union_boss;Ambitious Union Boss;Chef syndicaliste ambitieux;Ambitionierter Gewerkschaftsboss;;Jefe sindical ambicioso;;;;;;;;;x
+corporate_suit;Corporate Suit;Costume trois pièces;Konzernler;;Encorbatado;;;;;;;;;x
+research_specialist;Research Specialist;Chercheur;Forschungsspezialist;;Especialista en investigación;;;;;;;;;x
+Terrorist;Terrorist;Chercheur;Forschungsspezialist;;Especialista en investigación;;;;;;;;;x
+Charismatic;Charismatic;Chercheur;Forschungsspezialist;;Especialista en investigación;;;;;;;;;x
+religious_extremist;Religious Extremist;Chercheur;Forschungsspezialist;;Especialista en investigación;;;;;;;;;x
+religious_extremist;Religious Extremist;;;;;;;;;;;;;x
+controversial_figure;Controversial Figure;;;;;;;;;;;;;x
+genocidal_maniac;Genocidal Maniac;;;;;;;;;;;;;x
+resigned_dictator;Resigned Dictator;;;;;;;;;;;;;x
+foreign_puppet;Foreign Puppet;;;;;;;;;;;;;x
+capitalistic_saboteur;Capitalistic Saboteur;;;;;;;;;;;;;x
+open_minded_autocrat;Open Minded Autocrat;;;;;;;;;;;;;x
+peace_making_dove;Peace Making Dove;;;;;;;;;;;;;x
+democratic_spearhead;Democratic Spearhead;;;;;;;;;;;;;x
+good_news_story;Good News Story;;;;;;;;;;;;;x
+runaway_rat;Runaway Rat;;;;;;;;;;;;;x
+euro_enthusiast;Euro Enthusiast;;;;;;;;;;;;;x
+theoretician;Theoretician;;;;;;;;;;;;;x
+bazar_style_diplomat;Bazar Style Diplomat;;;;;;;;;;;;;x
+western_skeptic;Western Skeptic;;;;;;;;;;;;;x
+active_neutrality;Active Neutrality;;;;;;;;;;;;;x
+typical_consensus;Typical Consensus;;;;;;;;;;;;;x
+technocrat;Technocrat;;;;;;;;;;;;;x
+lion_of_panjshir;Lion of Punjshir;;;;;;;;;;;;;x
+dove_policy;Dove Policy;;;;;;;;;;;;;x
+hardliner;Hardliner;;;;;;;;;;;;;x
+strategic_incompetence;Strategic Incompetence;;;;;;;;;;;;;x
+geographically_challenged;Geographically Challenged;;;;;;;;;;;;;x
+communist_enthusiast;Communist Enthusiast;;;;;;;;;;;;;x
+nationalistic_enthusiast;Soviet Era Martyr;;;;;;;;;;;;;x
+western_enthusiast;Western Enthusiast;;;;;;;;;;;;;x
+##################################################;;;;;;;;;;;;;;x
+# Government Types;;;;;;;;;;;;;;x
+##################################################;;;;;;;;;;;;;;x
+dictatorship;Dictatorship;;;;;;;;;;;;;x
+dictatorship_ruler;Leader;;;;;;;;;;;;;x
+constitutional_monarchy;Constitutional Monarchy;;;;;;;;;;;;;x
+constitutional_monarchy_ruler;Your Majesty;;;;;;;;;;;;;x
+presidential_democracy;Presidential Democracy;;;;;;;;;;;;;x
+presidential_democracy_ruler;President;;;;;;;;;;;;;x
+presidential_democracy_fra;Presidential Democracy;;;;;;;;;;;;;x
+presidential_democracy_fra_ruler;President;;;;;;;;;;;;;x
+european_federation;European Federation;;;;;;;;;;;;;x
+european_federation_ruler;President;;;;;;;;;;;;;x
+parliamentary_democracy;Parliamentary Democracy;;;;;;;;;;;;;x
+parliamentary_democracy_ruler;Prime Minister;;;;;;;;;;;;;x
+german_parliamentary_democracy;Parliamentary Democracy;;;;;;;;;;;;;x
+german_parliamentary_democracy_ruler;Chancellor;;;;;;;;;;;;;x
+military_junta;Military Junta;;;;;;;;;;;;;x
+military_junta_ruler;Great Leader;;;;;;;;;;;;;x
+anarchy;Anarchy;;;;;;;;;;;;;x
+anarchy_ruler;Boss;;;;;;;;;;;;;x
+communist_state;Communist State;;;;;;;;;;;;;x
+communist_state_ruler;Premier;;;;;;;;;;;;;x
+absolute_monarchy;Absolute Monarchy;;;;;;;;;;;;;x
+absolute_monarchy_ruler;Great Monarch;;;;;;;;;;;;;x
+islamic_republic;Islamic Republic;;;;;;;;;;;;;x
+islamic_republic_ruler;President;;;;;;;;;;;;;x
+russian_democracy;Russian Democracy;;;;;;;;;;;;;x
+russian_democracy_ruler;President;;;;;;;;;;;;;x
+islamic_theocracy;Theocracy;;;;;;;;;;;;;x
+islamic_theocracy_ruler;Amir;;;;;;;;;;;;;x
+transitional_government;Transitional Government;;;;;;;;;;;;;x
+transitional_government_ruler;Leader;;;;;;;;;;;;;x
+new_world_order;New World Order;;;;;;;;;;;;;x
+##################################################;;;;;;;;;;;;;;x
+# Laws ;;;;;;;;;;;;;;x
+##################################################;;;;;;;;;;;;;;x
+mw_political_parties_laws;§YPolitical Parties Law§W;;;;;;;;;;;;;x
+mw_political_parties_allowed;Political Parties Allowed;;;;;;;;;;;;;x
+mw_political_parties_allowed_desc; ;;;;;;;;;;;;;x
+mw_fictional_oposition;Fictional Oppositon;;;;;;;;;;;;;x
+mw_fictional_oposition_desc; ;;;;;;;;;;;;;x
+mw_harrassment;Political Harrasment;;;;;;;;;;;;;x
+mw_harrassment_desc; ;;;;;;;;;;;;;x
+mw_reppresed_opposition;Reppresed Opposition;;;;;;;;;;;;;x
+mw_reppresed_opposition_desc; ;;;;;;;;;;;;;x
+mw_single_party_state;Single Party State;;;;;;;;;;;;;x
+mw_single_party_state_desc; ;;;;;;;;;;;;;x
+mw_civil_liberties;§YCivil Liberties Law§W;;;;;;;;;;;;;x
+mw_fully_granted_liberties;Fully Granted Liberties;;;;;;;;;;;;;x
+mw_fully_granted_liberties_desc; ;;;;;;;;;;;;;x
+mw_curfew;Curfew;;;;;;;;;;;;;x
+mw_curfew_desc; ;;;;;;;;;;;;;x
+mw_emergency_law;Emergency Law;;;;;;;;;;;;;x
+mw_emergency_law_desc; ;;;;;;;;;;;;;x
+mw_martial_law;Martial Law;;;;;;;;;;;;;x
+mw_martial_law_desc; ;;;;;;;;;;;;;x
+mw_suspended_liberties;Suspended Liberties;;;;;;;;;;;;;x
+mw_suspended_liberties_desc; ;;;;;;;;;;;;;x
+mw_conscription_laws;§YConscription Law§W;;;;;;;;;;;;;x
+mw_volunteer_army;Volunteer Army;;;;;;;;;;;;;x
+mw_volunteer_army_desc; ;;;;;;;;;;;;;x
+mw_one_year_draft;One Year Draft;;;;;;;;;;;;;x
+mw_one_year_draft_desc; ;;;;;;;;;;;;;x
+mw_two_year_draft;Two Year Draft;;;;;;;;;;;;;x
+mw_two_year_draft_desc; ;;;;;;;;;;;;;x
+mw_three_year_draft;Three Year Draft;;;;;;;;;;;;;x
+mw_three_year_draft_desc; ;;;;;;;;;;;;;x
+mw_service_by_requirement;Service By Requirement;;;;;;;;;;;;;x
+mw_service_by_requirement_desc; ;;;;;;;;;;;;;x
+mw_media_laws;§YMedia Freedom Law§W;;;;;;;;;;;;;x
+mw_state_media;State Media Only;;;;;;;;;;;;;x
+mw_state_media_desc; ;;;;;;;;;;;;;x
+mw_cencored_media;Cencored Media;;;;;;;;;;;;;x
+mw_cencored_media_desc; ;;;;;;;;;;;;;x
+mw_free_media;Free Media;;;;;;;;;;;;;x
+mw_free_media_desc; ;;;;;;;;;;;;;x
+mw_public_meetings;§YPublic Meetings Law§W;;;;;;;;;;;;;x
+mw_public_meetings_dissallowed;Public Meetings Disallowed;;;;;;;;;;;;;x
+mw_public_meetings_dissallowed_desc; ;;;;;;;;;;;;;x
+mw_monitored_public_meetings;Monitored Public Meetings;;;;;;;;;;;;;x
+mw_monitored_public_meetings_desc; ;;;;;;;;;;;;;x
+mw_free_public_meetings;Free Public Meetings;;;;;;;;;;;;;x
+mw_free_public_meetings_desc; ;;;;;;;;;;;;;x
+mw_minorities_laws;§YMinority Rights Law§W;;;;;;;;;;;;;x
+mw_prosecuted_minorities;Prosecuted Minorities;;;;;;;;;;;;;x
+mw_prosecuted_minorities_desc; ;;;;;;;;;;;;;x
+mw_ignored_minorities;Ignored Minorities;;;;;;;;;;;;;x
+mw_ignored_minorities_desc; ;;;;;;;;;;;;;x
+mw_protected_minorities;Protected Minority Rights;;;;;;;;;;;;;x
+mw_protected_minorities_desc; ;;;;;;;;;;;;;x
+mw_religion_laws;§YReligious Freedom Law§W;;;;;;;;;;;;;x
+mw_state_religion;State Religion;;;;;;;;;;;;;x
+mw_state_religion_desc; ;;;;;;;;;;;;;x
+mw_banned_religious_institutions;Banned Religious Institutions;;;;;;;;;;;;;x
+mw_banned_religious_institutions_desc; ;;;;;;;;;;;;;x
+mw_freedom_of_religion;Freedom Of Religion;;;;;;;;;;;;;x
+mw_freedom_of_religion_desc; ;;;;;;;;;;;;;x
+mw_military_budget_policy;§YMilitary Budget Law§W;;;;;;;;;;;;;x
+mw_no_military_budget;No Military Budget;;;;;;;;;;;;;x
+mw_no_military_budget_desc; ;;;;;;;;;;;;;x
+mw_low_military_budget;Low Military Budget;;;;;;;;;;;;;x
+mw_low_military_budget_desc; ;;;;;;;;;;;;;x
+mw_medium_military_budget;Medium Military Budget;;;;;;;;;;;;;x
+mw_medium_military_budget_desc; ;;;;;;;;;;;;;x
+mw_high_military_budget;High Military Budget;;;;;;;;;;;;;x
+mw_high_military_budget_desc; ;;;;;;;;;;;;;x
+mw_veryhigh_military_budget;Very High Military Budget;;;;;;;;;;;;;x
+mw_veryhigh_military_budget_desc; ;;;;;;;;;;;;;x
+mw_immigration_laws;§YImmigration Law§W;;;;;;;;;;;;;x
+mw_closed_borders_policy;Closed Borders;;;;;;;;;;;;;x
+mw_closed_borders_policy_desc; ;;;;;;;;;;;;;x
+mw_ristrticted_immigration_policy;Ristricted Immigration;;;;;;;;;;;;;x
+mw_ristrticted_immigration_policy_desc; ;;;;;;;;;;;;;x
+mw_open_immigration_policy;Open Immigration;;;;;;;;;;;;;x
+mw_open_immigration_policy_desc; ;;;;;;;;;;;;;x
+mw_schengen_area;Schengen Area Immigration;;;;;;;;;;;;;x
+mw_schengen_area_desc; ;;;;;;;;;;;;;x
+##################################################;;;;;;;;;;;;;;x
+# Policies ;;;;;;;;;;;;;;x
+##################################################;;;;;;;;;;;;;;x
+mw_tariff_policy;Tariff Policy;;;;;;;;;;;;;x
+mw_low_tariffs;Low Tariffs;;;;;;;;;;;;;x
+mw_low_tariffs_desc; ;;;;;;;;;;;;;x
+mw_medium_tariffs;Medium Tariffs;;;;;;;;;;;;;x
+mw_medium_tariffs_desc; ;;;;;;;;;;;;;x
+mw_high_tariffs;High Tariffs;;;;;;;;;;;;;x
+mw_high_tariffs_desc; ;;;;;;;;;;;;;x
+mw_very_high_tariffs;Very High Tariffs;;;;;;;;;;;;;x
+mw_very_high_tariffs_desc; ;;;;;;;;;;;;;x
+mw_dynamic_tariffs;Dynamic Tarrifs;;;;;;;;;;;;;x
+mw_dynamic_tariffs_desc; ;;;;;;;;;;;;;x
+mw_fiscal_policy;Fiscal Policy;;;;;;;;;;;;;x
+mw_austerity;Austerity;;;;;;;;;;;;;x
+mw_austerity_desc; ;;;;;;;;;;;;;x
+mw_increased_taxation;Increased Taxation;;;;;;;;;;;;;x
+mw_increased_taxation_desc; ;;;;;;;;;;;;;x
+mw_tightly_controlled_spending;Tightly Controlled Spending;;;;;;;;;;;;;x
+mw_tightly_controlled_spending_desc; ;;;;;;;;;;;;;x
+mw_debt_and_loans;Deficit Spending;;;;;;;;;;;;;x
+mw_debt_and_loans_desc; ;;;;;;;;;;;;;x
+mw_high_government_spending;High Government Spending;;;;;;;;;;;;;x
+mw_high_government_spending_desc; ;;;;;;;;;;;;;x
+economic_law;Economic Policy;;;;;;;;;;;;;x
+full_civilian_economy;Full Civilian Economy;;;;;;;;;;;;;x
+full_civilian_economy_desc;By focusing our economy on civilian production, we can generate more cash income for import purchases at the cost of military production.;;;;;;;;;;;;;x
+basic_mobilisation;Basic Mobilisation;;;;;;;;;;;;;x
+basic_mobilisation_desc;By diverting some of our production towards military production, we restrict the production of consumer goods, which reduces our civilian economy.;;;;;;;;;;;;;x
+full_mobilisation;Full Mobilisation;;;;;;;;;;;;;x
+full_mobilisation_desc;By adjusting our economy to a full war economy, we increase the amount of resources available for military production, but at a significant cost for the civilian economy.;;;;;;;;;;;;;x
+war_economy;War Economy;;;;;;;;;;;;;x
+war_economy_desc;By adjusting our economy to a full war economy, we greatly increase the amount of resources available for military production, but at a serious cost for the civilian economy.;;;;;;;;;;;;;x
+total_economic_mobilisation;Total Economic Mobilisation;;;;;;;;;;;;;x
+total_economic_mobilisation_desc;With total economic mobilisation we devastate the consumer sector in order to dramatically increase the amount of IC available.;;;;;;;;;;;;;x
+mw_industrial_policy_laws;Industrial Policy;;;;;;;;;;;;;x
+mw_consumer_product_orientation;Consumer Product Orientation;;;;;;;;;;;;;x
+mw_consumer_product_orientation_desc;Put the greatest share of industrial production into consumer goods production.;;;;;;;;;;;;;x
+mw_mixed_industry;Mixed Industry;;;;;;;;;;;;;x
+mw_mixed_industry_desc;Direct our efforts towards the establishment of a mixed industry.;;;;;;;;;;;;;x
+mw_heavy_industry_emphasis;Heavy Industry Emphasis;;;;;;;;;;;;;x
+mw_heavy_industry_emphasis_desc;Improve industrial efficiency by directing more efforts towards the development of heavy industry.;;;;;;;;;;;;;x
+mw_military_budget_focus;Military Budget Focus;;;;;;;;;;;;;x
+mw_research_and_development;Research and Development;;;;;;;;;;;;;x
+mw_research_and_development_desc; ;;;;;;;;;;;;;x
+mw_ground_forces_focus;Ground Forces Focus;;;;;;;;;;;;;x
+mw_ground_forces_focus_desc; ;;;;;;;;;;;;;x
+mw_air_forces_focus;Air Forces Focus;;;;;;;;;;;;;x
+mw_air_forces_focus_desc; ;;;;;;;;;;;;;x
+mw_naval_forces_focus;Naval Forces Focus;;;;;;;;;;;;;x
+mw_naval_forces_focus_desc; ;;;;;;;;;;;;;x
+mw_balanced_military_focus;Balanced Military Focus;;;;;;;;;;;;;x
+mw_balanced_military_focus_desc; ;;;;;;;;;;;;;x
+mw_training_policy;Military Training Policy;;;;;;;;;;;;;x
+mw_no_training;No Training;;;;;;;;;;;;;x
+mw_no_training_desc; ;;;;;;;;;;;;;x
+mw_minimal_training;Minimal Training;;;;;;;;;;;;;x
+mw_minimal_training_desc; ;;;;;;;;;;;;;x
+mw_basic_training;Basic Training;;;;;;;;;;;;;x
+mw_basic_training_desc; ;;;;;;;;;;;;;x
+mw_advanced_training;Advanced Training;;;;;;;;;;;;;x
+mw_advanced_training_desc; ;;;;;;;;;;;;;x
+mw_specialist_training;Elite Training;;;;;;;;;;;;;x
+mw_specialist_training_desc; ;;;;;;;;;;;;;x
+mw_national_value;National Value;;;;;;;;;;;;;x
+mw_democracy;Democracy;;;;;;;;;;;;;x
+mw_democracy_desc;We are using the various branches of the government to promote the values of liberty and democracy. \nThis will increase the popular vote our democratic political parties will receive.;;;;;;;;;;;;;x
+mw_autocracy;Theocratic;;;;;;;;;;;;;x
+mw_autocracy_desc;We are using the various branches of the government to promote the values of the true faith and those who practise it. \nThis will increase the popular vote our religious political parties will receive.;;;;;;;;;;;;;x
+mw_communism;Communism;;;;;;;;;;;;;x
+mw_communism_desc;We are using the various branches of the government to promote the value of freedom for all workers from the oppression of capitalism. \nThis will increase the popular vote our communist political parties will receive.;;;;;;;;;;;;;x
+mw_nationalism;Nationalism;;;;;;;;;;;;;x
+mw_nationalism_desc;There is nothing more sacred than the country we live in, our enemies come and go but our mountains, hills and rivers will always be there for us as we will be to protect them from foreign occupation. \nThis will increase the popular vote our nationalist political parties will receive.;;;;;;;;;;;;;x
+mw_neutral;Neutral;;;;;;;;;;;;;x
+mw_neutral_desc;We chosen not to interfere in the political process of the country.;;;;;;;;;;;;;x
+##################################################;;;;;;;;;;;;;;x,
+# Occupation Policies;;;;;;;;;;;;;;x,,,,
+##################################################;;;;;;;;;;;;;;x,,,,
+OCCUPIED_COUNTRIES;Occupied Countries;Pays occupés;Besetzte Länder;;Países ocupados;;;;;;;;;x,,,,
+collaboration_government;Collaboration Government;Gouvern. de collaboration;Kollaborationsregierung;;Gobierno colaboracionista;;;;;;;;;x,,,,
+collaboration_government_desc;Instead of governing these conquered territories directly, we can support local sympathisers to govern in our name. By creating a buffer between ourselves and the populace, we reduce the temptation for people to form resistance movements and the collaboration government will encourage like-minded citizens to join our cause. However, they are also highly sensitive to their lack of legitimacy and won’t do anything to jeopardise their support,which will make it harder for us to exploit the area economically.;Au lieu de gouverner directement ces territoires conquis, on peut soutenir les sympathisants locaux pour qu'ils gouvernent à notre place. En créant un tampon entre le peuple et nous, les gens sont moins tentés de former des mouvements de résistance et le ;Anstatt diese eroberten Gebiete direkt zu regieren, können wir lokale Sympathisanten in unserem Namen mit dieser Aufgabe betrauen. Durch Schaffung eines Puffers zwischen uns und der Bevölkerung verringern wir das Risiko, dass sich Widerstandsbewegungen gründen. Darüber hinaus wird die Kollaborationsregierung gleichgesinnten Bürgern nahelegen, unserer Sache beizutreten. Andererseits ist sie sich aber auch der fehlenden Legitimität ihrer Herrschaft bewusst und wird daher nichts unternehmen, was ihren Rückhalt in der Bevölkerung gefährden könnte. Dies macht es uns schwerer, das Gebiet wirtschaftlich auszubeuten.;;En vez de gobernar directamente los territorios conquistados, podemos apoyar a simpatizantes locales para que lo hagan en nuestro nombre. Si creamos un amortiguador entre nosotros y la población, reduciremos su tentación de resistirse y el Gobierno colaboracionista animará a los ciudadanos de su órbita a unirse a nuestra causa. Aun así, también son muy sensibles a su falta de legitimidad y no harán nada que ponga el peligro sus apoyos, dificultando nuestra explotación económica de la zona.;;;;;;;;;x
+military_government;Military Government;Gouvernement militaire;Militärregierung;;Gobierno militar;;;;;;;;;x,,,,
+military_government_desc;By turning government over to our military authorities, the area will be governed by means of a highly literal interpretation of the laws. This is a more efficient way to exploit an area economically than a collaboration government, but a slightly less literal interpretation would allow even more resources to be gathered. Because the government has little sensitivity to local conditions, the people will not be happy, but at the same time the legalistic framework means that people could be more unhappy. ;En plaçant le gouvernement entre les mains de nos autorités militaires, elles gouverneront en prenant les lois au pied de la lettre. C'est une manière plus efficace d'exploiter une région économiquement que le gouvernement de collaboration mais une interp;Die Übergabe der Regierungsgewalt an unsere Militärbürokratie wird in einer sehr strengen Ausübung der Gesetze resultieren. Auf diese Weise kann ein Gebiet wirtschaftlich effizienter ausgebeutet werden, als es unter einer Kollaborationsregierung möglich wäre, doch durch eine weniger strenge Gesetzesauslegung könnten sogar noch mehr Ressourcen gesammelt werden. Da es der Militärregierung an Feingefühl für die örtliche Situation fehlt, wird die lokale Bevölkerung nicht zufrieden sein, doch die strenge Gesetzeslage hält den Deckel auf dem kochenden Topf des Volkszorns.;;Si entregamos el gobierno a las autoridades militares, estas gobernarán con una interpretación muy literal de las reglas. Esto es un modo más eficaz de explotar una zona económicamente que con el Gobierno colaboracionista, pero una interpretación menos literal permitiría la adquisición de incluso más recursos. Dado que el Gobierno tiene una escasa sensibilidad hacia las condiciones locales, el pueblo no estará contento, pero, asimismo, el importante marco legal implica que podría estar más descontento si cabe. ;;;;;;;;;x
+full_occupation;Full occupation;Occupation totale;Vollständige Besetzung;;Ocupación completa;;;;;;;;;x,,,,
+full_occupation_desc;Using civilian administrators and focusing on gaining economic advantage from our occupied territories, we can increase the amount of resources we gather from the area. However, being forced to work for the benefit of our war machine isn’t something that the people look forward to for some reason, and as such local resistance movements will find it easier to gather support. ;En utilisant des administrateurs civils qui concentrent leurs efforts sur l'obtention d'avantages économiques dans nos territoires occupés, nous pouvons augmenter la quantité de ressources en provenance de cette région. Mais bizarrement, les citoyens ne s;Mit Hilfe von Zivilverwaltern, die sich darauf konzentrieren, aus den von uns besetzten Gebieten wirtschaftlich Kapital zu schlagen, können wir die Anzahl der aus diesen Gebieten gewonnenen Ressourcen noch steigern. Aus irgendeinem Grund kann sich die lokale Bevölkerung jedoch etwas Besseres vorstellen, als zur Arbeit in unserer Kriegsmaschinerie gezwungen zu werden - was auch erklärt, warum sich die lokalen Widerstandsbewegungen enormen Zulaufs erfreuen.;;Si los administradores civiles se centran en obtener ventajas económicas de nuestros territorios ocupados, podemos aumentar los recursos obtenidos de dichas zonas. No obstante, verse obligados a trabajar para el beneficio de nuestra maquinaria bélica no es lo más deseable para el pueblo, y es una forma de que los movimientos de resistencia locales ganen apoyos. ;;;;;;;;;x,
+total_exploitation;Total Exploitation;Exploitation totale;Totale Ausbeutung;;Explotación total;;;;;;;;;x,,,,
+total_exploitation_desc;The gloves are off, and we don’t care if you are a totally corrupt carpetbagger, as long as you know how to exploit a country. These are the kinds of people we are going to unleash on the populace. This will maximise our own benefits, with some of the proceeds being lost to ensure that our ‘administrators’ are properly rewarded. Now of course the people will be upset at this, but hey - we need to keep our occupation troops sharp.;"On ne prend plus de gants, ça nous est égal que vous soyez un opportuniste corrompu jusqu'à la moelle, tant que vous savez comment exploiter un pays. C'est le genre de personne qu'on va lâcher sur la population. Cela va maximiser nos bénéfices mais on devra prendre compte quelques pertes, afin de s'assurer que nos ""administrateurs"" soient récompensés comme ils le méritent. Cela risque de ne pas plaire aux gens mais bon, on doit bien veiller à ce que nos troupes d'occupation gardent la forme.";So, jetzt ist Schluss mit lustig! ‘Sie sind völlig korrupt und lügen, dass sich die Balken biegen? Ist uns alles egal, wenn Sie nur wissen, wie man ein Land ausbeutet!’ Diese Art von Leuten werden wir nun auf die Bevölkerung loslassen. Dadurch werden wir unsere Gewinne maximieren, auch wenn unsere sauberen ‘Verwalter’ einen Teil für sich selbst abzweigen. Natürlich wird sich die Bevölkerung gegen sie auflehnen, aber was soll's? Schusstraining unter Realbedingungen für unsere Besatzungstruppen ist nie verkehrt ...;;"Guantes fuera. No nos importa si eres un aventurero corrupto, siempre que sepas como explotar el país. Este es el tipo de personas que esquilman a la población. Así, maximizaremos nuestros beneficios, perdiendo parte de ellos para asegurar que nuestros administradores"" reciban su recompensa. Pero la gente acabará muy descontenta, y nuestras tropas de ocupación tendrán que estar alerta. """;;;;;;;;;x
+no_occupation;No Occupation;Pas d'occupation;Keine Besetzung;;No ocupado;;;;;;;;;x,,,,
+no_occupation_desc;This is never displayed.;Cela n'est jamais affiché.;Dies wird nie angezeigt.;;Esto no aparece nunca.;;;;;;;;;x,,,,
+##################################################;;;;;;;;;;;;;;x,,,,
+# Rebels;;;;;;;;;;;;;;x,,,,
+##################################################;;;;;;;;;;;;;;x,,,,
+nationalist_rebels_title;Nationalist;Nationaliste;Nationalist;;Nacionalistas;;;;;;;;;x,
+nationalist_rebels_name;$INDEP$ Nationalists;$INDEP$ Nationalistes;$INDEP$ Nationalisten;;Nacionalistas de $INDEP$;;;;;;;;;x,
+nationalist_rebels_desc;Nationalist rebels seek freedom for their people. They are well led and equipped, and they will focus on achieving independence for their nation.;Les rebels nationalistes veulent la liberté pour leur peuple. Ils sont bien menés et bien équipés et ils vont se concentrer sur l'obtention de l'indépendance pour leur nation.;Nationalistische Rebellen kämpfen für die Freiheit ihres Volkes.  Gut diszipliniert und ausgerüstet konzentrieren sich auf die Erlangung der Unabhängigkeit für ihr Land.;;Los rebeldes nacionalistas buscan la libertad de su pueblo. Están bien dirigidos y equipados, y se afanarán en lograr la independencia de su nación.;;;;;;;;;x
+nationalist_rebels_army;$COUNTRY$ Nationalists;$COUNTRY$ Nationalistes;$COUNTRY$ Nationalisten;;Nacionalistas de $COUNTRY$;;;;;;;;;x,
+patriot_rebels_title;Patriot;Patriote;Patriot;;Patriotas;;;;;;;;;x,
+patriot_rebels_name;$INDEP$ Patriots;$INDEP$ Patriotes;$INDEP$ Patrioten;;Patriotas de $INDEP$;;;;;;;;;x,
+patriot_rebels_desc;Patriot rebels dream of unification with their cultural kin under a free banner. Beware, for provinces taken by them may defect.;Les rebels patriotes rêvent d'être unifiés à leur tribu culturelle sous une bannière libre. Prenez garde, les provinces sous leur contrôle peuvent déserter.;Patriotische Rebellen träumen davon, mit ihren Gleichgesinnten einen eigenen Staat zu gründen. Seien Sie auf der Hut, denn von diesen Rebellen übernommene Provinzen könnten sich abspalten.;;Los rebeldes patriotas sueñan con la unificación de su ámbito cultural bajo una bandera soberana. Cuidado, pues las provincias que caigan en sus manos pueden desertar.;;;;;;;;;x
+patriot_rebels_army;$COUNTRY$ Patriots;$COUNTRY$ Patriotes;$COUNTRY$ Patrioten;;Patriotas de $COUNTRY$;;;;;;;;;x,
+partisans_title;Partisans;Partisans;Partisanen;;Partisanos;;;;;;;;;x,
+partisans_name;Partisans;Partisans;Partisanen;;Partisanos;;;;;;;;;x,
+partisans_desc;Partisans fight against enemy occupiers, and they dream of expelling their enemy from the country.;Les partisans se battent contre l'occupant ennemi tout en rêvant de chasser leur ennemi du pays.;Partisanen kämpfen gegen feindliche Besatzungstruppen und träumen davon, den Feind aus ihrem Land zu vertreiben.;;Los partisanos luchan contra el enemigo ocupante y albergan el sueño de expulsarlo de su país.;;;;;;;;;x
+partisans_army;$COUNTRY$ Partisans;$COUNTRY$ Partisans;$COUNTRY$ Partisanen;;Partisanos de $COUNTRY$;;;;;;;;;x,
+disgruntled_rabble_title;Disgruntled Rabble;Populace en colère;Aufstand gegen die Besatzer;;Chusma descontenta;;;;;;;;;x,
+disgruntled_rabble_name;Disgruntled Rabble;Populace en colère;Aufstand gegen die Besatzer;;Chusma descontenta;;;;;;;;;x,
+disgruntled_rabble_desc;These are dissatisfied citizens that have formed a big mob focused merely on looting and pillaging.;Ce sont des citoyens mécontents qui ont formé une foule dont le but est principalement le pillage.;Widerstandskämpfer in dieser Provinz haben sich organsiert und die Kontrolle an sich gerissen.;;Se trata de ciudadanos insatisfechos que han formado una gran chusma cuyo único objetivo es el saqueo y el pillaje.;;;;;;;;;x,
+disgruntled_rabble_army;$COUNTRY$ Revolters;$COUNTRY$ Révoltés;$COUNTRY$ Revoluzzer;;Rebeldes de $COUNTRY$;;;;;;;;;x,

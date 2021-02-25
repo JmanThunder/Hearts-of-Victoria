@@ -1,0 +1,9 @@
+owner=BRU
+controller=BRU
+add_core=BRU
+infra = 5
+naval_base = 3
+air_base = 5
+energy = 4.00
+crude_oil = 180.00
+points = 12

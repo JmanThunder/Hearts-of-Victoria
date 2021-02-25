@@ -1,0 +1,12 @@
+owner = ALG
+controller = ALG
+add_core = ALG
+terrain = urban
+infra = 5
+naval_base = 4
+air_base = 5
+points = 5
+manpower = 5.00
+industry = 3
+leadership = 3.00
+energy = 9.00

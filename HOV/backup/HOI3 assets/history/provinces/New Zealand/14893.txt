@@ -1,0 +1,6 @@
+owner = NZL
+controller = NZL
+add_core = NZL
+terrain = plains
+infra = 4
+naval_base = 1

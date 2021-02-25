@@ -1,0 +1,6 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = SUR
+infra = 1
+rare_materials = 3.00

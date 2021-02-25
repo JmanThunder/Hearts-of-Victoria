@@ -1,0 +1,5 @@
+owner = MRT
+controller = MRT
+add_core = MRT
+infra = 4
+naval_base = 1

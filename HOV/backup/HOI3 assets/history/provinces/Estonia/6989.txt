@@ -1,0 +1,5 @@
+owner = EST
+controller = EST
+add_core = EST
+infra = 6
+land_fort = 3

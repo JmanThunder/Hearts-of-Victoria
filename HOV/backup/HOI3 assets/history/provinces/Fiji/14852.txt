@@ -1,0 +1,6 @@
+owner = FJI
+controller = FJI
+add_core = FJI
+infra = 4
+naval_base = 1
+air_base = 1

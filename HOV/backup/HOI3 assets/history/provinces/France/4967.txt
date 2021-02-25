@@ -1,0 +1,12 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+terrain = urban
+infra = 9
+points = 7
+industry = 5
+manpower = 5.00
+
+2001.9.21 = {
+infra = 7
+}

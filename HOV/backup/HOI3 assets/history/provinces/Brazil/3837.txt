@@ -1,0 +1,12 @@
+owner = BRA
+controller = BRA
+add_core = BRA
+infra = 7
+terrain = urban
+points = 12
+industry = 5
+energy = 10.00
+manpower = 9.00
+metal = 5.00
+leadership = 5.00
+air_base = 5

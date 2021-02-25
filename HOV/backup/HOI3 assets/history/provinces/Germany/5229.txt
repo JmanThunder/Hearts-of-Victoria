@@ -1,0 +1,7 @@
+owner = GER
+controller = GER
+add_core = GER
+terrain = urban
+infra = 8
+points = 5
+industry = 10

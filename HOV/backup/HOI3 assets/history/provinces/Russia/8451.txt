@@ -1,0 +1,5 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+air_base = 6
+infra = 3

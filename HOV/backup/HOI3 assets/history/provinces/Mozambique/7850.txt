@@ -1,0 +1,4 @@
+owner = MOZ
+controller = MOZ
+add_core = MOZ
+infra = 4

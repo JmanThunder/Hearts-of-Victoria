@@ -1,0 +1,11 @@
+owner = AST
+controller = AST
+add_core = AST
+terrain = urban
+infra = 7
+points = 6
+air_base = 1
+naval_base = 5
+industry = 7
+energy = 5.00
+leadership = 3.00

@@ -1,0 +1,6 @@
+owner = LIT
+controller = LIT
+add_core = LIT
+infra = 6
+naval_base = 1
+land_fort = 3

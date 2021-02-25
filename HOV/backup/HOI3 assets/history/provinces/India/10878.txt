@@ -1,0 +1,6 @@
+owner = IND
+controller = IND
+add_core = IND
+infra = 4
+crude_oil = 4.00
+air_base = 5

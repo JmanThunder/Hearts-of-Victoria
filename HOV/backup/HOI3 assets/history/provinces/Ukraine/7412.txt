@@ -1,0 +1,12 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+terrain = urban
+infra = 5
+points = 9
+naval_base = 3
+2014.4.7 = {
+owner = REB
+controller = REB
+add_core = UKR
+}

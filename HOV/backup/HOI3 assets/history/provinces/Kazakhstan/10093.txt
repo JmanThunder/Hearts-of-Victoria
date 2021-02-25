@@ -1,0 +1,6 @@
+owner = KAZ
+controller = KAZ
+add_core = KAZ
+infra = 4
+air_base = 5
+points = 7

@@ -1,0 +1,4 @@
+owner = TOG
+controller = TOG
+add_core = TOG
+infra = 4

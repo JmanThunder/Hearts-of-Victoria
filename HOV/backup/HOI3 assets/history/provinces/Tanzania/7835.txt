@@ -1,0 +1,5 @@
+owner = TNZ
+controller = TNZ
+add_core = TNZ
+infra = 2
+energy = 4.00

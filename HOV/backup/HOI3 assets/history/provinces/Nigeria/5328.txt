@@ -1,0 +1,4 @@
+owner = NIG
+controller = NIG
+add_core = NIG
+infra = 2

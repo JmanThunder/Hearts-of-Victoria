@@ -1,0 +1,6 @@
+owner = SOT
+controller = SOT
+add_core = GEO
+infra = 3
+land_fort = 3
+points = 3

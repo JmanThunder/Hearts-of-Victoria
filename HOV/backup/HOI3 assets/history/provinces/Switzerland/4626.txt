@@ -1,0 +1,10 @@
+owner = SCH
+controller = SCH
+add_core = SCH
+infra = 8
+points = 12
+terrain = urban
+air_base = 1
+industry = 5
+leadership = 3.00
+manpower = 3.00

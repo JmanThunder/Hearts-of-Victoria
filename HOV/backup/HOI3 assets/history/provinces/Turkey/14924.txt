@@ -1,0 +1,11 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+terrain = urban
+infra = 7
+naval_base = 6
+air_base = 5
+points = 10
+industry = 6
+manpower = 10.00
+leadership = 6.00

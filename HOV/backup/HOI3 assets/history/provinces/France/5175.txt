@@ -1,0 +1,12 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+terrain = urban
+infra = 9
+air_base = 5
+points = 8
+industry = 5
+energy = 10.00
+manpower = 5.00
+leadership = 5.00
+naval_base = 6

@@ -1,0 +1,4 @@
+owner = BHM
+controller = BHM
+add_core = BHM
+infra = 4

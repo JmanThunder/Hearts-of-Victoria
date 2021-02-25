@@ -1,0 +1,6 @@
+owner = IND
+controller = IND
+add_core = IND
+terrain = urban
+infra = 3
+points = 3

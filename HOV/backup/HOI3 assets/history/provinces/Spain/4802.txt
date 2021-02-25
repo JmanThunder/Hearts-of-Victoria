@@ -1,0 +1,4 @@
+owner = SPA
+controller = SPA
+add_core = SPA
+infra = 8

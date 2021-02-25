@@ -1,0 +1,6 @@
+owner = UKR
+controller = UKR
+add_core = UKR
+infra = 6
+crude_oil = 1.00
+land_fort = 3

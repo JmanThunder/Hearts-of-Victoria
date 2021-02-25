@@ -1,0 +1,6 @@
+owner = ALG
+controller = ALG
+add_core = ALG
+infra = 4
+crude_oil = 5.00
+energy = 3.00

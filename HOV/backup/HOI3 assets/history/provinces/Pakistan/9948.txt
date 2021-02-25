@@ -1,0 +1,4 @@
+owner = PAK
+controller = PAK
+add_core = PAK
+infra = 3

@@ -1,0 +1,5 @@
+owner = JMC
+controller = JMC
+add_core = JMC
+infra = 4
+

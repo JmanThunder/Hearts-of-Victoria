@@ -1,0 +1,5 @@
+owner = SLC
+controller = SLC
+add_core = SLC
+infra = 4
+naval_base = 1

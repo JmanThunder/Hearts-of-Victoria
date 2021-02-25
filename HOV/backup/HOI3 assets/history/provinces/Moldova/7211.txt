@@ -1,0 +1,9 @@
+owner = MOL
+controller = MOL
+add_core = MOL
+points = 12
+terrain = urban
+infra = 6
+air_base = 1
+energy = 4.00
+land_fort = 3

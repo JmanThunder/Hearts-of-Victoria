@@ -1,0 +1,5 @@
+owner = GAB
+controller = GAB
+add_core = GAB
+infra = 4
+rare_materials = 10.00

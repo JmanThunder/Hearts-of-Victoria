@@ -1,0 +1,7 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+terrain = urban
+infra = 4
+air_base = 8
+points = 2

@@ -1,0 +1,5 @@
+owner = SPA
+controller = SPA
+add_core = SPA
+infra = 8
+metal = 5.00

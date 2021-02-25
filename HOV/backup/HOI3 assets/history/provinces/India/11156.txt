@@ -1,0 +1,12 @@
+owner = IND
+controller = IND
+add_core = IND
+add_core = BGL
+infra = 3
+2000.1.1 = {
+	infra = 2
+}
+
+2011.9.5 = {
+    remove_core = BGL	
+}

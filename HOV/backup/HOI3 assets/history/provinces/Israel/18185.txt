@@ -1,0 +1,6 @@
+owner = ISR
+controller = ISR
+add_core = ISR
+add_core = PAL
+infra = 7
+points = 5

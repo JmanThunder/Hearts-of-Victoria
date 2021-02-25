@@ -1,0 +1,5 @@
+owner = CNG
+controller = CNG
+add_core = CNG
+infra = 2
+naval_base = 1

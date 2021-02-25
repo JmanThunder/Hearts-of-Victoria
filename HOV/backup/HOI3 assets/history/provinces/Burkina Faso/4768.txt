@@ -1,0 +1,4 @@
+owner = BKN
+controller = BKN
+add_core = BKN
+infra = 2

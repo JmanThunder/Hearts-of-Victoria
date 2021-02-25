@@ -1,0 +1,6 @@
+owner = BLZ
+controller = BLZ
+add_core = BLZ
+add_core = GUA
+infra = 4
+naval_base = 1

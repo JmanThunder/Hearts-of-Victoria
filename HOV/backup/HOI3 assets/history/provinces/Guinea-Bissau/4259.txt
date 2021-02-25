@@ -1,0 +1,4 @@
+owner = GUB
+controller = GUB
+add_core = GUB
+infra = 4

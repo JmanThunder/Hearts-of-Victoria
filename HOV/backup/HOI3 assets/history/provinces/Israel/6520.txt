@@ -1,0 +1,5 @@
+owner = PAL
+controller = PAL
+add_core = PAL
+infra = 3
+energy = 4.00

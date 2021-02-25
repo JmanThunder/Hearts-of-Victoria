@@ -1,0 +1,8 @@
+owner = ROM
+controller = ROM
+add_core=ROM
+infra = 7
+naval_base = 3
+manpower = 5.00
+crude_oil = 2.00
+land_fort = 3

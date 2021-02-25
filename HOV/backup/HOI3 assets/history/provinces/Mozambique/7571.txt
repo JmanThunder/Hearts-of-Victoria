@@ -1,0 +1,5 @@
+owner = MOZ
+controller = MOZ
+add_core = MOZ
+infra = 4
+manpower = 10.00

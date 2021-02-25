@@ -1,0 +1,6 @@
+owner = MLD
+controller = MLD
+add_core = MLD
+infra = 4
+air_base = 1
+naval_base = 1

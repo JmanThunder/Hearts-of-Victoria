@@ -1,0 +1,9 @@
+owner = SRL
+controller = SRL
+add_core = SRL
+points = 12
+terrain = urban
+infra = 4
+naval_base = 4
+air_base = 5
+manpower = 8.00

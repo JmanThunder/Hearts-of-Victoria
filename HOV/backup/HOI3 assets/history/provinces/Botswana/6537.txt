@@ -1,0 +1,4 @@
+owner = BOT
+controller = BOT
+add_core = BOT
+infra = 4

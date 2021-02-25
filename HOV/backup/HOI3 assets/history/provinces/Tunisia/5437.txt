@@ -1,0 +1,4 @@
+owner = TUN
+controller = TUN
+add_core = TUN
+infra = 2
